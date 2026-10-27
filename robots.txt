@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://football-tv.today/sitemap.xml
