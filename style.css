@@ -1,3 +1,6 @@
+*, *::before, *::after { box-sizing: border-box; }
+[hidden] { display: none !important; }
+img { max-width: 100%; }
 /* Layout: one phone-width column, an EPG-style listing grouped by kick-off time. */
 :root {
   --bg: #eef1f4;
@@ -25,7 +28,7 @@
   --onair: #ff5a68; --sky: #8fb0ff; --skyplus: #a9b6ec; --tnt: #5fd0c6; --fta: #f0b955; --chip-bg: #22303b;
   color-scheme: dark }
 
-body { background: var(--bg); color: var(--ink); font: 400 1rem/1.45 var(--body); }
+body { margin: 0; background: var(--bg); color: var(--ink); font: 400 1rem/1.45 var(--body); }
 .wrap { max-width: 44rem; margin: 0 auto; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); padding-block: 0 3rem; }
 a { color: inherit; }
 .mock { font-size: .8rem; color: var(--muted); border-bottom: 1px dashed var(--line); padding-block: .5rem; }
