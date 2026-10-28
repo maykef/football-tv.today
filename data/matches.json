@@ -1,138 +1,5 @@
 [
  {
-  "id": "2026-10-27-afc-wimbledon-v-arsenal-u21",
-  "url": "https://football-tv.today/match/2026-10-27-afc-wimbledon-v-arsenal-u21/",
-  "competition": "EFL Trophy",
-  "home": "AFC Wimbledon",
-  "away": "Arsenal U21",
-  "kickoff": "2026-10-27T18:00:00+00:00",
-  "channels": [
-   "Sky Sports+"
-  ],
-  "updated": "2026-10-27T16:20:37.513182+00:00"
- },
- {
-  "id": "2026-10-27-blackpool-v-aston-villa-u21",
-  "url": "https://football-tv.today/match/2026-10-27-blackpool-v-aston-villa-u21/",
-  "competition": "EFL Trophy",
-  "home": "Blackpool",
-  "away": "Aston Villa U21",
-  "kickoff": "2026-10-27T19:00:00+00:00",
-  "channels": [
-   "Sky Sports+"
-  ],
-  "updated": "2026-10-27T16:20:37.513182+00:00"
- },
- {
-  "id": "2026-10-27-port-vale-v-manchester-city-u21",
-  "url": "https://football-tv.today/match/2026-10-27-port-vale-v-manchester-city-u21/",
-  "competition": "EFL Trophy",
-  "home": "Port Vale",
-  "away": "Manchester City U21",
-  "kickoff": "2026-10-27T19:00:00+00:00",
-  "channels": [
-   "Sky Sports+"
-  ],
-  "updated": "2026-10-27T16:20:37.513182+00:00"
- },
- {
-  "id": "2026-10-27-shrewsbury-town-v-everton-u21",
-  "url": "https://football-tv.today/match/2026-10-27-shrewsbury-town-v-everton-u21/",
-  "competition": "EFL Trophy",
-  "home": "Shrewsbury Town",
-  "away": "Everton U21",
-  "kickoff": "2026-10-27T19:00:00+00:00",
-  "channels": [
-   "Sky Sports+"
-  ],
-  "updated": "2026-10-27T16:20:37.513182+00:00"
- },
- {
-  "id": "2026-10-27-barnet-v-york-city",
-  "url": "https://football-tv.today/match/2026-10-27-barnet-v-york-city/",
-  "competition": "League Two",
-  "home": "Barnet",
-  "away": "York City",
-  "kickoff": "2026-10-27T19:45:00+00:00",
-  "channels": [
-   "Sky Sports+"
-  ],
-  "updated": "2026-10-27T13:17:55.023172+00:00"
- },
- {
-  "id": "2026-10-27-bradford-city-v-peterborough-united",
-  "url": "https://football-tv.today/match/2026-10-27-bradford-city-v-peterborough-united/",
-  "competition": "Carabao Cup",
-  "home": "Bradford City",
-  "away": "Peterborough United",
-  "kickoff": "2026-10-27T19:45:00+00:00",
-  "channels": [
-   "Sky Sports+"
-  ],
-  "updated": "2026-10-27T16:20:37.513182+00:00"
- },
- {
-  "id": "2026-10-27-leicester-city-v-wigan-athletic",
-  "url": "https://football-tv.today/match/2026-10-27-leicester-city-v-wigan-athletic/",
-  "competition": "League One",
-  "home": "Leicester City",
-  "away": "Wigan Athletic",
-  "kickoff": "2026-10-27T19:45:00+00:00",
-  "channels": [
-   "Sky Sports+"
-  ],
-  "updated": "2026-10-27T13:17:55.023172+00:00"
- },
- {
-  "id": "2026-10-27-luton-town-v-doncaster-rovers",
-  "url": "https://football-tv.today/match/2026-10-27-luton-town-v-doncaster-rovers/",
-  "competition": "League One",
-  "home": "Luton Town",
-  "away": "Doncaster Rovers",
-  "kickoff": "2026-10-27T19:45:00+00:00",
-  "channels": [
-   "Sky Sports+"
-  ],
-  "updated": "2026-10-27T13:17:55.023172+00:00"
- },
- {
-  "id": "2026-10-27-oxford-united-v-stockport-county",
-  "url": "https://football-tv.today/match/2026-10-27-oxford-united-v-stockport-county/",
-  "competition": "League One",
-  "home": "Oxford United",
-  "away": "Stockport County",
-  "kickoff": "2026-10-27T19:45:00+00:00",
-  "channels": [
-   "Sky Sports+"
-  ],
-  "updated": "2026-10-27T13:17:55.023172+00:00"
- },
- {
-  "id": "2026-10-27-sheffield-wednesday-v-cambridge-united",
-  "url": "https://football-tv.today/match/2026-10-27-sheffield-wednesday-v-cambridge-united/",
-  "competition": "League One",
-  "home": "Sheffield Wednesday",
-  "away": "Cambridge United",
-  "kickoff": "2026-10-27T19:45:00+00:00",
-  "channels": [
-   "Sky Sports+"
-  ],
-  "updated": "2026-10-27T13:17:55.023172+00:00"
- },
- {
-  "id": "2026-10-27-fleetwood-town-v-arsenal",
-  "url": "https://football-tv.today/match/2026-10-27-fleetwood-town-v-arsenal/",
-  "competition": "Carabao Cup",
-  "home": "Fleetwood Town",
-  "away": "Arsenal",
-  "kickoff": "2026-10-27T20:00:00+00:00",
-  "channels": [
-   "Sky Sports Main Event",
-   "Sky Sports Football"
-  ],
-  "updated": "2026-10-27T16:20:37.513182+00:00"
- },
- {
   "id": "2026-10-28-aston-villa-women-v-birmingham-city-women",
   "url": "https://football-tv.today/match/2026-10-28-aston-villa-women-v-birmingham-city-women/",
   "competition": "Women's League Cup",
@@ -348,7 +215,7 @@
   "channels": [
    "Sky Sports Premier League"
   ],
-  "updated": "2026-10-27T15:41:39.547571+00:00"
+  "updated": "2026-10-28T11:05:00.000908+00:00"
  },
  {
   "id": "2026-10-31-bournemouth-v-leeds-united",
@@ -447,7 +314,7 @@
   "channels": [
    "Sky Sports+"
   ],
-  "updated": "2026-10-27T15:41:39.547571+00:00"
+  "updated": "2026-10-28T11:05:00.000908+00:00"
  },
  {
   "id": "2026-11-01-london-city-lionesses-v-manchester-city-women",
@@ -459,7 +326,7 @@
   "channels": [
    "Sky Sports Premier League"
   ],
-  "updated": "2026-10-27T15:41:39.547571+00:00"
+  "updated": "2026-10-28T11:05:00.000908+00:00"
  },
  {
   "id": "2026-11-01-falkirk-v-celtic",
@@ -485,7 +352,7 @@
    "YouTube",
    "Sky Sports+"
   ],
-  "updated": "2026-10-27T15:41:39.547571+00:00"
+  "updated": "2026-10-28T11:05:00.000908+00:00"
  },
  {
   "id": "2026-11-01-brighton-and-hove-albion-women-v-crystal-palace-women",
@@ -498,7 +365,7 @@
    "YouTube",
    "Sky Sports+"
   ],
-  "updated": "2026-10-27T15:41:39.547571+00:00"
+  "updated": "2026-10-28T11:05:00.000908+00:00"
  },
  {
   "id": "2026-11-01-west-ham-united-women-v-liverpool-women",
@@ -511,7 +378,7 @@
    "YouTube",
    "Sky Sports+"
   ],
-  "updated": "2026-10-27T15:41:39.547571+00:00"
+  "updated": "2026-10-28T11:05:00.000908+00:00"
  },
  {
   "id": "2026-11-01-charlton-athletic-women-v-chelsea-women",
@@ -648,6 +515,16 @@
   "updated": "2026-10-27T13:17:55.023172+00:00"
  },
  {
+  "id": "2026-11-03-northampton-town-v-oldham-athletic",
+  "url": "https://football-tv.today/match/2026-11-03-northampton-town-v-oldham-athletic/",
+  "competition": "League Two",
+  "home": "Northampton Town",
+  "away": "Oldham Athletic",
+  "kickoff": "2026-11-03T19:45:00+00:00",
+  "channels": [],
+  "updated": "2026-10-28T10:31:45.983302+00:00"
+ },
+ {
   "id": "2026-11-03-portsmouth-v-swansea-city",
   "url": "https://football-tv.today/match/2026-11-03-portsmouth-v-swansea-city/",
   "competition": "Championship",
@@ -694,6 +571,16 @@
    "Sky Sports+"
   ],
   "updated": "2026-10-27T13:17:55.023172+00:00"
+ },
+ {
+  "id": "2026-11-03-wigan-athletic-v-mansfield-town",
+  "url": "https://football-tv.today/match/2026-11-03-wigan-athletic-v-mansfield-town/",
+  "competition": "League One",
+  "home": "Wigan Athletic",
+  "away": "Mansfield Town",
+  "kickoff": "2026-11-03T19:45:00+00:00",
+  "channels": [],
+  "updated": "2026-10-28T10:31:45.983302+00:00"
  },
  {
   "id": "2026-11-03-birmingham-city-v-millwall",
@@ -865,7 +752,7 @@
   "channels": [
    "Sky Sports Premier League"
   ],
-  "updated": "2026-10-27T15:41:39.547571+00:00"
+  "updated": "2026-10-28T11:05:00.000908+00:00"
  },
  {
   "id": "2026-11-07-manchester-city-women-v-west-ham-united-women",
@@ -877,7 +764,7 @@
   "channels": [
    "Sky Sports Mix"
   ],
-  "updated": "2026-10-27T15:41:39.547571+00:00"
+  "updated": "2026-10-28T11:05:00.000908+00:00"
  },
  {
   "id": "2026-11-07-arsenal-v-hull-city",
@@ -960,7 +847,7 @@
    "YouTube",
    "Sky Sports Mix"
   ],
-  "updated": "2026-10-27T15:41:39.547571+00:00"
+  "updated": "2026-10-28T11:05:00.000908+00:00"
  },
  {
   "id": "2026-11-08-durham-women-v-sunderland-women",
@@ -984,7 +871,7 @@
   "channels": [
    "Sky Sports Football"
   ],
-  "updated": "2026-10-27T15:41:39.547571+00:00"
+  "updated": "2026-10-28T11:05:00.000908+00:00"
  },
  {
   "id": "2026-11-08-stafford-rangers-v-grimsby-town",
@@ -1033,7 +920,7 @@
    "YouTube",
    "Sky Sports+"
   ],
-  "updated": "2026-10-27T15:41:39.547571+00:00"
+  "updated": "2026-10-28T11:05:00.000908+00:00"
  },
  {
   "id": "2026-11-08-ipswich-town-v-bournemouth",
@@ -1106,7 +993,7 @@
    "YouTube",
    "Sky Sports Mix"
   ],
-  "updated": "2026-10-27T15:41:39.547571+00:00"
+  "updated": "2026-10-28T11:05:00.000908+00:00"
  },
  {
   "id": "2026-11-08-wolverhampton-wanderers-women-v-nottingham-forest-women",
@@ -1424,6 +1311,16 @@
   "updated": "2026-10-27T16:20:37.513182+00:00"
  },
  {
+  "id": "2026-11-11-sheffield-wednesday-v-accrington-stanley",
+  "url": "https://football-tv.today/match/2026-11-11-sheffield-wednesday-v-accrington-stanley/",
+  "competition": "EFL Trophy",
+  "home": "Sheffield Wednesday",
+  "away": "Accrington Stanley",
+  "kickoff": "2026-11-11T19:00:00+00:00",
+  "channels": [],
+  "updated": "2026-10-28T10:31:45.983302+00:00"
+ },
+ {
   "id": "2026-11-11-tottenham-hotspur-women-v-crystal-palace-women",
   "url": "https://football-tv.today/match/2026-11-11-tottenham-hotspur-women-v-crystal-palace-women/",
   "competition": "Women's League Cup",
@@ -1469,7 +1366,7 @@
   "channels": [
    "Sky Sports Premier League"
   ],
-  "updated": "2026-10-27T15:41:39.547571+00:00"
+  "updated": "2026-10-28T11:05:00.000908+00:00"
  },
  {
   "id": "2026-11-14-chelsea-women-v-manchester-city-women",
@@ -1697,7 +1594,7 @@
   "channels": [
    "Sky Sports Premier League"
   ],
-  "updated": "2026-10-27T15:41:39.547571+00:00"
+  "updated": "2026-10-28T11:05:00.000908+00:00"
  },
  {
   "id": "2026-11-14-walsall-v-barnet",
@@ -1746,7 +1643,7 @@
    "Sky Sports Premier League",
    "YouTube"
   ],
-  "updated": "2026-10-27T15:41:39.547571+00:00"
+  "updated": "2026-10-28T11:05:00.000908+00:00"
  },
  {
   "id": "2026-11-14-fleetwood-town-v-tranmere-rovers",
@@ -1795,7 +1692,7 @@
   "channels": [
    "Sky Sports Premier League"
   ],
-  "updated": "2026-10-27T15:41:39.547571+00:00"
+  "updated": "2026-10-28T11:05:00.000908+00:00"
  },
  {
   "id": "2026-11-15-burnley-women-v-southampton-women",
@@ -1856,7 +1753,7 @@
    "YouTube",
    "Sky Sports Mix"
   ],
-  "updated": "2026-10-27T15:41:39.547571+00:00"
+  "updated": "2026-10-28T11:05:00.000908+00:00"
  },
  {
   "id": "2026-11-15-wolverhampton-wanderers-women-v-durham-women",
@@ -1881,7 +1778,7 @@
    "Sky Sports Main Event",
    "Sky Sports Premier League"
   ],
-  "updated": "2026-10-27T15:41:39.547571+00:00"
+  "updated": "2026-10-28T11:05:00.000908+00:00"
  },
  {
   "id": "2026-11-15-spain-v-england",
@@ -2039,7 +1936,7 @@
    "Sky Sports Premier League",
    "Sky Sports Mix"
   ],
-  "updated": "2026-10-27T15:41:39.547571+00:00"
+  "updated": "2026-10-28T11:05:00.000908+00:00"
  },
  {
   "id": "2026-11-21-aston-villa-v-sunderland",
@@ -2101,7 +1998,7 @@
   "channels": [
    "Sky Sports+"
   ],
-  "updated": "2026-10-27T15:41:39.547571+00:00"
+  "updated": "2026-10-28T11:05:00.000908+00:00"
  },
  {
   "id": "2026-11-21-newcastle-united-v-arsenal",
@@ -2138,7 +2035,7 @@
   "channels": [
    "Sky Sports+"
   ],
-  "updated": "2026-10-27T15:41:39.547571+00:00"
+  "updated": "2026-10-28T11:05:00.000908+00:00"
  },
  {
   "id": "2026-11-22-burnley-v-blackburn-rovers",
@@ -2163,7 +2060,7 @@
   "channels": [
    "Sky Sports Mix"
   ],
-  "updated": "2026-10-27T15:41:39.547571+00:00"
+  "updated": "2026-10-28T11:05:00.000908+00:00"
  },
  {
   "id": "2026-11-22-charlton-athletic-women-v-aston-villa-women",
@@ -2175,7 +2072,7 @@
   "channels": [
    "Sky Sports+"
   ],
-  "updated": "2026-10-27T15:41:39.547571+00:00"
+  "updated": "2026-10-28T11:05:00.000908+00:00"
  },
  {
   "id": "2026-11-22-everton-women-v-brighton-and-hove-albion-women",
@@ -2187,7 +2084,7 @@
   "channels": [
    "Sky Sports+"
   ],
-  "updated": "2026-10-27T15:41:39.547571+00:00"
+  "updated": "2026-10-28T11:05:00.000908+00:00"
  },
  {
   "id": "2026-11-22-hull-city-v-brighton-and-hove-albion",
@@ -2383,6 +2280,16 @@
    "Sky Sports+"
   ],
   "updated": "2026-10-27T13:32:49.092113+00:00"
+ },
+ {
+  "id": "2026-11-24-port-vale-v-northampton-town",
+  "url": "https://football-tv.today/match/2026-11-24-port-vale-v-northampton-town/",
+  "competition": "League Two",
+  "home": "Port Vale",
+  "away": "Northampton Town",
+  "kickoff": "2026-11-24T19:45:00+00:00",
+  "channels": [],
+  "updated": "2026-10-28T10:31:45.983302+00:00"
  },
  {
   "id": "2026-11-24-portsmouth-v-west-ham-united",
