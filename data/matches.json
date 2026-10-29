@@ -1,89 +1,5 @@
 [
  {
-  "id": "2026-10-28-aston-villa-women-v-birmingham-city-women",
-  "url": "https://football-tv.today/match/2026-10-28-aston-villa-women-v-birmingham-city-women/",
-  "competition": "Women's League Cup",
-  "home": "Aston Villa Women",
-  "away": "Birmingham City Women",
-  "kickoff": "2026-10-28T19:30:00+00:00",
-  "channels": [
-   "YouTube"
-  ],
-  "updated": "2026-10-27T15:41:39.547571+00:00"
- },
- {
-  "id": "2026-10-28-manchester-city-v-brighton-and-hove-albion",
-  "url": "https://football-tv.today/match/2026-10-28-manchester-city-v-brighton-and-hove-albion/",
-  "competition": "Carabao Cup",
-  "home": "Manchester City",
-  "away": "Brighton and Hove Albion",
-  "kickoff": "2026-10-28T19:30:00+00:00",
-  "channels": [
-   "Sky Sports+"
-  ],
-  "updated": "2026-10-27T16:20:37.513182+00:00"
- },
- {
-  "id": "2026-10-28-bournemouth-v-aston-villa",
-  "url": "https://football-tv.today/match/2026-10-28-bournemouth-v-aston-villa/",
-  "competition": "Carabao Cup",
-  "home": "Bournemouth",
-  "away": "Aston Villa",
-  "kickoff": "2026-10-28T19:45:00+00:00",
-  "channels": [
-   "Sky Sports+"
-  ],
-  "updated": "2026-10-27T16:20:37.513182+00:00"
- },
- {
-  "id": "2026-10-28-fulham-v-crystal-palace",
-  "url": "https://football-tv.today/match/2026-10-28-fulham-v-crystal-palace/",
-  "competition": "Carabao Cup",
-  "home": "Fulham",
-  "away": "Crystal Palace",
-  "kickoff": "2026-10-28T19:45:00+00:00",
-  "channels": [
-   "Sky Sports+"
-  ],
-  "updated": "2026-10-27T16:20:37.513182+00:00"
- },
- {
-  "id": "2026-10-28-sunderland-v-brentford",
-  "url": "https://football-tv.today/match/2026-10-28-sunderland-v-brentford/",
-  "competition": "Carabao Cup",
-  "home": "Sunderland",
-  "away": "Brentford",
-  "kickoff": "2026-10-28T19:45:00+00:00",
-  "channels": [
-   "Sky Sports+"
-  ],
-  "updated": "2026-10-27T16:20:37.513182+00:00"
- },
- {
-  "id": "2026-10-28-heart-of-midlothian-v-rangers",
-  "url": "https://football-tv.today/match/2026-10-28-heart-of-midlothian-v-rangers/",
-  "competition": "Scottish Premiership",
-  "home": "Heart of Midlothian",
-  "away": "Rangers",
-  "kickoff": "2026-10-28T20:00:00+00:00",
-  "channels": [
-   "Sky Sports Football"
-  ],
-  "updated": "2026-10-27T13:17:55.023172+00:00"
- },
- {
-  "id": "2026-10-28-liverpool-v-chelsea",
-  "url": "https://football-tv.today/match/2026-10-28-liverpool-v-chelsea/",
-  "competition": "Carabao Cup",
-  "home": "Liverpool",
-  "away": "Chelsea",
-  "kickoff": "2026-10-28T20:00:00+00:00",
-  "channels": [
-   "Sky Sports Main Event"
-  ],
-  "updated": "2026-10-27T16:20:37.513182+00:00"
- },
- {
   "id": "2026-10-29-everton-v-newcastle-united",
   "url": "https://football-tv.today/match/2026-10-29-everton-v-newcastle-united/",
   "competition": "Carabao Cup",
@@ -339,7 +255,7 @@
    "Sky Sports Main Event",
    "Sky Sports Football"
   ],
-  "updated": "2026-10-27T13:17:55.023172+00:00"
+  "updated": "2026-10-29T11:05:00.001260+00:00"
  },
  {
   "id": "2026-11-01-birmingham-city-women-v-tottenham-hotspur-women",
@@ -1107,18 +1023,6 @@
   "updated": "2026-10-27T16:20:37.513182+00:00"
  },
  {
-  "id": "2026-11-10-barnsley-v-oldham-athletic",
-  "url": "https://football-tv.today/match/2026-11-10-barnsley-v-oldham-athletic/",
-  "competition": "EFL Trophy",
-  "home": "Barnsley",
-  "away": "Oldham Athletic",
-  "kickoff": "2026-11-10T19:00:00+00:00",
-  "channels": [
-   "Sky Sports+"
-  ],
-  "updated": "2026-10-27T16:20:37.513182+00:00"
- },
- {
   "id": "2026-11-10-bristol-rovers-v-reading",
   "url": "https://football-tv.today/match/2026-11-10-bristol-rovers-v-reading/",
   "competition": "EFL Trophy",
@@ -1309,6 +1213,16 @@
    "Sky Sports+"
   ],
   "updated": "2026-10-27T16:20:37.513182+00:00"
+ },
+ {
+  "id": "2026-11-10-barnsley-v-oldham-athletic",
+  "url": "https://football-tv.today/match/2026-11-10-barnsley-v-oldham-athletic/",
+  "competition": "EFL Trophy",
+  "home": "Barnsley",
+  "away": "Oldham Athletic",
+  "kickoff": "2026-11-11T19:00:00+00:00",
+  "channels": [],
+  "updated": "2026-10-29T11:05:00.001260+00:00"
  },
  {
   "id": "2026-11-11-sheffield-wednesday-v-accrington-stanley",
@@ -3550,14 +3464,28 @@
   "updated": "2026-10-27T15:41:39.547571+00:00"
  },
  {
+  "id": "2026-12-13-st-johnstone-v-rangers",
+  "url": "https://football-tv.today/match/2026-12-13-st-johnstone-v-rangers/",
+  "competition": "Scottish Premiership",
+  "home": "St Johnstone",
+  "away": "Rangers",
+  "kickoff": "2026-12-13T12:00:00+00:00",
+  "channels": [
+   "Sky Sports Football"
+  ],
+  "updated": "2026-10-29T11:05:00.001260+00:00"
+ },
+ {
   "id": "2026-12-13-arsenal-v-bournemouth",
   "url": "https://football-tv.today/match/2026-12-13-arsenal-v-bournemouth/",
   "competition": "Premier League",
   "home": "Arsenal",
   "away": "Bournemouth",
   "kickoff": "2026-12-13T14:00:00+00:00",
-  "channels": [],
-  "updated": "2026-10-27T15:41:39.547571+00:00"
+  "channels": [
+   "Sky Sports"
+  ],
+  "updated": "2026-10-29T11:05:00.001260+00:00"
  },
  {
   "id": "2026-12-13-brighton-and-hove-albion-v-everton",
@@ -3566,8 +3494,10 @@
   "home": "Brighton and Hove Albion",
   "away": "Everton",
   "kickoff": "2026-12-13T14:00:00+00:00",
-  "channels": [],
-  "updated": "2026-10-27T15:41:39.547571+00:00"
+  "channels": [
+   "Sky Sports"
+  ],
+  "updated": "2026-10-29T11:05:00.001260+00:00"
  },
  {
   "id": "2026-12-13-sunderland-v-nottingham-forest",
@@ -3576,8 +3506,10 @@
   "home": "Sunderland",
   "away": "Nottingham Forest",
   "kickoff": "2026-12-13T14:00:00+00:00",
-  "channels": [],
-  "updated": "2026-10-27T15:41:39.547571+00:00"
+  "channels": [
+   "Sky Sports"
+  ],
+  "updated": "2026-10-29T11:05:00.001260+00:00"
  },
  {
   "id": "2026-12-13-coventry-city-v-aston-villa",
@@ -3586,8 +3518,11 @@
   "home": "Coventry City",
   "away": "Aston Villa",
   "kickoff": "2026-12-13T16:30:00+00:00",
-  "channels": [],
-  "updated": "2026-10-27T15:41:39.547571+00:00"
+  "channels": [
+   "Sky Sports Main Event",
+   "Sky Sports Football"
+  ],
+  "updated": "2026-10-29T11:05:00.001260+00:00"
  },
  {
   "id": "2026-12-13-crystal-palace-v-manchester-united",
@@ -3606,8 +3541,23 @@
   "home": "Hull City",
   "away": "Tottenham Hotspur",
   "kickoff": "2026-12-14T20:00:00+00:00",
-  "channels": [],
-  "updated": "2026-10-27T15:41:39.547571+00:00"
+  "channels": [
+   "Sky Sports Main Event",
+   "Sky Sports Football"
+  ],
+  "updated": "2026-10-29T11:05:00.001260+00:00"
+ },
+ {
+  "id": "2026-12-15-doncaster-rovers-v-oxford-united",
+  "url": "https://football-tv.today/match/2026-12-15-doncaster-rovers-v-oxford-united/",
+  "competition": "League One",
+  "home": "Doncaster Rovers",
+  "away": "Oxford United",
+  "kickoff": "2026-12-15T19:45:00+00:00",
+  "channels": [
+   "Sky Sports+"
+  ],
+  "updated": "2026-10-29T11:05:00.001260+00:00"
  },
  {
   "id": "2026-12-19-brentford-v-newcastle-united",
