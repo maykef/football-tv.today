@@ -1,5 +1,17 @@
 [
  {
+  "id": "2026-10-30-newport-county-afc-v-chesterfield",
+  "url": "https://football-tv.today/match/2026-10-30-newport-county-afc-v-chesterfield/",
+  "competition": "League Two",
+  "home": "Newport County AFC",
+  "away": "Chesterfield",
+  "kickoff": "2026-10-30T19:45:00+00:00",
+  "channels": [
+   "Sky Sports+"
+  ],
+  "updated": "2026-10-30T11:45:53.907022+00:00"
+ },
+ {
   "id": "2026-10-30-sheffield-united-v-wrexham",
   "url": "https://football-tv.today/match/2026-10-30-sheffield-united-v-wrexham/",
   "competition": "Championship",
@@ -11,6 +23,18 @@
    "Sky Sports Football"
   ],
   "updated": "2026-10-27T13:17:55.023172+00:00"
+ },
+ {
+  "id": "2026-10-31-bradford-city-v-huddersfield-town",
+  "url": "https://football-tv.today/match/2026-10-31-bradford-city-v-huddersfield-town/",
+  "competition": "League One",
+  "home": "Bradford City",
+  "away": "Huddersfield Town",
+  "kickoff": "2026-10-31T12:30:00+00:00",
+  "channels": [
+   "Sky Sports+"
+  ],
+  "updated": "2026-10-30T11:45:53.907022+00:00"
  },
  {
   "id": "2026-10-31-chelsea-v-manchester-united",
@@ -570,7 +594,7 @@
   "channels": [
    "TNT Sports 1"
   ],
-  "updated": "2026-10-27T13:17:55.023172+00:00"
+  "updated": "2026-10-30T11:45:53.907022+00:00"
  },
  {
   "id": "2026-11-06-derby-county-v-bolton-wanderers",
@@ -701,7 +725,7 @@
    "TNT Sports 1",
    "BBC Two"
   ],
-  "updated": "2026-10-27T13:17:55.023172+00:00"
+  "updated": "2026-10-30T11:45:53.907022+00:00"
  },
  {
   "id": "2026-11-07-nottingham-forest-v-manchester-city",
@@ -726,7 +750,7 @@
   "channels": [
    "TNT Sports 1"
   ],
-  "updated": "2026-10-27T13:17:55.023172+00:00"
+  "updated": "2026-10-30T11:45:53.907022+00:00"
  },
  {
   "id": "2026-11-07-st-mirren-v-rangers",
@@ -787,7 +811,7 @@
   "channels": [
    "TNT Sports 1"
   ],
-  "updated": "2026-10-27T13:17:55.023172+00:00"
+  "updated": "2026-10-30T11:45:53.907022+00:00"
  },
  {
   "id": "2026-11-08-brighton-and-hove-albion-v-brentford",
@@ -922,7 +946,7 @@
    "BBC Two",
    "TNT Sports 3"
   ],
-  "updated": "2026-10-27T13:17:55.023172+00:00"
+  "updated": "2026-10-30T11:45:53.907022+00:00"
  },
  {
   "id": "2026-11-08-london-city-lionesses-v-birmingham-city-women",
@@ -959,7 +983,7 @@
   "channels": [
    "TNT Sports 1"
   ],
-  "updated": "2026-10-27T13:17:55.023172+00:00"
+  "updated": "2026-10-30T11:45:53.907022+00:00"
  },
  {
   "id": "2026-11-08-manchester-united-v-aston-villa",
@@ -984,7 +1008,7 @@
   "channels": [
    "TNT Sports 1"
   ],
-  "updated": "2026-10-27T13:17:55.023172+00:00"
+  "updated": "2026-10-30T11:45:53.907022+00:00"
  },
  {
   "id": "2026-11-09-plymouth-parkway-v-berkhamsted",
@@ -996,7 +1020,7 @@
   "channels": [
    "TNT Sports 1"
   ],
-  "updated": "2026-10-27T13:17:55.023172+00:00"
+  "updated": "2026-10-30T11:45:53.907022+00:00"
  },
  {
   "id": "2026-11-10-barnet-v-leyton-orient",
@@ -1209,8 +1233,10 @@
   "home": "Barnsley",
   "away": "Oldham Athletic",
   "kickoff": "2026-11-11T19:00:00+00:00",
-  "channels": [],
-  "updated": "2026-10-29T11:05:00.001260+00:00"
+  "channels": [
+   "Sky Sports+"
+  ],
+  "updated": "2026-10-30T11:45:53.907022+00:00"
  },
  {
   "id": "2026-11-11-sheffield-wednesday-v-accrington-stanley",
@@ -1254,9 +1280,10 @@
   "away": "Cheltenham Town",
   "kickoff": "2026-11-14T12:30:00+00:00",
   "channels": [
-   "Sky Sports Football"
+   "Sky Sports Football",
+   "Sky Sports+"
   ],
-  "updated": "2026-10-27T13:17:55.023172+00:00"
+  "updated": "2026-10-30T11:45:53.907022+00:00"
  },
  {
   "id": "2026-11-14-manchester-united-women-v-crystal-palace-women",
@@ -3312,6 +3339,30 @@
   "updated": "2026-10-27T13:32:49.092113+00:00"
  },
  {
+  "id": "2026-12-12-everton-women-v-arsenal-women",
+  "url": "https://football-tv.today/match/2026-12-12-everton-women-v-arsenal-women/",
+  "competition": "Women's Super League",
+  "home": "Everton Women",
+  "away": "Arsenal Women",
+  "kickoff": "2026-12-11T19:00:00+00:00",
+  "channels": [
+   "Sky Sports Premier League"
+  ],
+  "updated": "2026-10-30T11:45:53.907022+00:00"
+ },
+ {
+  "id": "2026-12-13-tottenham-hotspur-women-v-charlton-athletic-women",
+  "url": "https://football-tv.today/match/2026-12-13-tottenham-hotspur-women-v-charlton-athletic-women/",
+  "competition": "Women's Super League",
+  "home": "Tottenham Hotspur Women",
+  "away": "Charlton Athletic Women",
+  "kickoff": "2026-12-11T19:00:00+00:00",
+  "channels": [
+   "Sky Sports"
+  ],
+  "updated": "2026-10-30T11:45:53.907022+00:00"
+ },
+ {
   "id": "2026-12-11-bolton-wanderers-v-wrexham",
   "url": "https://football-tv.today/match/2026-12-11-bolton-wanderers-v-wrexham/",
   "competition": "Championship",
@@ -3452,6 +3503,30 @@
   "updated": "2026-10-27T15:41:39.547571+00:00"
  },
  {
+  "id": "2026-12-13-crystal-palace-women-v-manchester-city-women",
+  "url": "https://football-tv.today/match/2026-12-13-crystal-palace-women-v-manchester-city-women/",
+  "competition": "Women's Super League",
+  "home": "Crystal Palace Women",
+  "away": "Manchester City Women",
+  "kickoff": "2026-12-13T12:00:00+00:00",
+  "channels": [
+   "Sky Sports"
+  ],
+  "updated": "2026-10-30T11:45:53.907022+00:00"
+ },
+ {
+  "id": "2026-12-13-manchester-united-women-v-brighton-and-hove-albion-women",
+  "url": "https://football-tv.today/match/2026-12-13-manchester-united-women-v-brighton-and-hove-albion-women/",
+  "competition": "Women's Super League",
+  "home": "Manchester United Women",
+  "away": "Brighton and Hove Albion Women",
+  "kickoff": "2026-12-13T12:00:00+00:00",
+  "channels": [
+   "Sky Sports"
+  ],
+  "updated": "2026-10-30T11:45:53.907022+00:00"
+ },
+ {
   "id": "2026-12-13-st-johnstone-v-rangers",
   "url": "https://football-tv.today/match/2026-12-13-st-johnstone-v-rangers/",
   "competition": "Scottish Premiership",
@@ -3474,6 +3549,18 @@
    "Sky Sports"
   ],
   "updated": "2026-10-29T11:05:00.001260+00:00"
+ },
+ {
+  "id": "2026-12-13-birmingham-city-women-v-liverpool-women",
+  "url": "https://football-tv.today/match/2026-12-13-birmingham-city-women-v-liverpool-women/",
+  "competition": "Women's Super League",
+  "home": "Birmingham City Women",
+  "away": "Liverpool Women",
+  "kickoff": "2026-12-13T14:00:00+00:00",
+  "channels": [
+   "Sky Sports"
+  ],
+  "updated": "2026-10-30T11:45:53.907022+00:00"
  },
  {
   "id": "2026-12-13-brighton-and-hove-albion-v-everton",
@@ -3500,6 +3587,18 @@
   "updated": "2026-10-29T11:05:00.001260+00:00"
  },
  {
+  "id": "2026-12-13-west-ham-united-women-v-aston-villa-women",
+  "url": "https://football-tv.today/match/2026-12-13-west-ham-united-women-v-aston-villa-women/",
+  "competition": "Women's Super League",
+  "home": "West Ham United Women",
+  "away": "Aston Villa Women",
+  "kickoff": "2026-12-13T14:00:00+00:00",
+  "channels": [
+   "Sky Sports"
+  ],
+  "updated": "2026-10-30T11:45:53.907022+00:00"
+ },
+ {
   "id": "2026-12-13-coventry-city-v-aston-villa",
   "url": "https://football-tv.today/match/2026-12-13-coventry-city-v-aston-villa/",
   "competition": "Premier League",
@@ -3519,8 +3618,10 @@
   "home": "Crystal Palace",
   "away": "Manchester United",
   "kickoff": "2026-12-13T19:00:00+00:00",
-  "channels": [],
-  "updated": "2026-10-27T15:41:39.547571+00:00"
+  "channels": [
+   "TNT Sports"
+  ],
+  "updated": "2026-10-30T11:45:53.907022+00:00"
  },
  {
   "id": "2026-12-14-hull-city-v-tottenham-hotspur",
