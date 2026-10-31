@@ -1,30 +1,5 @@
 [
  {
-  "id": "2026-10-30-newport-county-afc-v-chesterfield",
-  "url": "https://football-tv.today/match/2026-10-30-newport-county-afc-v-chesterfield/",
-  "competition": "League Two",
-  "home": "Newport County AFC",
-  "away": "Chesterfield",
-  "kickoff": "2026-10-30T19:45:00+00:00",
-  "channels": [
-   "Sky Sports+"
-  ],
-  "updated": "2026-10-30T11:45:53.907022+00:00"
- },
- {
-  "id": "2026-10-30-sheffield-united-v-wrexham",
-  "url": "https://football-tv.today/match/2026-10-30-sheffield-united-v-wrexham/",
-  "competition": "Championship",
-  "home": "Sheffield United",
-  "away": "Wrexham",
-  "kickoff": "2026-10-30T20:00:00+00:00",
-  "channels": [
-   "Sky Sports Main Event",
-   "Sky Sports Football"
-  ],
-  "updated": "2026-10-27T13:17:55.023172+00:00"
- },
- {
   "id": "2026-10-31-bradford-city-v-huddersfield-town",
   "url": "https://football-tv.today/match/2026-10-31-bradford-city-v-huddersfield-town/",
   "competition": "League One",
@@ -3637,6 +3612,30 @@
   "updated": "2026-10-29T11:05:00.001260+00:00"
  },
  {
+  "id": "2026-12-15-barnsley-v-milton-keynes-dons",
+  "url": "https://football-tv.today/match/2026-12-15-barnsley-v-milton-keynes-dons/",
+  "competition": "League One",
+  "home": "Barnsley",
+  "away": "Milton Keynes Dons",
+  "kickoff": "2026-12-15T19:45:00+00:00",
+  "channels": [
+   "Sky Sports+"
+  ],
+  "updated": "2026-10-31T11:05:00.000275+00:00"
+ },
+ {
+  "id": "2026-12-15-colchester-united-v-port-vale",
+  "url": "https://football-tv.today/match/2026-12-15-colchester-united-v-port-vale/",
+  "competition": "League Two",
+  "home": "Colchester United",
+  "away": "Port Vale",
+  "kickoff": "2026-12-15T19:45:00+00:00",
+  "channels": [
+   "Sky Sports+"
+  ],
+  "updated": "2026-10-31T11:05:00.000275+00:00"
+ },
+ {
   "id": "2026-12-15-doncaster-rovers-v-oxford-united",
   "url": "https://football-tv.today/match/2026-12-15-doncaster-rovers-v-oxford-united/",
   "competition": "League One",
@@ -3649,6 +3648,68 @@
   "updated": "2026-10-29T11:05:00.001260+00:00"
  },
  {
+  "id": "2026-12-15-walsall-v-crawley-town",
+  "url": "https://football-tv.today/match/2026-12-15-walsall-v-crawley-town/",
+  "competition": "League Two",
+  "home": "Walsall",
+  "away": "Crawley Town",
+  "kickoff": "2026-12-15T19:45:00+00:00",
+  "channels": [
+   "Sky Sports+"
+  ],
+  "updated": "2026-10-31T11:05:00.000275+00:00"
+ },
+ {
+  "id": "2026-12-17-crewe-alexandra-v-salford-city",
+  "url": "https://football-tv.today/match/2026-12-17-crewe-alexandra-v-salford-city/",
+  "competition": "League Two",
+  "home": "Crewe Alexandra",
+  "away": "Salford City",
+  "kickoff": "2026-12-17T20:00:00+00:00",
+  "channels": [
+   "Sky Sports Football"
+  ],
+  "updated": "2026-10-31T11:05:00.000275+00:00"
+ },
+ {
+  "id": "2026-12-18-west-bromwich-albion-v-sheffield-united",
+  "url": "https://football-tv.today/match/2026-12-18-west-bromwich-albion-v-sheffield-united/",
+  "competition": "Championship",
+  "home": "West Bromwich Albion",
+  "away": "Sheffield United",
+  "kickoff": "2026-12-18T20:00:00+00:00",
+  "channels": [
+   "Sky Sports Main Event",
+   "Sky Sports Football"
+  ],
+  "updated": "2026-10-31T11:05:00.000275+00:00"
+ },
+ {
+  "id": "2026-12-19-barnsley-v-huddersfield-town",
+  "url": "https://football-tv.today/match/2026-12-19-barnsley-v-huddersfield-town/",
+  "competition": "League One",
+  "home": "Barnsley",
+  "away": "Huddersfield Town",
+  "kickoff": "2026-12-19T12:30:00+00:00",
+  "channels": [
+   "Sky Sports+"
+  ],
+  "updated": "2026-10-31T11:05:00.000275+00:00"
+ },
+ {
+  "id": "2026-12-19-birmingham-city-v-west-ham-united",
+  "url": "https://football-tv.today/match/2026-12-19-birmingham-city-v-west-ham-united/",
+  "competition": "Championship",
+  "home": "Birmingham City",
+  "away": "West Ham United",
+  "kickoff": "2026-12-19T12:30:00+00:00",
+  "channels": [
+   "Sky Sports Main Event",
+   "Sky Sports Football"
+  ],
+  "updated": "2026-10-31T11:05:00.000275+00:00"
+ },
+ {
   "id": "2026-12-19-brentford-v-newcastle-united",
   "url": "https://football-tv.today/match/2026-12-19-brentford-v-newcastle-united/",
   "competition": "Premier League",
@@ -3657,6 +3718,90 @@
   "kickoff": "2026-12-19T12:30:00+00:00",
   "channels": [],
   "updated": "2026-10-27T15:41:39.547571+00:00"
+ },
+ {
+  "id": "2026-12-19-colchester-united-v-fleetwood-town",
+  "url": "https://football-tv.today/match/2026-12-19-colchester-united-v-fleetwood-town/",
+  "competition": "League Two",
+  "home": "Colchester United",
+  "away": "Fleetwood Town",
+  "kickoff": "2026-12-19T12:30:00+00:00",
+  "channels": [
+   "Sky Sports+"
+  ],
+  "updated": "2026-10-31T11:05:00.000275+00:00"
+ },
+ {
+  "id": "2026-12-19-northampton-town-v-exeter-city",
+  "url": "https://football-tv.today/match/2026-12-19-northampton-town-v-exeter-city/",
+  "competition": "League Two",
+  "home": "Northampton Town",
+  "away": "Exeter City",
+  "kickoff": "2026-12-19T12:30:00+00:00",
+  "channels": [
+   "Sky Sports+"
+  ],
+  "updated": "2026-10-31T11:05:00.000275+00:00"
+ },
+ {
+  "id": "2026-12-19-sheffield-wednesday-v-luton-town",
+  "url": "https://football-tv.today/match/2026-12-19-sheffield-wednesday-v-luton-town/",
+  "competition": "League One",
+  "home": "Sheffield Wednesday",
+  "away": "Luton Town",
+  "kickoff": "2026-12-19T12:30:00+00:00",
+  "channels": [
+   "Sky Sports+"
+  ],
+  "updated": "2026-10-31T11:05:00.000275+00:00"
+ },
+ {
+  "id": "2026-12-19-swansea-city-v-preston-north-end",
+  "url": "https://football-tv.today/match/2026-12-19-swansea-city-v-preston-north-end/",
+  "competition": "Championship",
+  "home": "Swansea City",
+  "away": "Preston North End",
+  "kickoff": "2026-12-19T12:30:00+00:00",
+  "channels": [
+   "Sky Sports+"
+  ],
+  "updated": "2026-10-31T11:05:00.000275+00:00"
+ },
+ {
+  "id": "2026-12-19-watford-v-bolton-wanderers",
+  "url": "https://football-tv.today/match/2026-12-19-watford-v-bolton-wanderers/",
+  "competition": "Championship",
+  "home": "Watford",
+  "away": "Bolton Wanderers",
+  "kickoff": "2026-12-19T12:30:00+00:00",
+  "channels": [
+   "Sky Sports+"
+  ],
+  "updated": "2026-10-31T11:05:00.000275+00:00"
+ },
+ {
+  "id": "2026-12-19-brighton-and-hove-albion-women-v-chelsea-women",
+  "url": "https://football-tv.today/match/2026-12-19-brighton-and-hove-albion-women-v-chelsea-women/",
+  "competition": "Women's Super League",
+  "home": "Brighton and Hove Albion Women",
+  "away": "Chelsea Women",
+  "kickoff": "2026-12-19T12:45:00+00:00",
+  "channels": [
+   "Sky Sports"
+  ],
+  "updated": "2026-10-31T11:05:00.000275+00:00"
+ },
+ {
+  "id": "2026-12-20-aston-villa-women-v-london-city-lionesses",
+  "url": "https://football-tv.today/match/2026-12-20-aston-villa-women-v-london-city-lionesses/",
+  "competition": "Women's Super League",
+  "home": "Aston Villa Women",
+  "away": "London City Lionesses",
+  "kickoff": "2026-12-19T12:45:00+00:00",
+  "channels": [
+   "Sky Sports Premier League"
+  ],
+  "updated": "2026-10-31T11:05:00.000275+00:00"
  },
  {
   "id": "2026-12-19-bournemouth-v-coventry-city",
@@ -3705,8 +3850,11 @@
   "home": "Liverpool",
   "away": "Tottenham Hotspur",
   "kickoff": "2026-12-19T17:30:00+00:00",
-  "channels": [],
-  "updated": "2026-10-27T15:41:39.547571+00:00"
+  "channels": [
+   "Sky Sports Main Event",
+   "Sky Sports Football"
+  ],
+  "updated": "2026-10-31T11:05:00.000275+00:00"
  },
  {
   "id": "2026-12-20-durham-women-v-ipswich-town-women",

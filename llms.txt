@@ -1,0 +1,31 @@
+# football-tv.today
+
+> Which UK TV channel or stream shows each football match: Premier League, EFL, FA Cup, WSL, SPFL and England. One page per match, checked against the broadcasters' and leagues' own listings once a day.
+
+Kick-off times are UK time. A match with no confirmed broadcaster says so; nothing is guessed. A match that moves keeps its old address, which redirects to the new date.
+
+## Pages
+- [Football on TV today](https://football-tv.today/): every televised match today, with channels
+- [Tomorrow](https://football-tv.today/tomorrow/): tomorrow's televised matches
+- [Teams](https://football-tv.today/teams/): each team's next televised match
+- [Competitions](https://football-tv.today/competitions/)
+- Match pages: https://football-tv.today/match/<date>-<home>-v-<away>/ (all listed in the sitemap)
+
+## Competitions
+- [Carabao Cup](https://football-tv.today/competition/carabao-cup/)
+- [Championship](https://football-tv.today/competition/championship/)
+- [EFL Trophy](https://football-tv.today/competition/efl-trophy/)
+- [FA Cup](https://football-tv.today/competition/fa-cup/)
+- [League One](https://football-tv.today/competition/league-one/)
+- [League Two](https://football-tv.today/competition/league-two/)
+- [Nations League](https://football-tv.today/competition/nations-league/)
+- [Premier League](https://football-tv.today/competition/premier-league/)
+- [Scottish Premiership](https://football-tv.today/competition/scottish-premiership/)
+- [Scottish Women's Premier League](https://football-tv.today/competition/scottish-womens-premier-league/)
+- [WSL 2](https://football-tv.today/competition/wsl-2/)
+- [Women's League Cup](https://football-tv.today/competition/womens-league-cup/)
+- [Women's Super League](https://football-tv.today/competition/womens-super-league/)
+
+## Data
+- [matches.json](https://football-tv.today/data/matches.json): every upcoming match: competition, teams, kick-off (ISO 8601), channels, url, last update
+- [sitemap.xml](https://football-tv.today/sitemap.xml): every page, with the date its content last changed
