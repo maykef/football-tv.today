@@ -1,106 +1,5 @@
 [
  {
-  "id": "2026-11-01-arsenal-women-v-aston-villa-women",
-  "url": "https://football-tv.today/match/2026-11-01-arsenal-women-v-aston-villa-women/",
-  "competition": "Women's Super League",
-  "home": "Arsenal Women",
-  "away": "Aston Villa Women",
-  "kickoff": "2026-11-01T12:00:00+00:00",
-  "channels": [
-   "Sky Sports+"
-  ],
-  "updated": "2026-10-28T11:05:00.000908+00:00"
- },
- {
-  "id": "2026-11-01-london-city-lionesses-v-manchester-city-women",
-  "url": "https://football-tv.today/match/2026-11-01-london-city-lionesses-v-manchester-city-women/",
-  "competition": "Women's Super League",
-  "home": "London City Lionesses",
-  "away": "Manchester City Women",
-  "kickoff": "2026-11-01T12:00:00+00:00",
-  "channels": [
-   "Sky Sports Premier League"
-  ],
-  "updated": "2026-10-28T11:05:00.000908+00:00"
- },
- {
-  "id": "2026-11-01-falkirk-v-celtic",
-  "url": "https://football-tv.today/match/2026-11-01-falkirk-v-celtic/",
-  "competition": "Scottish Premiership",
-  "home": "Falkirk",
-  "away": "Celtic",
-  "kickoff": "2026-11-01T13:00:00+00:00",
-  "channels": [
-   "Sky Sports Main Event",
-   "Sky Sports Football"
-  ],
-  "updated": "2026-10-29T11:05:00.001260+00:00"
- },
- {
-  "id": "2026-11-01-birmingham-city-women-v-tottenham-hotspur-women",
-  "url": "https://football-tv.today/match/2026-11-01-birmingham-city-women-v-tottenham-hotspur-women/",
-  "competition": "Women's Super League",
-  "home": "Birmingham City Women",
-  "away": "Tottenham Hotspur Women",
-  "kickoff": "2026-11-01T14:00:00+00:00",
-  "channels": [
-   "YouTube",
-   "Sky Sports+"
-  ],
-  "updated": "2026-10-28T11:05:00.000908+00:00"
- },
- {
-  "id": "2026-11-01-brighton-and-hove-albion-women-v-crystal-palace-women",
-  "url": "https://football-tv.today/match/2026-11-01-brighton-and-hove-albion-women-v-crystal-palace-women/",
-  "competition": "Women's Super League",
-  "home": "Brighton and Hove Albion Women",
-  "away": "Crystal Palace Women",
-  "kickoff": "2026-11-01T14:00:00+00:00",
-  "channels": [
-   "YouTube",
-   "Sky Sports+"
-  ],
-  "updated": "2026-10-28T11:05:00.000908+00:00"
- },
- {
-  "id": "2026-11-01-west-ham-united-women-v-liverpool-women",
-  "url": "https://football-tv.today/match/2026-11-01-west-ham-united-women-v-liverpool-women/",
-  "competition": "Women's Super League",
-  "home": "West Ham United Women",
-  "away": "Liverpool Women",
-  "kickoff": "2026-11-01T14:00:00+00:00",
-  "channels": [
-   "YouTube",
-   "Sky Sports+"
-  ],
-  "updated": "2026-10-28T11:05:00.000908+00:00"
- },
- {
-  "id": "2026-11-01-charlton-athletic-women-v-chelsea-women",
-  "url": "https://football-tv.today/match/2026-11-01-charlton-athletic-women-v-chelsea-women/",
-  "competition": "Women's Super League",
-  "home": "Charlton Athletic Women",
-  "away": "Chelsea Women",
-  "kickoff": "2026-11-01T14:30:00+00:00",
-  "channels": [
-   "BBC"
-  ],
-  "updated": "2026-10-27T15:41:39.547571+00:00"
- },
- {
-  "id": "2026-11-01-liverpool-v-arsenal",
-  "url": "https://football-tv.today/match/2026-11-01-liverpool-v-arsenal/",
-  "competition": "Premier League",
-  "home": "Liverpool",
-  "away": "Arsenal",
-  "kickoff": "2026-11-01T16:30:00+00:00",
-  "channels": [
-   "Sky Sports Main Event",
-   "Sky Sports Premier League"
-  ],
-  "updated": "2026-10-27T15:41:39.547571+00:00"
- },
- {
   "id": "2026-11-02-newcastle-united-v-everton",
   "url": "https://football-tv.today/match/2026-11-02-newcastle-united-v-everton/",
   "competition": "Premier League",
@@ -3292,18 +3191,6 @@
    "Sky Sports"
   ],
   "updated": "2026-10-30T11:45:53.907022+00:00"
- },
- {
-  "id": "2026-12-13-st-johnstone-v-rangers",
-  "url": "https://football-tv.today/match/2026-12-13-st-johnstone-v-rangers/",
-  "competition": "Scottish Premiership",
-  "home": "St Johnstone",
-  "away": "Rangers",
-  "kickoff": "2026-12-13T12:00:00+00:00",
-  "channels": [
-   "Sky Sports Football"
-  ],
-  "updated": "2026-10-29T11:05:00.001260+00:00"
  },
  {
   "id": "2026-12-13-arsenal-v-bournemouth",
