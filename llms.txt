@@ -1,6 +1,6 @@
 # football-tv.today
 
-> Which UK TV channel or stream shows each football match: Premier League, EFL, FA Cup, WSL, SPFL and England. One page per match, checked against the broadcasters' and leagues' own listings once a day.
+> Which UK TV channel or stream shows each football match: Premier League, Champions League, Europa League, Conference League, EFL, FA Cup, WSL, SPFL and England. One page per match, checked against the broadcasters' and leagues' own listings once a day.
 
 Kick-off times are UK time. A match with no confirmed broadcaster says so; nothing is guessed. A match that moves keeps its old address, which redirects to the new date.
 
@@ -13,8 +13,11 @@ Kick-off times are UK time. A match with no confirmed broadcaster says so; nothi
 
 ## Competitions
 - [Carabao Cup](https://football-tv.today/competition/carabao-cup/)
+- [Champions League](https://football-tv.today/competition/champions-league/)
 - [Championship](https://football-tv.today/competition/championship/)
+- [Conference League](https://football-tv.today/competition/conference-league/)
 - [EFL Trophy](https://football-tv.today/competition/efl-trophy/)
+- [Europa League](https://football-tv.today/competition/europa-league/)
 - [FA Cup](https://football-tv.today/competition/fa-cup/)
 - [League One](https://football-tv.today/competition/league-one/)
 - [League Two](https://football-tv.today/competition/league-two/)

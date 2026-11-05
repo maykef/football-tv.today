@@ -1,5 +1,391 @@
 [
  {
+  "id": "2026-11-05-aarhus-v-braga",
+  "url": "https://football-tv.today/match/2026-11-05-aarhus-v-braga/",
+  "competition": "Conference League",
+  "home": "Aarhus",
+  "away": "Braga",
+  "kickoff": "2026-11-05T17:45:00+00:00",
+  "channels": [
+   "TNT Sports on HBO Max"
+  ],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-11-05-ac-milan-v-ferencvaros",
+  "url": "https://football-tv.today/match/2026-11-05-ac-milan-v-ferencvaros/",
+  "competition": "Europa League",
+  "home": "AC Milan",
+  "away": "Ferencváros",
+  "kickoff": "2026-11-05T17:45:00+00:00",
+  "channels": [],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-11-05-anderlecht-v-rb-salzburg",
+  "url": "https://football-tv.today/match/2026-11-05-anderlecht-v-rb-salzburg/",
+  "competition": "Europa League",
+  "home": "Anderlecht",
+  "away": "RB Salzburg",
+  "kickoff": "2026-11-05T17:45:00+00:00",
+  "channels": [],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-11-05-atalanta-v-kairat-almaty",
+  "url": "https://football-tv.today/match/2026-11-05-atalanta-v-kairat-almaty/",
+  "competition": "Conference League",
+  "home": "Atalanta",
+  "away": "Kairat Almaty",
+  "kickoff": "2026-11-05T17:45:00+00:00",
+  "channels": [
+   "TNT Sports on HBO Max"
+  ],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-11-05-crystal-palace-v-hoffenheim",
+  "url": "https://football-tv.today/match/2026-11-05-crystal-palace-v-hoffenheim/",
+  "competition": "Europa League",
+  "home": "Crystal Palace",
+  "away": "Hoffenheim",
+  "kickoff": "2026-11-05T17:45:00+00:00",
+  "channels": [],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-11-05-kups-kuopio-v-gent",
+  "url": "https://football-tv.today/match/2026-11-05-kups-kuopio-v-gent/",
+  "competition": "Conference League",
+  "home": "KuPS Kuopio",
+  "away": "Gent",
+  "kickoff": "2026-11-05T17:45:00+00:00",
+  "channels": [
+   "TNT Sports on HBO Max"
+  ],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-11-05-levski-sofia-v-jagiellonia",
+  "url": "https://football-tv.today/match/2026-11-05-levski-sofia-v-jagiellonia/",
+  "competition": "Europa League",
+  "home": "Levski Sofia",
+  "away": "Jagiellonia",
+  "kickoff": "2026-11-05T17:45:00+00:00",
+  "channels": [],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-11-05-lillestrm-v-viktoria-plzen",
+  "url": "https://football-tv.today/match/2026-11-05-lillestrm-v-viktoria-plzen/",
+  "competition": "Europa League",
+  "home": "Lillestrøm",
+  "away": "Viktoria Plzeň",
+  "kickoff": "2026-11-05T17:45:00+00:00",
+  "channels": [],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-11-05-lincoln-red-imps-v-hajduk-split",
+  "url": "https://football-tv.today/match/2026-11-05-lincoln-red-imps-v-hajduk-split/",
+  "competition": "Conference League",
+  "home": "Lincoln Red Imps",
+  "away": "Hajduk Split",
+  "kickoff": "2026-11-05T17:45:00+00:00",
+  "channels": [
+   "TNT Sports on HBO Max"
+  ],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-11-05-midtjylland-v-ajax",
+  "url": "https://football-tv.today/match/2026-11-05-midtjylland-v-ajax/",
+  "competition": "Conference League",
+  "home": "Midtjylland",
+  "away": "Ajax",
+  "kickoff": "2026-11-05T17:45:00+00:00",
+  "channels": [
+   "TNT Sports on HBO Max"
+  ],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-11-05-mjallby-v-borac",
+  "url": "https://football-tv.today/match/2026-11-05-mjallby-v-borac/",
+  "competition": "Conference League",
+  "home": "Mjällby",
+  "away": "Borac",
+  "kickoff": "2026-11-05T17:45:00+00:00",
+  "channels": [
+   "TNT Sports on HBO Max"
+  ],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-11-05-nec-nijmegen-v-omonia",
+  "url": "https://football-tv.today/match/2026-11-05-nec-nijmegen-v-omonia/",
+  "competition": "Europa League",
+  "home": "NEC Nijmegen",
+  "away": "Omonia",
+  "kickoff": "2026-11-05T17:45:00+00:00",
+  "channels": [],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-11-05-real-sociedad-v-lyon",
+  "url": "https://football-tv.today/match/2026-11-05-real-sociedad-v-lyon/",
+  "competition": "Europa League",
+  "home": "Real Sociedad",
+  "away": "Lyon",
+  "kickoff": "2026-11-05T17:45:00+00:00",
+  "channels": [],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-11-05-red-star-belgrade-v-inter-escaldes",
+  "url": "https://football-tv.today/match/2026-11-05-red-star-belgrade-v-inter-escaldes/",
+  "competition": "Conference League",
+  "home": "Red Star Belgrade",
+  "away": "Inter Escaldes",
+  "kickoff": "2026-11-05T17:45:00+00:00",
+  "channels": [
+   "TNT Sports on HBO Max"
+  ],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-11-05-sparta-prague-v-bournemouth",
+  "url": "https://football-tv.today/match/2026-11-05-sparta-prague-v-bournemouth/",
+  "competition": "Europa League",
+  "home": "Sparta Prague",
+  "away": "Bournemouth",
+  "kickoff": "2026-11-05T17:45:00+00:00",
+  "channels": [],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-11-05-thun-v-heart-of-midlothian",
+  "url": "https://football-tv.today/match/2026-11-05-thun-v-heart-of-midlothian/",
+  "competition": "Conference League",
+  "home": "Thun",
+  "away": "Heart of Midlothian",
+  "kickoff": "2026-11-05T17:45:00+00:00",
+  "channels": [
+   "TNT Sports on HBO Max"
+  ],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-11-05-trabzonspor-v-freiburg",
+  "url": "https://football-tv.today/match/2026-11-05-trabzonspor-v-freiburg/",
+  "competition": "Conference League",
+  "home": "Trabzonspor",
+  "away": "Freiburg",
+  "kickoff": "2026-11-05T17:45:00+00:00",
+  "channels": [
+   "TNT Sports on HBO Max"
+  ],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-11-05-az-alkmaar-v-juventus",
+  "url": "https://football-tv.today/match/2026-11-05-az-alkmaar-v-juventus/",
+  "competition": "Europa League",
+  "home": "AZ Alkmaar",
+  "away": "Juventus",
+  "kickoff": "2026-11-05T20:00:00+00:00",
+  "channels": [],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-11-05-bayer-leverkusen-v-marseille",
+  "url": "https://football-tv.today/match/2026-11-05-bayer-leverkusen-v-marseille/",
+  "competition": "Europa League",
+  "home": "Bayer Leverkusen",
+  "away": "Marseille",
+  "kickoff": "2026-11-05T20:00:00+00:00",
+  "channels": [],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-11-05-benfica-v-lech-poznan",
+  "url": "https://football-tv.today/match/2026-11-05-benfica-v-lech-poznan/",
+  "competition": "Europa League",
+  "home": "Benfica",
+  "away": "Lech Poznań",
+  "kickoff": "2026-11-05T20:00:00+00:00",
+  "channels": [],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-11-05-celta-vigo-v-union-sg",
+  "url": "https://football-tv.today/match/2026-11-05-celta-vigo-v-union-sg/",
+  "competition": "Europa League",
+  "home": "Celta Vigo",
+  "away": "Union SG",
+  "kickoff": "2026-11-05T20:00:00+00:00",
+  "channels": [],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-11-05-celtic-v-besiktas",
+  "url": "https://football-tv.today/match/2026-11-05-celtic-v-besiktas/",
+  "competition": "Europa League",
+  "home": "Celtic",
+  "away": "Beşiktaş",
+  "kickoff": "2026-11-05T20:00:00+00:00",
+  "channels": [],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-11-05-copenhagen-v-iberia-tbilisi",
+  "url": "https://football-tv.today/match/2026-11-05-copenhagen-v-iberia-tbilisi/",
+  "competition": "Conference League",
+  "home": "Copenhagen",
+  "away": "Iberia Tbilisi",
+  "kickoff": "2026-11-05T20:00:00+00:00",
+  "channels": [
+   "TNT Sports on HBO Max"
+  ],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-11-05-getafe-v-brighton-and-hove-albion",
+  "url": "https://football-tv.today/match/2026-11-05-getafe-v-brighton-and-hove-albion/",
+  "competition": "Conference League",
+  "home": "Getafe",
+  "away": "Brighton and Hove Albion",
+  "kickoff": "2026-11-05T20:00:00+00:00",
+  "channels": [
+   "TNT Sports on HBO Max"
+  ],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-11-05-hapoel-beer-sheva-v-ofi-crete",
+  "url": "https://football-tv.today/match/2026-11-05-hapoel-beer-sheva-v-ofi-crete/",
+  "competition": "Europa League",
+  "home": "Hapoel Beer-Sheva",
+  "away": "OFI Crete",
+  "kickoff": "2026-11-05T20:00:00+00:00",
+  "channels": [],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-11-05-lugano-v-kauno-zalgiris",
+  "url": "https://football-tv.today/match/2026-11-05-lugano-v-kauno-zalgiris/",
+  "competition": "Conference League",
+  "home": "Lugano",
+  "away": "Kauno Žalgiris",
+  "kickoff": "2026-11-05T20:00:00+00:00",
+  "channels": [
+   "TNT Sports on HBO Max"
+  ],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-11-05-monaco-v-nordsjlland",
+  "url": "https://football-tv.today/match/2026-11-05-monaco-v-nordsjlland/",
+  "competition": "Conference League",
+  "home": "Monaco",
+  "away": "Nordsjælland",
+  "kickoff": "2026-11-05T20:00:00+00:00",
+  "channels": [
+   "TNT Sports on HBO Max"
+  ],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-11-05-panathinaikos-v-cska-sofia",
+  "url": "https://football-tv.today/match/2026-11-05-panathinaikos-v-cska-sofia/",
+  "competition": "Conference League",
+  "home": "Panathinaikos",
+  "away": "CSKA Sofia",
+  "kickoff": "2026-11-05T20:00:00+00:00",
+  "channels": [
+   "TNT Sports on HBO Max"
+  ],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-11-05-riga-v-jablonec",
+  "url": "https://football-tv.today/match/2026-11-05-riga-v-jablonec/",
+  "competition": "Conference League",
+  "home": "Riga",
+  "away": "Jablonec",
+  "kickoff": "2026-11-05T20:00:00+00:00",
+  "channels": [
+   "TNT Sports on HBO Max"
+  ],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-11-05-sint-truidense-v-brann",
+  "url": "https://football-tv.today/match/2026-11-05-sint-truidense-v-brann/",
+  "competition": "Conference League",
+  "home": "Sint-Truidense",
+  "away": "Brann",
+  "kickoff": "2026-11-05T20:00:00+00:00",
+  "channels": [
+   "TNT Sports on HBO Max"
+  ],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-11-05-sturm-graz-v-celje",
+  "url": "https://football-tv.today/match/2026-11-05-sturm-graz-v-celje/",
+  "competition": "Europa League",
+  "home": "Sturm Graz",
+  "away": "Celje",
+  "kickoff": "2026-11-05T20:00:00+00:00",
+  "channels": [],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-11-05-sunderland-v-dinamo-zagreb",
+  "url": "https://football-tv.today/match/2026-11-05-sunderland-v-dinamo-zagreb/",
+  "competition": "Europa League",
+  "home": "Sunderland",
+  "away": "Dinamo Zagreb",
+  "kickoff": "2026-11-05T20:00:00+00:00",
+  "channels": [],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-11-05-torreense-v-ararat-armenia",
+  "url": "https://football-tv.today/match/2026-11-05-torreense-v-ararat-armenia/",
+  "competition": "Europa League",
+  "home": "Torreense",
+  "away": "Ararat-Armenia",
+  "kickoff": "2026-11-05T20:00:00+00:00",
+  "channels": [],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-11-05-twente-v-pafos",
+  "url": "https://football-tv.today/match/2026-11-05-twente-v-pafos/",
+  "competition": "Conference League",
+  "home": "Twente",
+  "away": "Pafos",
+  "kickoff": "2026-11-05T20:00:00+00:00",
+  "channels": [
+   "TNT Sports on HBO Max"
+  ],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-11-05-universitatea-craiova-v-egnatia",
+  "url": "https://football-tv.today/match/2026-11-05-universitatea-craiova-v-egnatia/",
+  "competition": "Conference League",
+  "home": "Universitatea Craiova",
+  "away": "Egnatia",
+  "kickoff": "2026-11-05T20:00:00+00:00",
+  "channels": [
+   "TNT Sports on HBO Max"
+  ],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
   "id": "2026-11-06-oxford-city-v-leicester-city",
   "url": "https://football-tv.today/match/2026-11-06-oxford-city-v-leicester-city/",
   "competition": "FA Cup",
@@ -1458,6 +1844,26 @@
   "updated": "2026-10-27T15:41:39.547571+00:00"
  },
  {
+  "id": "2026-11-24-bod-glimt-v-lask",
+  "url": "https://football-tv.today/match/2026-11-24-bod-glimt-v-lask/",
+  "competition": "Champions League",
+  "home": "Bodø/Glimt",
+  "away": "LASK",
+  "kickoff": "2026-11-24T17:45:00+00:00",
+  "channels": [],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-11-24-galatasaray-v-aston-villa",
+  "url": "https://football-tv.today/match/2026-11-24-galatasaray-v-aston-villa/",
+  "competition": "Champions League",
+  "home": "Galatasaray",
+  "away": "Aston Villa",
+  "kickoff": "2026-11-24T17:45:00+00:00",
+  "channels": [],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
   "id": "2026-11-24-fleetwood-town-v-leeds-united-u21",
   "url": "https://football-tv.today/match/2026-11-24-fleetwood-town-v-leeds-united-u21/",
   "competition": "EFL Trophy",
@@ -1648,6 +2054,46 @@
   "updated": "2026-10-27T13:32:49.092113+00:00"
  },
  {
+  "id": "2026-11-24-arsenal-v-borussia-dortmund",
+  "url": "https://football-tv.today/match/2026-11-24-arsenal-v-borussia-dortmund/",
+  "competition": "Champions League",
+  "home": "Arsenal",
+  "away": "Borussia Dortmund",
+  "kickoff": "2026-11-24T20:00:00+00:00",
+  "channels": [],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-11-24-como-v-aek-athens",
+  "url": "https://football-tv.today/match/2026-11-24-como-v-aek-athens/",
+  "competition": "Champions League",
+  "home": "Como",
+  "away": "AEK Athens",
+  "kickoff": "2026-11-24T20:00:00+00:00",
+  "channels": [],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-11-24-feyenoord-v-porto",
+  "url": "https://football-tv.today/match/2026-11-24-feyenoord-v-porto/",
+  "competition": "Champions League",
+  "home": "Feyenoord",
+  "away": "Porto",
+  "kickoff": "2026-11-24T20:00:00+00:00",
+  "channels": [],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-11-24-manchester-city-v-napoli",
+  "url": "https://football-tv.today/match/2026-11-24-manchester-city-v-napoli/",
+  "competition": "Champions League",
+  "home": "Manchester City",
+  "away": "Napoli",
+  "kickoff": "2026-11-24T20:00:00+00:00",
+  "channels": [],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
   "id": "2026-11-24-rangers-v-aberdeen",
   "url": "https://football-tv.today/match/2026-11-24-rangers-v-aberdeen/",
   "competition": "Scottish Premiership",
@@ -1660,6 +2106,36 @@
   "updated": "2026-10-27T13:32:49.092113+00:00"
  },
  {
+  "id": "2026-11-24-rb-leipzig-v-lens",
+  "url": "https://football-tv.today/match/2026-11-24-rb-leipzig-v-lens/",
+  "competition": "Champions League",
+  "home": "RB Leipzig",
+  "away": "Lens",
+  "kickoff": "2026-11-24T20:00:00+00:00",
+  "channels": [],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-11-24-real-madrid-v-psv",
+  "url": "https://football-tv.today/match/2026-11-24-real-madrid-v-psv/",
+  "competition": "Champions League",
+  "home": "Real Madrid",
+  "away": "PSV",
+  "kickoff": "2026-11-24T20:00:00+00:00",
+  "channels": [],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-11-24-slovan-bratislava-v-real-betis",
+  "url": "https://football-tv.today/match/2026-11-24-slovan-bratislava-v-real-betis/",
+  "competition": "Champions League",
+  "home": "Slovan Bratislava",
+  "away": "Real Betis",
+  "kickoff": "2026-11-24T20:00:00+00:00",
+  "channels": [],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
   "id": "2026-11-24-wolverhampton-wanderers-v-derby-county",
   "url": "https://football-tv.today/match/2026-11-24-wolverhampton-wanderers-v-derby-county/",
   "competition": "Championship",
@@ -1670,6 +2146,26 @@
    "Sky Sports Main Event"
   ],
   "updated": "2026-10-27T13:32:49.092113+00:00"
+ },
+ {
+  "id": "2026-11-25-sabah-v-barcelona",
+  "url": "https://football-tv.today/match/2026-11-25-sabah-v-barcelona/",
+  "competition": "Champions League",
+  "home": "Sabah",
+  "away": "Barcelona",
+  "kickoff": "2026-11-25T17:45:00+00:00",
+  "channels": [],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-11-25-slavia-prague-v-villarreal",
+  "url": "https://football-tv.today/match/2026-11-25-slavia-prague-v-villarreal/",
+  "competition": "Champions League",
+  "home": "Slavia Prague",
+  "away": "Villarreal",
+  "kickoff": "2026-11-25T17:45:00+00:00",
+  "channels": [],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
  },
  {
   "id": "2026-11-25-bolton-wanderers-v-west-bromwich-albion",
@@ -1708,6 +2204,76 @@
   "updated": "2026-10-27T13:32:49.092113+00:00"
  },
  {
+  "id": "2026-11-25-atletico-madrid-v-viking",
+  "url": "https://football-tv.today/match/2026-11-25-atletico-madrid-v-viking/",
+  "competition": "Champions League",
+  "home": "Atlético Madrid",
+  "away": "Viking",
+  "kickoff": "2026-11-25T20:00:00+00:00",
+  "channels": [],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-11-25-club-brugge-v-liverpool",
+  "url": "https://football-tv.today/match/2026-11-25-club-brugge-v-liverpool/",
+  "competition": "Champions League",
+  "home": "Club Brugge",
+  "away": "Liverpool",
+  "kickoff": "2026-11-25T20:00:00+00:00",
+  "channels": [],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-11-25-inter-milan-v-stuttgart",
+  "url": "https://football-tv.today/match/2026-11-25-inter-milan-v-stuttgart/",
+  "competition": "Champions League",
+  "home": "Inter Milan",
+  "away": "Stuttgart",
+  "kickoff": "2026-11-25T20:00:00+00:00",
+  "channels": [],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-11-25-lille-v-bayern-munich",
+  "url": "https://football-tv.today/match/2026-11-25-lille-v-bayern-munich/",
+  "competition": "Champions League",
+  "home": "Lille",
+  "away": "Bayern Munich",
+  "kickoff": "2026-11-25T20:00:00+00:00",
+  "channels": [],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-11-25-paris-saint-germain-v-roma",
+  "url": "https://football-tv.today/match/2026-11-25-paris-saint-germain-v-roma/",
+  "competition": "Champions League",
+  "home": "Paris Saint-Germain",
+  "away": "Roma",
+  "kickoff": "2026-11-25T20:00:00+00:00",
+  "channels": [],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-11-25-shakhtar-donetsk-v-fenerbahce",
+  "url": "https://football-tv.today/match/2026-11-25-shakhtar-donetsk-v-fenerbahce/",
+  "competition": "Champions League",
+  "home": "Shakhtar Donetsk",
+  "away": "Fenerbahçe",
+  "kickoff": "2026-11-25T20:00:00+00:00",
+  "channels": [],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-11-25-sporting-cp-v-manchester-united",
+  "url": "https://football-tv.today/match/2026-11-25-sporting-cp-v-manchester-united/",
+  "competition": "Champions League",
+  "home": "Sporting CP",
+  "away": "Manchester United",
+  "kickoff": "2026-11-25T20:00:00+00:00",
+  "channels": [],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
   "id": "2026-11-25-stoke-city-v-millwall",
   "url": "https://football-tv.today/match/2026-11-25-stoke-city-v-millwall/",
   "competition": "Championship",
@@ -1721,6 +2287,252 @@
   "updated": "2026-10-27T13:32:49.092113+00:00"
  },
  {
+  "id": "2026-11-26-kairat-almaty-v-mjallby",
+  "url": "https://football-tv.today/match/2026-11-26-kairat-almaty-v-mjallby/",
+  "competition": "Conference League",
+  "home": "Kairat Almaty",
+  "away": "Mjällby",
+  "kickoff": "2026-11-26T15:30:00+00:00",
+  "channels": [
+   "TNT Sports on HBO Max"
+  ],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-11-26-ajax-v-thun",
+  "url": "https://football-tv.today/match/2026-11-26-ajax-v-thun/",
+  "competition": "Conference League",
+  "home": "Ajax",
+  "away": "Thun",
+  "kickoff": "2026-11-26T17:45:00+00:00",
+  "channels": [
+   "TNT Sports on HBO Max"
+  ],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-11-26-besiktas-v-hapoel-beer-sheva",
+  "url": "https://football-tv.today/match/2026-11-26-besiktas-v-hapoel-beer-sheva/",
+  "competition": "Europa League",
+  "home": "Beşiktaş",
+  "away": "Hapoel Beer-Sheva",
+  "kickoff": "2026-11-26T17:45:00+00:00",
+  "channels": [],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-11-26-brann-v-aarhus",
+  "url": "https://football-tv.today/match/2026-11-26-brann-v-aarhus/",
+  "competition": "Conference League",
+  "home": "Brann",
+  "away": "Aarhus",
+  "kickoff": "2026-11-26T17:45:00+00:00",
+  "channels": [
+   "TNT Sports on HBO Max"
+  ],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-11-26-brighton-and-hove-albion-v-universitatea-craiova",
+  "url": "https://football-tv.today/match/2026-11-26-brighton-and-hove-albion-v-universitatea-craiova/",
+  "competition": "Conference League",
+  "home": "Brighton and Hove Albion",
+  "away": "Universitatea Craiova",
+  "kickoff": "2026-11-26T17:45:00+00:00",
+  "channels": [
+   "TNT Sports on HBO Max"
+  ],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-11-26-celta-vigo-v-bournemouth",
+  "url": "https://football-tv.today/match/2026-11-26-celta-vigo-v-bournemouth/",
+  "competition": "Europa League",
+  "home": "Celta Vigo",
+  "away": "Bournemouth",
+  "kickoff": "2026-11-26T17:45:00+00:00",
+  "channels": [],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-11-26-dinamo-zagreb-v-bayer-leverkusen",
+  "url": "https://football-tv.today/match/2026-11-26-dinamo-zagreb-v-bayer-leverkusen/",
+  "competition": "Europa League",
+  "home": "Dinamo Zagreb",
+  "away": "Bayer Leverkusen",
+  "kickoff": "2026-11-26T17:45:00+00:00",
+  "channels": [],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-11-26-egnatia-v-lincoln-red-imps",
+  "url": "https://football-tv.today/match/2026-11-26-egnatia-v-lincoln-red-imps/",
+  "competition": "Conference League",
+  "home": "Egnatia",
+  "away": "Lincoln Red Imps",
+  "kickoff": "2026-11-26T17:45:00+00:00",
+  "channels": [
+   "TNT Sports on HBO Max"
+  ],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-11-26-heart-of-midlothian-v-monaco",
+  "url": "https://football-tv.today/match/2026-11-26-heart-of-midlothian-v-monaco/",
+  "competition": "Conference League",
+  "home": "Heart of Midlothian",
+  "away": "Monaco",
+  "kickoff": "2026-11-26T17:45:00+00:00",
+  "channels": [
+   "TNT Sports on HBO Max"
+  ],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-11-26-iberia-tbilisi-v-getafe",
+  "url": "https://football-tv.today/match/2026-11-26-iberia-tbilisi-v-getafe/",
+  "competition": "Conference League",
+  "home": "Iberia Tbilisi",
+  "away": "Getafe",
+  "kickoff": "2026-11-26T17:45:00+00:00",
+  "channels": [
+   "TNT Sports on HBO Max"
+  ],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-11-26-jablonec-v-lugano",
+  "url": "https://football-tv.today/match/2026-11-26-jablonec-v-lugano/",
+  "competition": "Conference League",
+  "home": "Jablonec",
+  "away": "Lugano",
+  "kickoff": "2026-11-26T17:45:00+00:00",
+  "channels": [
+   "TNT Sports on HBO Max"
+  ],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-11-26-kauno-zalgiris-v-riga",
+  "url": "https://football-tv.today/match/2026-11-26-kauno-zalgiris-v-riga/",
+  "competition": "Conference League",
+  "home": "Kauno Žalgiris",
+  "away": "Riga",
+  "kickoff": "2026-11-26T17:45:00+00:00",
+  "channels": [
+   "TNT Sports on HBO Max"
+  ],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-11-26-marseille-v-levski-sofia",
+  "url": "https://football-tv.today/match/2026-11-26-marseille-v-levski-sofia/",
+  "competition": "Europa League",
+  "home": "Marseille",
+  "away": "Levski Sofia",
+  "kickoff": "2026-11-26T17:45:00+00:00",
+  "channels": [],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-11-26-olympiacos-v-ac-milan",
+  "url": "https://football-tv.today/match/2026-11-26-olympiacos-v-ac-milan/",
+  "competition": "Europa League",
+  "home": "Olympiacos",
+  "away": "AC Milan",
+  "kickoff": "2026-11-26T17:45:00+00:00",
+  "channels": [],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-11-26-pafos-v-midtjylland",
+  "url": "https://football-tv.today/match/2026-11-26-pafos-v-midtjylland/",
+  "competition": "Conference League",
+  "home": "Pafos",
+  "away": "Midtjylland",
+  "kickoff": "2026-11-26T17:45:00+00:00",
+  "channels": [
+   "TNT Sports on HBO Max"
+  ],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-11-26-rb-salzburg-v-ararat-armenia",
+  "url": "https://football-tv.today/match/2026-11-26-rb-salzburg-v-ararat-armenia/",
+  "competition": "Europa League",
+  "home": "RB Salzburg",
+  "away": "Ararat-Armenia",
+  "kickoff": "2026-11-26T17:45:00+00:00",
+  "channels": [],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-11-26-union-sg-v-lech-poznan",
+  "url": "https://football-tv.today/match/2026-11-26-union-sg-v-lech-poznan/",
+  "competition": "Europa League",
+  "home": "Union SG",
+  "away": "Lech Poznań",
+  "kickoff": "2026-11-26T17:45:00+00:00",
+  "channels": [],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-11-26-viktoria-plzen-v-benfica",
+  "url": "https://football-tv.today/match/2026-11-26-viktoria-plzen-v-benfica/",
+  "competition": "Europa League",
+  "home": "Viktoria Plzeň",
+  "away": "Benfica",
+  "kickoff": "2026-11-26T17:45:00+00:00",
+  "channels": [],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-11-26-borac-v-atalanta",
+  "url": "https://football-tv.today/match/2026-11-26-borac-v-atalanta/",
+  "competition": "Conference League",
+  "home": "Borac",
+  "away": "Atalanta",
+  "kickoff": "2026-11-26T20:00:00+00:00",
+  "channels": [
+   "TNT Sports on HBO Max"
+  ],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-11-26-braga-v-kups-kuopio",
+  "url": "https://football-tv.today/match/2026-11-26-braga-v-kups-kuopio/",
+  "competition": "Conference League",
+  "home": "Braga",
+  "away": "KuPS Kuopio",
+  "kickoff": "2026-11-26T20:00:00+00:00",
+  "channels": [
+   "TNT Sports on HBO Max"
+  ],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-11-26-crystal-palace-v-real-sociedad",
+  "url": "https://football-tv.today/match/2026-11-26-crystal-palace-v-real-sociedad/",
+  "competition": "Europa League",
+  "home": "Crystal Palace",
+  "away": "Real Sociedad",
+  "kickoff": "2026-11-26T20:00:00+00:00",
+  "channels": [],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-11-26-cska-sofia-v-trabzonspor",
+  "url": "https://football-tv.today/match/2026-11-26-cska-sofia-v-trabzonspor/",
+  "competition": "Conference League",
+  "home": "CSKA Sofia",
+  "away": "Trabzonspor",
+  "kickoff": "2026-11-26T20:00:00+00:00",
+  "channels": [
+   "TNT Sports on HBO Max"
+  ],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
   "id": "2026-11-26-doncaster-rovers-v-huddersfield-town",
   "url": "https://football-tv.today/match/2026-11-26-doncaster-rovers-v-huddersfield-town/",
   "competition": "League One",
@@ -1731,6 +2543,156 @@
    "Sky Sports Football"
   ],
   "updated": "2026-10-27T13:32:49.092113+00:00"
+ },
+ {
+  "id": "2026-11-26-ferencvaros-v-celje",
+  "url": "https://football-tv.today/match/2026-11-26-ferencvaros-v-celje/",
+  "competition": "Europa League",
+  "home": "Ferencváros",
+  "away": "Celje",
+  "kickoff": "2026-11-26T20:00:00+00:00",
+  "channels": [],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-11-26-freiburg-v-twente",
+  "url": "https://football-tv.today/match/2026-11-26-freiburg-v-twente/",
+  "competition": "Conference League",
+  "home": "Freiburg",
+  "away": "Twente",
+  "kickoff": "2026-11-26T20:00:00+00:00",
+  "channels": [
+   "TNT Sports on HBO Max"
+  ],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-11-26-gent-v-red-star-belgrade",
+  "url": "https://football-tv.today/match/2026-11-26-gent-v-red-star-belgrade/",
+  "competition": "Conference League",
+  "home": "Gent",
+  "away": "Red Star Belgrade",
+  "kickoff": "2026-11-26T20:00:00+00:00",
+  "channels": [
+   "TNT Sports on HBO Max"
+  ],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-11-26-hajduk-split-v-sint-truidense",
+  "url": "https://football-tv.today/match/2026-11-26-hajduk-split-v-sint-truidense/",
+  "competition": "Conference League",
+  "home": "Hajduk Split",
+  "away": "Sint-Truidense",
+  "kickoff": "2026-11-26T20:00:00+00:00",
+  "channels": [
+   "TNT Sports on HBO Max"
+  ],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-11-26-hoffenheim-v-sturm-graz",
+  "url": "https://football-tv.today/match/2026-11-26-hoffenheim-v-sturm-graz/",
+  "competition": "Europa League",
+  "home": "Hoffenheim",
+  "away": "Sturm Graz",
+  "kickoff": "2026-11-26T20:00:00+00:00",
+  "channels": [],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-11-26-inter-escaldes-v-copenhagen",
+  "url": "https://football-tv.today/match/2026-11-26-inter-escaldes-v-copenhagen/",
+  "competition": "Conference League",
+  "home": "Inter Escaldes",
+  "away": "Copenhagen",
+  "kickoff": "2026-11-26T20:00:00+00:00",
+  "channels": [
+   "TNT Sports on HBO Max"
+  ],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-11-26-juventus-v-omonia",
+  "url": "https://football-tv.today/match/2026-11-26-juventus-v-omonia/",
+  "competition": "Europa League",
+  "home": "Juventus",
+  "away": "Omonia",
+  "kickoff": "2026-11-26T20:00:00+00:00",
+  "channels": [],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-11-26-lyon-v-lillestrm",
+  "url": "https://football-tv.today/match/2026-11-26-lyon-v-lillestrm/",
+  "competition": "Europa League",
+  "home": "Lyon",
+  "away": "Lillestrøm",
+  "kickoff": "2026-11-26T20:00:00+00:00",
+  "channels": [],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-11-26-nec-nijmegen-v-rennes",
+  "url": "https://football-tv.today/match/2026-11-26-nec-nijmegen-v-rennes/",
+  "competition": "Europa League",
+  "home": "NEC Nijmegen",
+  "away": "Rennes",
+  "kickoff": "2026-11-26T20:00:00+00:00",
+  "channels": [],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-11-26-nordsjlland-v-panathinaikos",
+  "url": "https://football-tv.today/match/2026-11-26-nordsjlland-v-panathinaikos/",
+  "competition": "Conference League",
+  "home": "Nordsjælland",
+  "away": "Panathinaikos",
+  "kickoff": "2026-11-26T20:00:00+00:00",
+  "channels": [
+   "TNT Sports on HBO Max"
+  ],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-11-26-ofi-crete-v-anderlecht",
+  "url": "https://football-tv.today/match/2026-11-26-ofi-crete-v-anderlecht/",
+  "competition": "Europa League",
+  "home": "OFI Crete",
+  "away": "Anderlecht",
+  "kickoff": "2026-11-26T20:00:00+00:00",
+  "channels": [],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-11-26-sparta-prague-v-az-alkmaar",
+  "url": "https://football-tv.today/match/2026-11-26-sparta-prague-v-az-alkmaar/",
+  "competition": "Europa League",
+  "home": "Sparta Prague",
+  "away": "AZ Alkmaar",
+  "kickoff": "2026-11-26T20:00:00+00:00",
+  "channels": [],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-11-26-sunderland-v-jagiellonia",
+  "url": "https://football-tv.today/match/2026-11-26-sunderland-v-jagiellonia/",
+  "competition": "Europa League",
+  "home": "Sunderland",
+  "away": "Jagiellonia",
+  "kickoff": "2026-11-26T20:00:00+00:00",
+  "channels": [],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-11-26-torreense-v-celtic",
+  "url": "https://football-tv.today/match/2026-11-26-torreense-v-celtic/",
+  "competition": "Europa League",
+  "home": "Torreense",
+  "away": "Celtic",
+  "kickoff": "2026-11-26T20:00:00+00:00",
+  "channels": [],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
  },
  {
   "id": "2026-11-27-nottingham-forest-v-chelsea",
@@ -2571,6 +3533,26 @@
   "updated": "2026-10-27T13:32:49.092113+00:00"
  },
  {
+  "id": "2026-12-08-viking-v-feyenoord",
+  "url": "https://football-tv.today/match/2026-12-08-viking-v-feyenoord/",
+  "competition": "Champions League",
+  "home": "Viking",
+  "away": "Feyenoord",
+  "kickoff": "2026-12-08T17:45:00+00:00",
+  "channels": [],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-12-08-villarreal-v-sabah",
+  "url": "https://football-tv.today/match/2026-12-08-villarreal-v-sabah/",
+  "competition": "Champions League",
+  "home": "Villarreal",
+  "away": "Sabah",
+  "kickoff": "2026-12-08T17:45:00+00:00",
+  "channels": [],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
   "id": "2026-12-08-blackburn-rovers-v-norwich-city",
   "url": "https://football-tv.today/match/2026-12-08-blackburn-rovers-v-norwich-city/",
   "competition": "Championship",
@@ -2643,6 +3625,46 @@
   "updated": "2026-10-27T13:32:49.092113+00:00"
  },
  {
+  "id": "2026-12-08-aek-athens-v-galatasaray",
+  "url": "https://football-tv.today/match/2026-12-08-aek-athens-v-galatasaray/",
+  "competition": "Champions League",
+  "home": "AEK Athens",
+  "away": "Galatasaray",
+  "kickoff": "2026-12-08T20:00:00+00:00",
+  "channels": [],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-12-08-aston-villa-v-paris-saint-germain",
+  "url": "https://football-tv.today/match/2026-12-08-aston-villa-v-paris-saint-germain/",
+  "competition": "Champions League",
+  "home": "Aston Villa",
+  "away": "Paris Saint-Germain",
+  "kickoff": "2026-12-08T20:00:00+00:00",
+  "channels": [],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-12-08-barcelona-v-manchester-city",
+  "url": "https://football-tv.today/match/2026-12-08-barcelona-v-manchester-city/",
+  "competition": "Champions League",
+  "home": "Barcelona",
+  "away": "Manchester City",
+  "kickoff": "2026-12-08T20:00:00+00:00",
+  "channels": [],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-12-08-bayern-munich-v-slavia-prague",
+  "url": "https://football-tv.today/match/2026-12-08-bayern-munich-v-slavia-prague/",
+  "competition": "Champions League",
+  "home": "Bayern Munich",
+  "away": "Slavia Prague",
+  "kickoff": "2026-12-08T20:00:00+00:00",
+  "channels": [],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
   "id": "2026-12-08-birmingham-city-v-watford",
   "url": "https://football-tv.today/match/2026-12-08-birmingham-city-v-watford/",
   "competition": "Championship",
@@ -2653,6 +3675,36 @@
    "Sky Sports+"
   ],
   "updated": "2026-10-27T13:32:49.092113+00:00"
+ },
+ {
+  "id": "2026-12-08-manchester-united-v-rb-leipzig",
+  "url": "https://football-tv.today/match/2026-12-08-manchester-united-v-rb-leipzig/",
+  "competition": "Champions League",
+  "home": "Manchester United",
+  "away": "RB Leipzig",
+  "kickoff": "2026-12-08T20:00:00+00:00",
+  "channels": [],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-12-08-napoli-v-club-brugge",
+  "url": "https://football-tv.today/match/2026-12-08-napoli-v-club-brugge/",
+  "competition": "Champions League",
+  "home": "Napoli",
+  "away": "Club Brugge",
+  "kickoff": "2026-12-08T20:00:00+00:00",
+  "channels": [],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-12-08-roma-v-sporting-cp",
+  "url": "https://football-tv.today/match/2026-12-08-roma-v-sporting-cp/",
+  "competition": "Champions League",
+  "home": "Roma",
+  "away": "Sporting CP",
+  "kickoff": "2026-12-08T20:00:00+00:00",
+  "channels": [],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
  },
  {
   "id": "2026-12-08-west-ham-united-v-middlesbrough",
@@ -2666,6 +3718,26 @@
    "Sky Sports Football"
   ],
   "updated": "2026-10-27T13:32:49.092113+00:00"
+ },
+ {
+  "id": "2026-12-09-real-betis-v-como",
+  "url": "https://football-tv.today/match/2026-12-09-real-betis-v-como/",
+  "competition": "Champions League",
+  "home": "Real Betis",
+  "away": "Como",
+  "kickoff": "2026-12-09T17:45:00+00:00",
+  "channels": [],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-12-09-slovan-bratislava-v-shakhtar-donetsk",
+  "url": "https://football-tv.today/match/2026-12-09-slovan-bratislava-v-shakhtar-donetsk/",
+  "competition": "Champions League",
+  "home": "Slovan Bratislava",
+  "away": "Shakhtar Donetsk",
+  "kickoff": "2026-12-09T17:45:00+00:00",
+  "channels": [],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
  },
  {
   "id": "2026-12-09-derby-county-v-bristol-city",
@@ -2704,6 +3776,66 @@
   "updated": "2026-10-27T13:32:49.092113+00:00"
  },
  {
+  "id": "2026-12-09-arsenal-v-real-madrid",
+  "url": "https://football-tv.today/match/2026-12-09-arsenal-v-real-madrid/",
+  "competition": "Champions League",
+  "home": "Arsenal",
+  "away": "Real Madrid",
+  "kickoff": "2026-12-09T20:00:00+00:00",
+  "channels": [],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-12-09-borussia-dortmund-v-inter-milan",
+  "url": "https://football-tv.today/match/2026-12-09-borussia-dortmund-v-inter-milan/",
+  "competition": "Champions League",
+  "home": "Borussia Dortmund",
+  "away": "Inter Milan",
+  "kickoff": "2026-12-09T20:00:00+00:00",
+  "channels": [],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-12-09-lask-v-fenerbahce",
+  "url": "https://football-tv.today/match/2026-12-09-lask-v-fenerbahce/",
+  "competition": "Champions League",
+  "home": "LASK",
+  "away": "Fenerbahçe",
+  "kickoff": "2026-12-09T20:00:00+00:00",
+  "channels": [],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-12-09-lens-v-bod-glimt",
+  "url": "https://football-tv.today/match/2026-12-09-lens-v-bod-glimt/",
+  "competition": "Champions League",
+  "home": "Lens",
+  "away": "Bodø/Glimt",
+  "kickoff": "2026-12-09T20:00:00+00:00",
+  "channels": [],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-12-09-liverpool-v-porto",
+  "url": "https://football-tv.today/match/2026-12-09-liverpool-v-porto/",
+  "competition": "Champions League",
+  "home": "Liverpool",
+  "away": "Porto",
+  "kickoff": "2026-12-09T20:00:00+00:00",
+  "channels": [],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-12-09-psv-v-atletico-madrid",
+  "url": "https://football-tv.today/match/2026-12-09-psv-v-atletico-madrid/",
+  "competition": "Champions League",
+  "home": "PSV",
+  "away": "Atlético Madrid",
+  "kickoff": "2026-12-09T20:00:00+00:00",
+  "channels": [],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
   "id": "2026-12-09-southampton-v-burnley",
   "url": "https://football-tv.today/match/2026-12-09-southampton-v-burnley/",
   "competition": "Championship",
@@ -2717,6 +3849,336 @@
   "updated": "2026-10-27T13:32:49.092113+00:00"
  },
  {
+  "id": "2026-12-09-stuttgart-v-lille",
+  "url": "https://football-tv.today/match/2026-12-09-stuttgart-v-lille/",
+  "competition": "Champions League",
+  "home": "Stuttgart",
+  "away": "Lille",
+  "kickoff": "2026-12-09T20:00:00+00:00",
+  "channels": [],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-12-10-kairat-almaty-v-universitatea-craiova",
+  "url": "https://football-tv.today/match/2026-12-10-kairat-almaty-v-universitatea-craiova/",
+  "competition": "Conference League",
+  "home": "Kairat Almaty",
+  "away": "Universitatea Craiova",
+  "kickoff": "2026-12-10T15:30:00+00:00",
+  "channels": [
+   "TNT Sports on HBO Max"
+  ],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-12-10-anderlecht-v-hoffenheim",
+  "url": "https://football-tv.today/match/2026-12-10-anderlecht-v-hoffenheim/",
+  "competition": "Europa League",
+  "home": "Anderlecht",
+  "away": "Hoffenheim",
+  "kickoff": "2026-12-10T17:45:00+00:00",
+  "channels": [],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-12-10-ararat-armenia-v-nec-nijmegen",
+  "url": "https://football-tv.today/match/2026-12-10-ararat-armenia-v-nec-nijmegen/",
+  "competition": "Europa League",
+  "home": "Ararat-Armenia",
+  "away": "NEC Nijmegen",
+  "kickoff": "2026-12-10T17:45:00+00:00",
+  "channels": [],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-12-10-az-alkmaar-v-sturm-graz",
+  "url": "https://football-tv.today/match/2026-12-10-az-alkmaar-v-sturm-graz/",
+  "competition": "Europa League",
+  "home": "AZ Alkmaar",
+  "away": "Sturm Graz",
+  "kickoff": "2026-12-10T17:45:00+00:00",
+  "channels": [],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-12-10-brann-v-braga",
+  "url": "https://football-tv.today/match/2026-12-10-brann-v-braga/",
+  "competition": "Conference League",
+  "home": "Brann",
+  "away": "Braga",
+  "kickoff": "2026-12-10T17:45:00+00:00",
+  "channels": [
+   "TNT Sports on HBO Max"
+  ],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-12-10-celje-v-olympiacos",
+  "url": "https://football-tv.today/match/2026-12-10-celje-v-olympiacos/",
+  "competition": "Europa League",
+  "home": "Celje",
+  "away": "Olympiacos",
+  "kickoff": "2026-12-10T17:45:00+00:00",
+  "channels": [],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-12-10-copenhagen-v-lugano",
+  "url": "https://football-tv.today/match/2026-12-10-copenhagen-v-lugano/",
+  "competition": "Conference League",
+  "home": "Copenhagen",
+  "away": "Lugano",
+  "kickoff": "2026-12-10T17:45:00+00:00",
+  "channels": [
+   "TNT Sports on HBO Max"
+  ],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-12-10-freiburg-v-panathinaikos",
+  "url": "https://football-tv.today/match/2026-12-10-freiburg-v-panathinaikos/",
+  "competition": "Conference League",
+  "home": "Freiburg",
+  "away": "Panathinaikos",
+  "kickoff": "2026-12-10T17:45:00+00:00",
+  "channels": [
+   "TNT Sports on HBO Max"
+  ],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-12-10-getafe-v-inter-escaldes",
+  "url": "https://football-tv.today/match/2026-12-10-getafe-v-inter-escaldes/",
+  "competition": "Conference League",
+  "home": "Getafe",
+  "away": "Inter Escaldes",
+  "kickoff": "2026-12-10T17:45:00+00:00",
+  "channels": [
+   "TNT Sports on HBO Max"
+  ],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-12-10-hapoel-beer-sheva-v-juventus",
+  "url": "https://football-tv.today/match/2026-12-10-hapoel-beer-sheva-v-juventus/",
+  "competition": "Europa League",
+  "home": "Hapoel Beer-Sheva",
+  "away": "Juventus",
+  "kickoff": "2026-12-10T17:45:00+00:00",
+  "channels": [],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-12-10-iberia-tbilisi-v-red-star-belgrade",
+  "url": "https://football-tv.today/match/2026-12-10-iberia-tbilisi-v-red-star-belgrade/",
+  "competition": "Conference League",
+  "home": "Iberia Tbilisi",
+  "away": "Red Star Belgrade",
+  "kickoff": "2026-12-10T17:45:00+00:00",
+  "channels": [
+   "TNT Sports on HBO Max"
+  ],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-12-10-jagiellonia-v-crystal-palace",
+  "url": "https://football-tv.today/match/2026-12-10-jagiellonia-v-crystal-palace/",
+  "competition": "Europa League",
+  "home": "Jagiellonia",
+  "away": "Crystal Palace",
+  "kickoff": "2026-12-10T17:45:00+00:00",
+  "channels": [],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-12-10-kups-kuopio-v-cska-sofia",
+  "url": "https://football-tv.today/match/2026-12-10-kups-kuopio-v-cska-sofia/",
+  "competition": "Conference League",
+  "home": "KuPS Kuopio",
+  "away": "CSKA Sofia",
+  "kickoff": "2026-12-10T17:45:00+00:00",
+  "channels": [
+   "TNT Sports on HBO Max"
+  ],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-12-10-lincoln-red-imps-v-midtjylland",
+  "url": "https://football-tv.today/match/2026-12-10-lincoln-red-imps-v-midtjylland/",
+  "competition": "Conference League",
+  "home": "Lincoln Red Imps",
+  "away": "Midtjylland",
+  "kickoff": "2026-12-10T17:45:00+00:00",
+  "channels": [
+   "TNT Sports on HBO Max"
+  ],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-12-10-marseille-v-celta-vigo",
+  "url": "https://football-tv.today/match/2026-12-10-marseille-v-celta-vigo/",
+  "competition": "Europa League",
+  "home": "Marseille",
+  "away": "Celta Vigo",
+  "kickoff": "2026-12-10T17:45:00+00:00",
+  "channels": [],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-12-10-omonia-v-celtic",
+  "url": "https://football-tv.today/match/2026-12-10-omonia-v-celtic/",
+  "competition": "Europa League",
+  "home": "Omonia",
+  "away": "Celtic",
+  "kickoff": "2026-12-10T17:45:00+00:00",
+  "channels": [],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-12-10-rennes-v-dinamo-zagreb",
+  "url": "https://football-tv.today/match/2026-12-10-rennes-v-dinamo-zagreb/",
+  "competition": "Europa League",
+  "home": "Rennes",
+  "away": "Dinamo Zagreb",
+  "kickoff": "2026-12-10T17:45:00+00:00",
+  "channels": [],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-12-10-riga-v-atalanta",
+  "url": "https://football-tv.today/match/2026-12-10-riga-v-atalanta/",
+  "competition": "Conference League",
+  "home": "Riga",
+  "away": "Atalanta",
+  "kickoff": "2026-12-10T17:45:00+00:00",
+  "channels": [
+   "TNT Sports on HBO Max"
+  ],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-12-10-trabzonspor-v-jablonec",
+  "url": "https://football-tv.today/match/2026-12-10-trabzonspor-v-jablonec/",
+  "competition": "Conference League",
+  "home": "Trabzonspor",
+  "away": "Jablonec",
+  "kickoff": "2026-12-10T17:45:00+00:00",
+  "channels": [
+   "TNT Sports on HBO Max"
+  ],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-12-10-aarhus-v-twente",
+  "url": "https://football-tv.today/match/2026-12-10-aarhus-v-twente/",
+  "competition": "Conference League",
+  "home": "Aarhus",
+  "away": "Twente",
+  "kickoff": "2026-12-10T20:00:00+00:00",
+  "channels": [
+   "TNT Sports on HBO Max"
+  ],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-12-10-ac-milan-v-sunderland",
+  "url": "https://football-tv.today/match/2026-12-10-ac-milan-v-sunderland/",
+  "competition": "Europa League",
+  "home": "AC Milan",
+  "away": "Sunderland",
+  "kickoff": "2026-12-10T20:00:00+00:00",
+  "channels": [],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-12-10-bayer-leverkusen-v-besiktas",
+  "url": "https://football-tv.today/match/2026-12-10-bayer-leverkusen-v-besiktas/",
+  "competition": "Europa League",
+  "home": "Bayer Leverkusen",
+  "away": "Beşiktaş",
+  "kickoff": "2026-12-10T20:00:00+00:00",
+  "channels": [],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-12-10-benfica-v-ofi-crete",
+  "url": "https://football-tv.today/match/2026-12-10-benfica-v-ofi-crete/",
+  "competition": "Europa League",
+  "home": "Benfica",
+  "away": "OFI Crete",
+  "kickoff": "2026-12-10T20:00:00+00:00",
+  "channels": [],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-12-10-bournemouth-v-viktoria-plzen",
+  "url": "https://football-tv.today/match/2026-12-10-bournemouth-v-viktoria-plzen/",
+  "competition": "Europa League",
+  "home": "Bournemouth",
+  "away": "Viktoria Plzeň",
+  "kickoff": "2026-12-10T20:00:00+00:00",
+  "channels": [],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-12-10-brighton-and-hove-albion-v-monaco",
+  "url": "https://football-tv.today/match/2026-12-10-brighton-and-hove-albion-v-monaco/",
+  "competition": "Conference League",
+  "home": "Brighton and Hove Albion",
+  "away": "Monaco",
+  "kickoff": "2026-12-10T20:00:00+00:00",
+  "channels": [
+   "TNT Sports on HBO Max"
+  ],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-12-10-egnatia-v-kauno-zalgiris",
+  "url": "https://football-tv.today/match/2026-12-10-egnatia-v-kauno-zalgiris/",
+  "competition": "Conference League",
+  "home": "Egnatia",
+  "away": "Kauno Žalgiris",
+  "kickoff": "2026-12-10T20:00:00+00:00",
+  "channels": [
+   "TNT Sports on HBO Max"
+  ],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-12-10-hajduk-split-v-nordsjlland",
+  "url": "https://football-tv.today/match/2026-12-10-hajduk-split-v-nordsjlland/",
+  "competition": "Conference League",
+  "home": "Hajduk Split",
+  "away": "Nordsjælland",
+  "kickoff": "2026-12-10T20:00:00+00:00",
+  "channels": [
+   "TNT Sports on HBO Max"
+  ],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-12-10-heart-of-midlothian-v-borac",
+  "url": "https://football-tv.today/match/2026-12-10-heart-of-midlothian-v-borac/",
+  "competition": "Conference League",
+  "home": "Heart of Midlothian",
+  "away": "Borac",
+  "kickoff": "2026-12-10T20:00:00+00:00",
+  "channels": [
+   "TNT Sports on HBO Max"
+  ],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-12-10-lech-poznan-v-ferencvaros",
+  "url": "https://football-tv.today/match/2026-12-10-lech-poznan-v-ferencvaros/",
+  "competition": "Europa League",
+  "home": "Lech Poznań",
+  "away": "Ferencváros",
+  "kickoff": "2026-12-10T20:00:00+00:00",
+  "channels": [],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
   "id": "2026-12-10-leicester-city-v-sheffield-wednesday",
   "url": "https://football-tv.today/match/2026-12-10-leicester-city-v-sheffield-wednesday/",
   "competition": "League One",
@@ -2728,6 +4190,82 @@
    "Sky Sports Football"
   ],
   "updated": "2026-10-27T13:32:49.092113+00:00"
+ },
+ {
+  "id": "2026-12-10-levski-sofia-v-lillestrm",
+  "url": "https://football-tv.today/match/2026-12-10-levski-sofia-v-lillestrm/",
+  "competition": "Europa League",
+  "home": "Levski Sofia",
+  "away": "Lillestrøm",
+  "kickoff": "2026-12-10T20:00:00+00:00",
+  "channels": [],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-12-10-lyon-v-union-sg",
+  "url": "https://football-tv.today/match/2026-12-10-lyon-v-union-sg/",
+  "competition": "Europa League",
+  "home": "Lyon",
+  "away": "Union SG",
+  "kickoff": "2026-12-10T20:00:00+00:00",
+  "channels": [],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-12-10-mjallby-v-pafos",
+  "url": "https://football-tv.today/match/2026-12-10-mjallby-v-pafos/",
+  "competition": "Conference League",
+  "home": "Mjällby",
+  "away": "Pafos",
+  "kickoff": "2026-12-10T20:00:00+00:00",
+  "channels": [
+   "TNT Sports on HBO Max"
+  ],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-12-10-rb-salzburg-v-sparta-prague",
+  "url": "https://football-tv.today/match/2026-12-10-rb-salzburg-v-sparta-prague/",
+  "competition": "Europa League",
+  "home": "RB Salzburg",
+  "away": "Sparta Prague",
+  "kickoff": "2026-12-10T20:00:00+00:00",
+  "channels": [],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-12-10-real-sociedad-v-torreense",
+  "url": "https://football-tv.today/match/2026-12-10-real-sociedad-v-torreense/",
+  "competition": "Europa League",
+  "home": "Real Sociedad",
+  "away": "Torreense",
+  "kickoff": "2026-12-10T20:00:00+00:00",
+  "channels": [],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-12-10-sint-truidense-v-ajax",
+  "url": "https://football-tv.today/match/2026-12-10-sint-truidense-v-ajax/",
+  "competition": "Conference League",
+  "home": "Sint-Truidense",
+  "away": "Ajax",
+  "kickoff": "2026-12-10T20:00:00+00:00",
+  "channels": [
+   "TNT Sports on HBO Max"
+  ],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-12-10-thun-v-gent",
+  "url": "https://football-tv.today/match/2026-12-10-thun-v-gent/",
+  "competition": "Conference League",
+  "home": "Thun",
+  "away": "Gent",
+  "kickoff": "2026-12-10T20:00:00+00:00",
+  "channels": [
+   "TNT Sports on HBO Max"
+  ],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
  },
  {
   "id": "2026-12-12-everton-women-v-arsenal-women",
@@ -3064,6 +4602,54 @@
   "updated": "2026-10-31T11:05:00.000275+00:00"
  },
  {
+  "id": "2026-12-17-ajax-v-getafe",
+  "url": "https://football-tv.today/match/2026-12-17-ajax-v-getafe/",
+  "competition": "Conference League",
+  "home": "Ajax",
+  "away": "Getafe",
+  "kickoff": "2026-12-17T20:00:00+00:00",
+  "channels": [
+   "TNT Sports on HBO Max"
+  ],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-12-17-atalanta-v-mjallby",
+  "url": "https://football-tv.today/match/2026-12-17-atalanta-v-mjallby/",
+  "competition": "Conference League",
+  "home": "Atalanta",
+  "away": "Mjällby",
+  "kickoff": "2026-12-17T20:00:00+00:00",
+  "channels": [
+   "TNT Sports on HBO Max"
+  ],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-12-17-borac-v-riga",
+  "url": "https://football-tv.today/match/2026-12-17-borac-v-riga/",
+  "competition": "Conference League",
+  "home": "Borac",
+  "away": "Riga",
+  "kickoff": "2026-12-17T20:00:00+00:00",
+  "channels": [
+   "TNT Sports on HBO Max"
+  ],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-12-17-braga-v-egnatia",
+  "url": "https://football-tv.today/match/2026-12-17-braga-v-egnatia/",
+  "competition": "Conference League",
+  "home": "Braga",
+  "away": "Egnatia",
+  "kickoff": "2026-12-17T20:00:00+00:00",
+  "channels": [
+   "TNT Sports on HBO Max"
+  ],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
   "id": "2026-12-17-crewe-alexandra-v-salford-city",
   "url": "https://football-tv.today/match/2026-12-17-crewe-alexandra-v-salford-city/",
   "competition": "League Two",
@@ -3074,6 +4660,174 @@
    "Sky Sports Football"
   ],
   "updated": "2026-10-31T11:05:00.000275+00:00"
+ },
+ {
+  "id": "2026-12-17-cska-sofia-v-thun",
+  "url": "https://football-tv.today/match/2026-12-17-cska-sofia-v-thun/",
+  "competition": "Conference League",
+  "home": "CSKA Sofia",
+  "away": "Thun",
+  "kickoff": "2026-12-17T20:00:00+00:00",
+  "channels": [
+   "TNT Sports on HBO Max"
+  ],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-12-17-gent-v-brann",
+  "url": "https://football-tv.today/match/2026-12-17-gent-v-brann/",
+  "competition": "Conference League",
+  "home": "Gent",
+  "away": "Brann",
+  "kickoff": "2026-12-17T20:00:00+00:00",
+  "channels": [
+   "TNT Sports on HBO Max"
+  ],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-12-17-inter-escaldes-v-aarhus",
+  "url": "https://football-tv.today/match/2026-12-17-inter-escaldes-v-aarhus/",
+  "competition": "Conference League",
+  "home": "Inter Escaldes",
+  "away": "Aarhus",
+  "kickoff": "2026-12-17T20:00:00+00:00",
+  "channels": [
+   "TNT Sports on HBO Max"
+  ],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-12-17-jablonec-v-iberia-tbilisi",
+  "url": "https://football-tv.today/match/2026-12-17-jablonec-v-iberia-tbilisi/",
+  "competition": "Conference League",
+  "home": "Jablonec",
+  "away": "Iberia Tbilisi",
+  "kickoff": "2026-12-17T20:00:00+00:00",
+  "channels": [
+   "TNT Sports on HBO Max"
+  ],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-12-17-kauno-zalgiris-v-freiburg",
+  "url": "https://football-tv.today/match/2026-12-17-kauno-zalgiris-v-freiburg/",
+  "competition": "Conference League",
+  "home": "Kauno Žalgiris",
+  "away": "Freiburg",
+  "kickoff": "2026-12-17T20:00:00+00:00",
+  "channels": [
+   "TNT Sports on HBO Max"
+  ],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-12-17-lugano-v-sint-truidense",
+  "url": "https://football-tv.today/match/2026-12-17-lugano-v-sint-truidense/",
+  "competition": "Conference League",
+  "home": "Lugano",
+  "away": "Sint-Truidense",
+  "kickoff": "2026-12-17T20:00:00+00:00",
+  "channels": [
+   "TNT Sports on HBO Max"
+  ],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-12-17-midtjylland-v-hajduk-split",
+  "url": "https://football-tv.today/match/2026-12-17-midtjylland-v-hajduk-split/",
+  "competition": "Conference League",
+  "home": "Midtjylland",
+  "away": "Hajduk Split",
+  "kickoff": "2026-12-17T20:00:00+00:00",
+  "channels": [
+   "TNT Sports on HBO Max"
+  ],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-12-17-monaco-v-lincoln-red-imps",
+  "url": "https://football-tv.today/match/2026-12-17-monaco-v-lincoln-red-imps/",
+  "competition": "Conference League",
+  "home": "Monaco",
+  "away": "Lincoln Red Imps",
+  "kickoff": "2026-12-17T20:00:00+00:00",
+  "channels": [
+   "TNT Sports on HBO Max"
+  ],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-12-17-nordsjlland-v-kups-kuopio",
+  "url": "https://football-tv.today/match/2026-12-17-nordsjlland-v-kups-kuopio/",
+  "competition": "Conference League",
+  "home": "Nordsjælland",
+  "away": "KuPS Kuopio",
+  "kickoff": "2026-12-17T20:00:00+00:00",
+  "channels": [
+   "TNT Sports on HBO Max"
+  ],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-12-17-pafos-v-heart-of-midlothian",
+  "url": "https://football-tv.today/match/2026-12-17-pafos-v-heart-of-midlothian/",
+  "competition": "Conference League",
+  "home": "Pafos",
+  "away": "Heart of Midlothian",
+  "kickoff": "2026-12-17T20:00:00+00:00",
+  "channels": [
+   "TNT Sports on HBO Max"
+  ],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-12-17-panathinaikos-v-brighton-and-hove-albion",
+  "url": "https://football-tv.today/match/2026-12-17-panathinaikos-v-brighton-and-hove-albion/",
+  "competition": "Conference League",
+  "home": "Panathinaikos",
+  "away": "Brighton and Hove Albion",
+  "kickoff": "2026-12-17T20:00:00+00:00",
+  "channels": [
+   "TNT Sports on HBO Max"
+  ],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-12-17-red-star-belgrade-v-trabzonspor",
+  "url": "https://football-tv.today/match/2026-12-17-red-star-belgrade-v-trabzonspor/",
+  "competition": "Conference League",
+  "home": "Red Star Belgrade",
+  "away": "Trabzonspor",
+  "kickoff": "2026-12-17T20:00:00+00:00",
+  "channels": [
+   "TNT Sports on HBO Max"
+  ],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-12-17-twente-v-kairat-almaty",
+  "url": "https://football-tv.today/match/2026-12-17-twente-v-kairat-almaty/",
+  "competition": "Conference League",
+  "home": "Twente",
+  "away": "Kairat Almaty",
+  "kickoff": "2026-12-17T20:00:00+00:00",
+  "channels": [
+   "TNT Sports on HBO Max"
+  ],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
+ },
+ {
+  "id": "2026-12-17-universitatea-craiova-v-copenhagen",
+  "url": "https://football-tv.today/match/2026-12-17-universitatea-craiova-v-copenhagen/",
+  "competition": "Conference League",
+  "home": "Universitatea Craiova",
+  "away": "Copenhagen",
+  "kickoff": "2026-12-17T20:00:00+00:00",
+  "channels": [
+   "TNT Sports on HBO Max"
+  ],
+  "updated": "2026-11-05T09:54:10.824580+00:00"
  },
  {
   "id": "2026-12-18-west-bromwich-albion-v-sheffield-united",
