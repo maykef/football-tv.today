@@ -4187,6 +4187,30 @@
   "updated": "2026-10-31T11:05:00.000275+00:00"
  },
  {
+  "id": "2026-12-20-aberdeen-v-celtic",
+  "url": "https://football-tv.today/match/2026-12-20-aberdeen-v-celtic/",
+  "competition": "Scottish Premiership",
+  "home": "Aberdeen",
+  "away": "Celtic",
+  "kickoff": "2026-12-20T12:00:00+00:00",
+  "channels": [
+   "Sky Sports Football"
+  ],
+  "updated": "2026-11-05T11:05:00.005480+00:00"
+ },
+ {
+  "id": "2026-12-20-charlton-athletic-women-v-arsenal-women",
+  "url": "https://football-tv.today/match/2026-12-20-charlton-athletic-women-v-arsenal-women/",
+  "competition": "Women's Super League",
+  "home": "Charlton Athletic Women",
+  "away": "Arsenal Women",
+  "kickoff": "2026-12-20T12:00:00+00:00",
+  "channels": [
+   "Sky Sports"
+  ],
+  "updated": "2026-11-05T11:05:00.005480+00:00"
+ },
+ {
   "id": "2026-12-20-durham-women-v-ipswich-town-women",
   "url": "https://football-tv.today/match/2026-12-20-durham-women-v-ipswich-town-women/",
   "competition": "WSL 2",
@@ -4199,14 +4223,40 @@
   "updated": "2026-10-27T15:41:39.547571+00:00"
  },
  {
+  "id": "2026-12-20-manchester-city-women-v-everton-women",
+  "url": "https://football-tv.today/match/2026-12-20-manchester-city-women-v-everton-women/",
+  "competition": "Women's Super League",
+  "home": "Manchester City Women",
+  "away": "Everton Women",
+  "kickoff": "2026-12-20T12:00:00+00:00",
+  "channels": [
+   "Sky Sports"
+  ],
+  "updated": "2026-11-05T11:05:00.005480+00:00"
+ },
+ {
   "id": "2026-12-20-brighton-and-hove-albion-v-ipswich-town",
   "url": "https://football-tv.today/match/2026-12-20-brighton-and-hove-albion-v-ipswich-town/",
   "competition": "Premier League",
   "home": "Brighton and Hove Albion",
   "away": "Ipswich Town",
   "kickoff": "2026-12-20T14:00:00+00:00",
-  "channels": [],
-  "updated": "2026-10-27T15:41:39.547571+00:00"
+  "channels": [
+   "Sky Sports"
+  ],
+  "updated": "2026-11-05T11:05:00.005480+00:00"
+ },
+ {
+  "id": "2026-12-20-liverpool-women-v-crystal-palace-women",
+  "url": "https://football-tv.today/match/2026-12-20-liverpool-women-v-crystal-palace-women/",
+  "competition": "Women's Super League",
+  "home": "Liverpool Women",
+  "away": "Crystal Palace Women",
+  "kickoff": "2026-12-20T14:00:00+00:00",
+  "channels": [
+   "Sky Sports"
+  ],
+  "updated": "2026-11-05T11:05:00.005480+00:00"
  },
  {
   "id": "2026-12-20-newcastle-united-women-v-watford-women",
@@ -4251,8 +4301,46 @@
   "home": "Sunderland",
   "away": "Crystal Palace",
   "kickoff": "2026-12-20T14:00:00+00:00",
-  "channels": [],
-  "updated": "2026-10-27T15:41:39.547571+00:00"
+  "channels": [
+   "Sky Sports"
+  ],
+  "updated": "2026-11-05T11:05:00.005480+00:00"
+ },
+ {
+  "id": "2026-12-20-west-ham-united-women-v-birmingham-city-women",
+  "url": "https://football-tv.today/match/2026-12-20-west-ham-united-women-v-birmingham-city-women/",
+  "competition": "Women's Super League",
+  "home": "West Ham United Women",
+  "away": "Birmingham City Women",
+  "kickoff": "2026-12-20T14:00:00+00:00",
+  "channels": [
+   "Sky Sports"
+  ],
+  "updated": "2026-11-05T11:05:00.005480+00:00"
+ },
+ {
+  "id": "2026-12-20-manchester-united-women-v-tottenham-hotspur-women",
+  "url": "https://football-tv.today/match/2026-12-20-manchester-united-women-v-tottenham-hotspur-women/",
+  "competition": "Women's Super League",
+  "home": "Manchester United Women",
+  "away": "Tottenham Hotspur Women",
+  "kickoff": "2026-12-20T14:30:00+00:00",
+  "channels": [
+   "Sky Sports"
+  ],
+  "updated": "2026-11-05T11:05:00.005480+00:00"
+ },
+ {
+  "id": "2026-12-20-rangers-v-heart-of-midlothian",
+  "url": "https://football-tv.today/match/2026-12-20-rangers-v-heart-of-midlothian/",
+  "competition": "Scottish Premiership",
+  "home": "Rangers",
+  "away": "Heart of Midlothian",
+  "kickoff": "2026-12-20T14:30:00+00:00",
+  "channels": [
+   "Sky Sports Football"
+  ],
+  "updated": "2026-11-05T11:05:00.005480+00:00"
  },
  {
   "id": "2026-12-20-leicester-city-women-v-burnley-women",
@@ -4273,8 +4361,11 @@
   "home": "Arsenal",
   "away": "Manchester United",
   "kickoff": "2026-12-20T16:30:00+00:00",
-  "channels": [],
-  "updated": "2026-10-27T15:41:39.547571+00:00"
+  "channels": [
+   "Sky Sports Main Event",
+   "Sky Sports Football"
+  ],
+  "updated": "2026-11-05T11:05:00.005480+00:00"
  },
  {
   "id": "2026-12-21-bristol-city-women-v-nottingham-forest-women",
