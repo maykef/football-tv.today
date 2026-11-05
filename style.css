@@ -80,6 +80,8 @@ h3 small { display: block; font: 400 .9rem/1.3 var(--body); color: var(--muted);
 .fx { display: grid; grid-template-columns: minmax(0, 1fr) 3.6rem minmax(0, 1fr); align-items: center; gap: .4rem .35rem; padding: .65rem .75rem; background: var(--surface); border-left: 3px solid var(--ink); text-decoration: none; }
 .fx-h, .fx-a { font-weight: 400; line-height: 1.25; overflow-wrap: anywhere; }
 .fx-h { text-align: right; }
+.fx-h small, .fx-a small { display: block; font-size: .72rem; line-height: 1.3; color: var(--muted); }
+.fx-loc { grid-column: 1 / -1; text-align: center; font-size: .88rem; color: var(--muted); }
 .fx-t { font: 400 1.15rem/1 var(--body); font-variant-numeric: tabular-nums; text-align: center; }
 .fx-c { grid-column: 1 / -1; display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: .3rem .4rem; }
 .fx-note { font-size: .85rem; color: var(--muted); }
