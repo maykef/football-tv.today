@@ -1,42 +1,5 @@
 [
  {
-  "id": "2026-11-06-oxford-city-v-leicester-city",
-  "url": "https://football-tv.today/match/2026-11-06-oxford-city-v-leicester-city/",
-  "competition": "FA Cup",
-  "home": "Oxford City",
-  "away": "Leicester City",
-  "kickoff": "2026-11-06T19:45:00+00:00",
-  "channels": [
-   "TNT Sports 1"
-  ],
-  "updated": "2026-10-30T11:45:53.907022+00:00"
- },
- {
-  "id": "2026-11-06-derby-county-v-bolton-wanderers",
-  "url": "https://football-tv.today/match/2026-11-06-derby-county-v-bolton-wanderers/",
-  "competition": "Championship",
-  "home": "Derby County",
-  "away": "Bolton Wanderers",
-  "kickoff": "2026-11-06T20:00:00+00:00",
-  "channels": [
-   "Sky Sports Football"
-  ],
-  "updated": "2026-10-27T13:17:55.023172+00:00"
- },
- {
-  "id": "2026-11-06-everton-v-coventry-city",
-  "url": "https://football-tv.today/match/2026-11-06-everton-v-coventry-city/",
-  "competition": "Premier League",
-  "home": "Everton",
-  "away": "Coventry City",
-  "kickoff": "2026-11-06T20:00:00+00:00",
-  "channels": [
-   "Sky Sports Main Event",
-   "Sky Sports Premier League"
-  ],
-  "updated": "2026-10-27T15:41:39.547571+00:00"
- },
- {
   "id": "2026-11-07-bristol-city-v-norwich-city",
   "url": "https://football-tv.today/match/2026-11-07-bristol-city-v-norwich-city/",
   "competition": "Championship",
