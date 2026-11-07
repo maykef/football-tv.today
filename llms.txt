@@ -12,6 +12,7 @@ Kick-off times are UK time. A match with no confirmed broadcaster says so; nothi
 - Match pages: https://football-tv.today/match/<date>-<home>-v-<away>/ (all listed in the sitemap)
 
 ## Competitions
+- [Bundesliga](https://football-tv.today/competition/bundesliga/)
 - [Carabao Cup](https://football-tv.today/competition/carabao-cup/)
 - [Champions League](https://football-tv.today/competition/champions-league/)
 - [Championship](https://football-tv.today/competition/championship/)
@@ -22,6 +23,7 @@ Kick-off times are UK time. A match with no confirmed broadcaster says so; nothi
 - [League Two](https://football-tv.today/competition/league-two/)
 - [Nations League](https://football-tv.today/competition/nations-league/)
 - [Premier League](https://football-tv.today/competition/premier-league/)
+- [Scottish Championship](https://football-tv.today/competition/scottish-championship/)
 - [Scottish Premiership](https://football-tv.today/competition/scottish-premiership/)
 
 ## Data

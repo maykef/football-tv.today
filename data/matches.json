@@ -65,8 +65,10 @@
   "home": "Fulham",
   "away": "Newcastle United",
   "kickoff": "2026-11-07T15:00:00+00:00",
-  "channels": [],
-  "updated": "2026-10-27T15:41:39.547571+00:00"
+  "channels": [
+   "Sky Sports+"
+  ],
+  "updated": "2026-11-07T00:30:02.885567+00:00"
  },
  {
   "id": "2026-11-07-altrincham-v-notts-county",
@@ -93,6 +95,30 @@
    "Sky Sports Premier League"
   ],
   "updated": "2026-10-27T15:41:39.547571+00:00"
+ },
+ {
+  "id": "2026-11-07-stuttgart-v-werder-bremen",
+  "url": "https://football-tv.today/match/2026-11-07-stuttgart-v-werder-bremen/",
+  "competition": "Bundesliga",
+  "home": "Stuttgart",
+  "away": "Werder Bremen",
+  "kickoff": "2026-11-07T17:30:00+00:00",
+  "channels": [
+   "Sky Sports Football"
+  ],
+  "updated": "2026-11-07T00:30:02.885567+00:00"
+ },
+ {
+  "id": "2026-11-07-aberdeen-v-hibernian",
+  "url": "https://football-tv.today/match/2026-11-07-aberdeen-v-hibernian/",
+  "competition": "Scottish Premiership",
+  "home": "Aberdeen",
+  "away": "Hibernian",
+  "kickoff": "2026-11-07T17:45:00+00:00",
+  "channels": [
+   "Premier Sports"
+  ],
+  "updated": "2026-11-07T00:30:02.885567+00:00"
  },
  {
   "id": "2026-11-07-peterborough-united-v-reading",
@@ -903,6 +929,18 @@
    "Sky Sports Premier League"
   ],
   "updated": "2026-10-27T15:41:39.547571+00:00"
+ },
+ {
+  "id": "2026-11-21-schalke-v-stuttgart",
+  "url": "https://football-tv.today/match/2026-11-21-schalke-v-stuttgart/",
+  "competition": "Bundesliga",
+  "home": "Schalke",
+  "away": "Stuttgart",
+  "kickoff": "2026-11-21T17:30:00+00:00",
+  "channels": [
+   "Sky Sports Football"
+  ],
+  "updated": "2026-11-07T00:30:02.885567+00:00"
  },
  {
   "id": "2026-11-21-motherwell-v-rangers",
@@ -1745,6 +1783,18 @@
    "Sky Sports Premier League"
   ],
   "updated": "2026-10-27T15:41:39.547571+00:00"
+ },
+ {
+  "id": "2026-11-28-stuttgart-v-eintracht-frankfurt",
+  "url": "https://football-tv.today/match/2026-11-28-stuttgart-v-eintracht-frankfurt/",
+  "competition": "Bundesliga",
+  "home": "Stuttgart",
+  "away": "Eintracht Frankfurt",
+  "kickoff": "2026-11-28T17:30:00+00:00",
+  "channels": [
+   "Sky Sports Football"
+  ],
+  "updated": "2026-11-07T00:30:02.885567+00:00"
  },
  {
   "id": "2026-11-29-everton-v-liverpool",
