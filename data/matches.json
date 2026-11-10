@@ -235,7 +235,7 @@
   "channels": [
    "ITV"
   ],
-  "updated": "2026-10-27T13:17:55.023172+00:00"
+  "updated": "2026-11-10T00:30:02.801979+00:00"
  },
  {
   "id": "2026-11-14-exeter-city-v-cheltenham-town",
@@ -292,18 +292,6 @@
   "competition": "League Two",
   "home": "Crewe Alexandra",
   "away": "Newport County AFC",
-  "kickoff": "2026-11-14T15:00:00+00:00",
-  "channels": [
-   "Sky Sports+"
-  ],
-  "updated": "2026-10-27T13:17:55.023172+00:00"
- },
- {
-  "id": "2026-11-14-doncaster-rovers-v-leyton-orient",
-  "url": "https://football-tv.today/match/2026-11-14-doncaster-rovers-v-leyton-orient/",
-  "competition": "League One",
-  "home": "Doncaster Rovers",
-  "away": "Leyton Orient",
   "kickoff": "2026-11-14T15:00:00+00:00",
   "channels": [
    "Sky Sports+"
@@ -383,18 +371,6 @@
   "updated": "2026-10-27T13:17:55.023172+00:00"
  },
  {
-  "id": "2026-11-14-stevenage-v-mansfield-town",
-  "url": "https://football-tv.today/match/2026-11-14-stevenage-v-mansfield-town/",
-  "competition": "League One",
-  "home": "Stevenage",
-  "away": "Mansfield Town",
-  "kickoff": "2026-11-14T15:00:00+00:00",
-  "channels": [
-   "Sky Sports+"
-  ],
-  "updated": "2026-10-27T13:17:55.023172+00:00"
- },
- {
   "id": "2026-11-14-stockport-county-v-reading",
   "url": "https://football-tv.today/match/2026-11-14-stockport-county-v-reading/",
   "competition": "League One",
@@ -419,35 +395,11 @@
   "updated": "2026-10-27T13:17:55.023172+00:00"
  },
  {
-  "id": "2026-11-14-walsall-v-barnet",
-  "url": "https://football-tv.today/match/2026-11-14-walsall-v-barnet/",
-  "competition": "League Two",
-  "home": "Walsall",
-  "away": "Barnet",
-  "kickoff": "2026-11-14T15:00:00+00:00",
-  "channels": [
-   "Sky Sports+"
-  ],
-  "updated": "2026-10-27T13:17:55.023172+00:00"
- },
- {
   "id": "2026-11-14-wigan-athletic-v-barnsley",
   "url": "https://football-tv.today/match/2026-11-14-wigan-athletic-v-barnsley/",
   "competition": "League One",
   "home": "Wigan Athletic",
   "away": "Barnsley",
-  "kickoff": "2026-11-14T15:00:00+00:00",
-  "channels": [
-   "Sky Sports+"
-  ],
-  "updated": "2026-10-27T13:17:55.023172+00:00"
- },
- {
-  "id": "2026-11-14-wycombe-wanderers-v-huddersfield-town",
-  "url": "https://football-tv.today/match/2026-11-14-wycombe-wanderers-v-huddersfield-town/",
-  "competition": "League One",
-  "home": "Wycombe Wanderers",
-  "away": "Huddersfield Town",
   "kickoff": "2026-11-14T15:00:00+00:00",
   "channels": [
    "Sky Sports+"
