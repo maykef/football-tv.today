@@ -1,27 +1,5 @@
 [
  {
-  "id": "2026-11-10-barnsley-v-oldham-athletic",
-  "url": "https://football-tv.today/match/2026-11-10-barnsley-v-oldham-athletic/",
-  "competition": "EFL Trophy",
-  "home": "Barnsley",
-  "away": "Oldham Athletic",
-  "kickoff": "2026-11-11T19:00:00+00:00",
-  "channels": [
-   "Sky Sports+"
-  ],
-  "updated": "2026-10-30T11:45:53.907022+00:00"
- },
- {
-  "id": "2026-11-11-sheffield-wednesday-v-accrington-stanley",
-  "url": "https://football-tv.today/match/2026-11-11-sheffield-wednesday-v-accrington-stanley/",
-  "competition": "EFL Trophy",
-  "home": "Sheffield Wednesday",
-  "away": "Accrington Stanley",
-  "kickoff": "2026-11-11T19:00:00+00:00",
-  "channels": [],
-  "updated": "2026-10-28T10:31:45.983302+00:00"
- },
- {
   "id": "2026-11-12-england-v-croatia",
   "url": "https://football-tv.today/match/2026-11-12-england-v-croatia/",
   "competition": "Nations League",
