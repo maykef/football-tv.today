@@ -1605,18 +1605,6 @@
   "updated": "2026-10-27T13:32:49.092113+00:00"
  },
  {
-  "id": "2026-12-01-tranmere-rovers-v-salford-city",
-  "url": "https://football-tv.today/match/2026-12-01-tranmere-rovers-v-salford-city/",
-  "competition": "League Two",
-  "home": "Tranmere Rovers",
-  "away": "Salford City",
-  "kickoff": "2026-12-01T19:45:00+00:00",
-  "channels": [
-   "Sky Sports+"
-  ],
-  "updated": "2026-10-27T13:32:49.092113+00:00"
- },
- {
   "id": "2026-12-01-york-city-v-shrewsbury-town",
   "url": "https://football-tv.today/match/2026-12-01-york-city-v-shrewsbury-town/",
   "competition": "League Two",
@@ -2794,18 +2782,6 @@
   "updated": "2026-11-06T00:30:02.092541+00:00"
  },
  {
-  "id": "2026-12-19-colchester-united-v-fleetwood-town",
-  "url": "https://football-tv.today/match/2026-12-19-colchester-united-v-fleetwood-town/",
-  "competition": "League Two",
-  "home": "Colchester United",
-  "away": "Fleetwood Town",
-  "kickoff": "2026-12-19T12:30:00+00:00",
-  "channels": [
-   "Sky Sports+"
-  ],
-  "updated": "2026-10-31T11:05:00.000275+00:00"
- },
- {
   "id": "2026-12-19-northampton-town-v-exeter-city",
   "url": "https://football-tv.today/match/2026-12-19-northampton-town-v-exeter-city/",
   "competition": "League Two",
@@ -2909,6 +2885,16 @@
   "updated": "2026-11-05T11:05:00.005480+00:00"
  },
  {
+  "id": "2026-12-19-colchester-united-v-fleetwood-town",
+  "url": "https://football-tv.today/match/2026-12-19-colchester-united-v-fleetwood-town/",
+  "competition": "League Two",
+  "home": "Colchester United",
+  "away": "Fleetwood Town",
+  "kickoff": "2026-12-20T13:00:00+00:00",
+  "channels": [],
+  "updated": "2026-11-12T11:05:02.663891+00:00"
+ },
+ {
   "id": "2026-12-19-nottingham-forest-v-everton",
   "url": "https://football-tv.today/match/2026-12-19-nottingham-forest-v-everton/",
   "competition": "Premier League",
@@ -2989,8 +2975,10 @@
   "home": "Aston Villa",
   "away": "Leeds United",
   "kickoff": "2026-12-26T12:30:00+00:00",
-  "channels": [],
-  "updated": "2026-10-27T15:41:39.547571+00:00"
+  "channels": [
+   "TNT Sports"
+  ],
+  "updated": "2026-11-12T11:05:02.663891+00:00"
  },
  {
   "id": "2026-12-26-bolton-wanderers-v-burnley",
@@ -3493,14 +3481,29 @@
   "updated": "2026-11-06T00:30:02.092541+00:00"
  },
  {
+  "id": "2026-12-27-heart-of-midlothian-v-hibernian",
+  "url": "https://football-tv.today/match/2026-12-27-heart-of-midlothian-v-hibernian/",
+  "competition": "Scottish Premiership",
+  "home": "Heart of Midlothian",
+  "away": "Hibernian",
+  "kickoff": "2026-12-27T12:00:00+00:00",
+  "channels": [
+   "Sky Sports Football"
+  ],
+  "updated": "2026-11-12T11:05:02.663891+00:00"
+ },
+ {
   "id": "2026-12-27-coventry-city-v-chelsea",
   "url": "https://football-tv.today/match/2026-12-27-coventry-city-v-chelsea/",
   "competition": "Premier League",
   "home": "Coventry City",
   "away": "Chelsea",
   "kickoff": "2026-12-27T14:00:00+00:00",
-  "channels": [],
-  "updated": "2026-10-27T15:41:39.547571+00:00"
+  "channels": [
+   "Sky Sports Main Event",
+   "Sky Sports Premier League"
+  ],
+  "updated": "2026-11-12T11:05:02.663891+00:00"
  },
  {
   "id": "2026-12-27-manchester-united-v-nottingham-forest",
@@ -3509,8 +3512,11 @@
   "home": "Manchester United",
   "away": "Nottingham Forest",
   "kickoff": "2026-12-27T16:30:00+00:00",
-  "channels": [],
-  "updated": "2026-10-27T15:41:39.547571+00:00"
+  "channels": [
+   "Sky Sports Main Event",
+   "Sky Sports Premier League"
+  ],
+  "updated": "2026-11-12T11:05:02.663891+00:00"
  },
  {
   "id": "2026-12-27-crystal-palace-v-arsenal",
@@ -3519,8 +3525,24 @@
   "home": "Crystal Palace",
   "away": "Arsenal",
   "kickoff": "2026-12-27T19:00:00+00:00",
-  "channels": [],
-  "updated": "2026-10-27T15:41:39.547571+00:00"
+  "channels": [
+   "Sky Sports Main Event",
+   "Sky Sports Premier League"
+  ],
+  "updated": "2026-11-12T11:05:02.663891+00:00"
+ },
+ {
+  "id": "2026-12-29-wrexham-v-blackburn-rovers",
+  "url": "https://football-tv.today/match/2026-12-29-wrexham-v-blackburn-rovers/",
+  "competition": "Championship",
+  "home": "Wrexham",
+  "away": "Blackburn Rovers",
+  "kickoff": "2026-12-29T18:00:00+00:00",
+  "channels": [
+   "Sky Sports Main Event",
+   "Sky Sports Football"
+  ],
+  "updated": "2026-11-12T11:05:02.663891+00:00"
  },
  {
   "id": "2026-12-29-hull-city-v-leeds-united",
@@ -3529,8 +3551,10 @@
   "home": "Hull City",
   "away": "Leeds United",
   "kickoff": "2026-12-29T19:30:00+00:00",
-  "channels": [],
-  "updated": "2026-10-27T15:41:39.547571+00:00"
+  "channels": [
+   "Sky Sports+"
+  ],
+  "updated": "2026-11-12T11:05:02.663891+00:00"
  },
  {
   "id": "2026-12-29-tottenham-hotspur-v-brighton-and-hove-albion",
@@ -3539,8 +3563,82 @@
   "home": "Tottenham Hotspur",
   "away": "Brighton and Hove Albion",
   "kickoff": "2026-12-29T19:30:00+00:00",
-  "channels": [],
-  "updated": "2026-10-27T15:41:39.547571+00:00"
+  "channels": [
+   "Sky Sports Main Event"
+  ],
+  "updated": "2026-11-12T11:05:02.663891+00:00"
+ },
+ {
+  "id": "2026-12-29-accrington-stanley-v-rotherham-united",
+  "url": "https://football-tv.today/match/2026-12-29-accrington-stanley-v-rotherham-united/",
+  "competition": "League Two",
+  "home": "Accrington Stanley",
+  "away": "Rotherham United",
+  "kickoff": "2026-12-29T19:45:00+00:00",
+  "channels": [
+   "Sky Sports+"
+  ],
+  "updated": "2026-11-12T11:05:02.663891+00:00"
+ },
+ {
+  "id": "2026-12-29-burnley-v-lincoln-city",
+  "url": "https://football-tv.today/match/2026-12-29-burnley-v-lincoln-city/",
+  "competition": "Championship",
+  "home": "Burnley",
+  "away": "Lincoln City",
+  "kickoff": "2026-12-29T19:45:00+00:00",
+  "channels": [
+   "Sky Sports+"
+  ],
+  "updated": "2026-11-12T11:05:02.663891+00:00"
+ },
+ {
+  "id": "2026-12-29-gillingham-v-barnet",
+  "url": "https://football-tv.today/match/2026-12-29-gillingham-v-barnet/",
+  "competition": "League Two",
+  "home": "Gillingham",
+  "away": "Barnet",
+  "kickoff": "2026-12-29T19:45:00+00:00",
+  "channels": [
+   "Sky Sports+"
+  ],
+  "updated": "2026-11-12T11:05:02.663891+00:00"
+ },
+ {
+  "id": "2026-12-29-leyton-orient-v-leicester-city",
+  "url": "https://football-tv.today/match/2026-12-29-leyton-orient-v-leicester-city/",
+  "competition": "League One",
+  "home": "Leyton Orient",
+  "away": "Leicester City",
+  "kickoff": "2026-12-29T19:45:00+00:00",
+  "channels": [
+   "Sky Sports+"
+  ],
+  "updated": "2026-11-12T11:05:02.663891+00:00"
+ },
+ {
+  "id": "2026-12-29-millwall-v-portsmouth",
+  "url": "https://football-tv.today/match/2026-12-29-millwall-v-portsmouth/",
+  "competition": "Championship",
+  "home": "Millwall",
+  "away": "Portsmouth",
+  "kickoff": "2026-12-29T19:45:00+00:00",
+  "channels": [
+   "Sky Sports+"
+  ],
+  "updated": "2026-11-12T11:05:02.663891+00:00"
+ },
+ {
+  "id": "2026-12-29-wycombe-wanderers-v-stevenage",
+  "url": "https://football-tv.today/match/2026-12-29-wycombe-wanderers-v-stevenage/",
+  "competition": "League One",
+  "home": "Wycombe Wanderers",
+  "away": "Stevenage",
+  "kickoff": "2026-12-29T19:45:00+00:00",
+  "channels": [
+   "Sky Sports+"
+  ],
+  "updated": "2026-11-12T11:05:02.663891+00:00"
  },
  {
   "id": "2026-12-29-everton-v-manchester-city",
@@ -3549,8 +3647,22 @@
   "home": "Everton",
   "away": "Manchester City",
   "kickoff": "2026-12-29T20:15:00+00:00",
-  "channels": [],
-  "updated": "2026-10-27T15:41:39.547571+00:00"
+  "channels": [
+   "Sky Sports Premier League"
+  ],
+  "updated": "2026-11-12T11:05:02.663891+00:00"
+ },
+ {
+  "id": "2026-12-29-southampton-v-west-ham-united",
+  "url": "https://football-tv.today/match/2026-12-29-southampton-v-west-ham-united/",
+  "competition": "Championship",
+  "home": "Southampton",
+  "away": "West Ham United",
+  "kickoff": "2026-12-29T20:15:00+00:00",
+  "channels": [
+   "Sky Sports Football"
+  ],
+  "updated": "2026-11-12T11:05:02.663891+00:00"
  },
  {
   "id": "2026-12-30-coventry-city-v-brentford",
