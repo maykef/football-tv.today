@@ -1841,6 +1841,16 @@
   "updated": "2026-10-27T15:41:39.547571+00:00"
  },
  {
+  "id": "2026-12-15-walsall-v-crawley-town",
+  "url": "https://football-tv.today/match/2026-12-15-walsall-v-crawley-town/",
+  "competition": "League Two",
+  "home": "Walsall",
+  "away": "Crawley Town",
+  "kickoff": "2026-12-05T15:00:00+00:00",
+  "channels": [],
+  "updated": "2026-11-13T00:30:01.941600+00:00"
+ },
+ {
   "id": "2026-12-05-nottingham-forest-v-brighton-and-hove-albion",
   "url": "https://football-tv.today/match/2026-12-05-nottingham-forest-v-brighton-and-hove-albion/",
   "competition": "Premier League",
@@ -2694,18 +2704,6 @@
    "Sky Sports+"
   ],
   "updated": "2026-10-29T11:05:00.001260+00:00"
- },
- {
-  "id": "2026-12-15-walsall-v-crawley-town",
-  "url": "https://football-tv.today/match/2026-12-15-walsall-v-crawley-town/",
-  "competition": "League Two",
-  "home": "Walsall",
-  "away": "Crawley Town",
-  "kickoff": "2026-12-15T19:45:00+00:00",
-  "channels": [
-   "Sky Sports+"
-  ],
-  "updated": "2026-10-31T11:05:00.000275+00:00"
  },
  {
   "id": "2026-12-17-crewe-alexandra-v-salford-city",
