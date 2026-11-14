@@ -1851,6 +1851,18 @@
   "updated": "2026-11-13T00:30:01.941600+00:00"
  },
  {
+  "id": "2026-12-05-eintracht-frankfurt-v-werder-bremen",
+  "url": "https://football-tv.today/match/2026-12-05-eintracht-frankfurt-v-werder-bremen/",
+  "competition": "Bundesliga",
+  "home": "Eintracht Frankfurt",
+  "away": "Werder Bremen",
+  "kickoff": "2026-12-05T17:30:00+00:00",
+  "channels": [
+   "Sky Sports Football"
+  ],
+  "updated": "2026-11-14T00:30:02.199646+00:00"
+ },
+ {
   "id": "2026-12-05-nottingham-forest-v-brighton-and-hove-albion",
   "url": "https://football-tv.today/match/2026-12-05-nottingham-forest-v-brighton-and-hove-albion/",
   "competition": "Premier League",
@@ -2596,6 +2608,18 @@
   "updated": "2026-10-27T15:41:39.547571+00:00"
  },
  {
+  "id": "2026-12-12-monchengladbach-v-eintracht-frankfurt",
+  "url": "https://football-tv.today/match/2026-12-12-monchengladbach-v-eintracht-frankfurt/",
+  "competition": "Bundesliga",
+  "home": "Mönchengladbach",
+  "away": "Eintracht Frankfurt",
+  "kickoff": "2026-12-12T17:30:00+00:00",
+  "channels": [
+   "Sky Sports Football"
+  ],
+  "updated": "2026-11-14T00:30:02.199646+00:00"
+ },
+ {
   "id": "2026-12-13-arsenal-v-bournemouth",
   "url": "https://football-tv.today/match/2026-12-13-arsenal-v-bournemouth/",
   "competition": "Premier League",
@@ -2706,6 +2730,44 @@
   "updated": "2026-10-29T11:05:00.001260+00:00"
  },
  {
+  "id": "2026-12-15-manchester-city-v-bradford-city",
+  "url": "https://football-tv.today/match/2026-12-15-manchester-city-v-bradford-city/",
+  "competition": "Carabao Cup",
+  "home": "Manchester City",
+  "away": "Bradford City",
+  "kickoff": "2026-12-15T20:00:00+00:00",
+  "channels": [
+   "Sky Sports Main Event",
+   "Sky Sports Football"
+  ],
+  "updated": "2026-11-14T00:30:02.199646+00:00"
+ },
+ {
+  "id": "2026-12-16-crystal-palace-v-sunderland",
+  "url": "https://football-tv.today/match/2026-12-16-crystal-palace-v-sunderland/",
+  "competition": "Carabao Cup",
+  "home": "Crystal Palace",
+  "away": "Sunderland",
+  "kickoff": "2026-12-16T19:30:00+00:00",
+  "channels": [
+   "Sky Sports+"
+  ],
+  "updated": "2026-11-14T00:30:02.199646+00:00"
+ },
+ {
+  "id": "2026-12-16-liverpool-v-bournemouth",
+  "url": "https://football-tv.today/match/2026-12-16-liverpool-v-bournemouth/",
+  "competition": "Carabao Cup",
+  "home": "Liverpool",
+  "away": "Bournemouth",
+  "kickoff": "2026-12-16T20:00:00+00:00",
+  "channels": [
+   "Sky Sports Main Event",
+   "Sky Sports Football"
+  ],
+  "updated": "2026-11-14T00:30:02.199646+00:00"
+ },
+ {
   "id": "2026-12-17-crewe-alexandra-v-salford-city",
   "url": "https://football-tv.today/match/2026-12-17-crewe-alexandra-v-salford-city/",
   "competition": "League Two",
@@ -2716,6 +2778,18 @@
    "Sky Sports Football"
   ],
   "updated": "2026-10-31T11:05:00.000275+00:00"
+ },
+ {
+  "id": "2026-12-17-fleetwood-town-v-everton",
+  "url": "https://football-tv.today/match/2026-12-17-fleetwood-town-v-everton/",
+  "competition": "Carabao Cup",
+  "home": "Fleetwood Town",
+  "away": "Everton",
+  "kickoff": "2026-12-17T20:00:00+00:00",
+  "channels": [
+   "Sky Sports Main Event"
+  ],
+  "updated": "2026-11-14T00:30:02.199646+00:00"
  },
  {
   "id": "2026-12-18-west-bromwich-albion-v-sheffield-united",
@@ -2857,6 +2931,18 @@
    "Sky Sports Football"
   ],
   "updated": "2026-10-31T11:05:00.000275+00:00"
+ },
+ {
+  "id": "2026-12-19-rb-leipzig-v-borussia-dortmund",
+  "url": "https://football-tv.today/match/2026-12-19-rb-leipzig-v-borussia-dortmund/",
+  "competition": "Bundesliga",
+  "home": "RB Leipzig",
+  "away": "Borussia Dortmund",
+  "kickoff": "2026-12-19T17:30:00+00:00",
+  "channels": [
+   "Sky Sports Football"
+  ],
+  "updated": "2026-11-14T00:30:02.199646+00:00"
  },
  {
   "id": "2026-12-20-aberdeen-v-celtic",
