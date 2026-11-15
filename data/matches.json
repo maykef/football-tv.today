@@ -3561,8 +3561,10 @@
   "home": "Coventry City",
   "away": "Brentford",
   "kickoff": "2026-12-30T19:30:00+00:00",
-  "channels": [],
-  "updated": "2026-10-27T15:41:39.547571+00:00"
+  "channels": [
+   "Sky Sports Tennis"
+  ],
+  "updated": "2026-11-15T00:30:02.176508+00:00"
  },
  {
   "id": "2026-12-30-crystal-palace-v-bournemouth",
@@ -3571,8 +3573,10 @@
   "home": "Crystal Palace",
   "away": "Bournemouth",
   "kickoff": "2026-12-30T19:30:00+00:00",
-  "channels": [],
-  "updated": "2026-10-27T15:41:39.547571+00:00"
+  "channels": [
+   "Sky Sports Golf"
+  ],
+  "updated": "2026-11-15T00:30:02.176508+00:00"
  },
  {
   "id": "2026-12-30-fulham-v-arsenal",
@@ -3581,8 +3585,10 @@
   "home": "Fulham",
   "away": "Arsenal",
   "kickoff": "2026-12-30T19:30:00+00:00",
-  "channels": [],
-  "updated": "2026-10-27T15:41:39.547571+00:00"
+  "channels": [
+   "Sky Sports Main Event"
+  ],
+  "updated": "2026-11-15T00:30:02.176508+00:00"
  },
  {
   "id": "2026-12-30-manchester-united-v-sunderland",
@@ -3591,8 +3597,10 @@
   "home": "Manchester United",
   "away": "Sunderland",
   "kickoff": "2026-12-30T19:30:00+00:00",
-  "channels": [],
-  "updated": "2026-10-27T15:41:39.547571+00:00"
+  "channels": [
+   "Sky Sports Premier League"
+  ],
+  "updated": "2026-11-15T00:30:02.176508+00:00"
  },
  {
   "id": "2026-12-30-newcastle-united-v-nottingham-forest",
@@ -3601,8 +3609,10 @@
   "home": "Newcastle United",
   "away": "Nottingham Forest",
   "kickoff": "2026-12-30T19:30:00+00:00",
-  "channels": [],
-  "updated": "2026-10-27T15:41:39.547571+00:00"
+  "channels": [
+   "Sky Sports Cricket"
+  ],
+  "updated": "2026-11-15T00:30:02.176508+00:00"
  },
  {
   "id": "2026-12-30-aston-villa-v-liverpool",
@@ -3611,8 +3621,10 @@
   "home": "Aston Villa",
   "away": "Liverpool",
   "kickoff": "2026-12-30T20:15:00+00:00",
-  "channels": [],
-  "updated": "2026-10-27T15:41:39.547571+00:00"
+  "channels": [
+   "Sky Sports Football"
+  ],
+  "updated": "2026-11-15T00:30:02.176508+00:00"
  },
  {
   "id": "2026-12-30-ipswich-town-v-chelsea",
@@ -3621,8 +3633,382 @@
   "home": "Ipswich Town",
   "away": "Chelsea",
   "kickoff": "2026-12-30T20:15:00+00:00",
-  "channels": [],
-  "updated": "2026-10-27T15:41:39.547571+00:00"
+  "channels": [
+   "Sky Sports+"
+  ],
+  "updated": "2026-11-15T00:30:02.176508+00:00"
+ },
+ {
+  "id": "2027-01-01-millwall-v-wolverhampton-wanderers",
+  "url": "https://football-tv.today/match/2027-01-01-millwall-v-wolverhampton-wanderers/",
+  "competition": "Championship",
+  "home": "Millwall",
+  "away": "Wolverhampton Wanderers",
+  "kickoff": "2027-01-01T12:30:00+00:00",
+  "channels": [
+   "Sky Sports Football"
+  ],
+  "updated": "2026-11-15T00:30:02.176508+00:00"
+ },
+ {
+  "id": "2027-01-01-accrington-stanley-v-shrewsbury-town",
+  "url": "https://football-tv.today/match/2027-01-01-accrington-stanley-v-shrewsbury-town/",
+  "competition": "League Two",
+  "home": "Accrington Stanley",
+  "away": "Shrewsbury Town",
+  "kickoff": "2027-01-01T15:00:00+00:00",
+  "channels": [
+   "Sky Sports Football"
+  ],
+  "updated": "2026-11-15T00:30:02.176508+00:00"
+ },
+ {
+  "id": "2027-01-01-afc-wimbledon-v-peterborough-united",
+  "url": "https://football-tv.today/match/2027-01-01-afc-wimbledon-v-peterborough-united/",
+  "competition": "League One",
+  "home": "AFC Wimbledon",
+  "away": "Peterborough United",
+  "kickoff": "2027-01-01T15:00:00+00:00",
+  "channels": [
+   "Sky Sports+"
+  ],
+  "updated": "2026-11-15T00:30:02.176508+00:00"
+ },
+ {
+  "id": "2027-01-01-barnsley-v-notts-county",
+  "url": "https://football-tv.today/match/2027-01-01-barnsley-v-notts-county/",
+  "competition": "League One",
+  "home": "Barnsley",
+  "away": "Notts County",
+  "kickoff": "2027-01-01T15:00:00+00:00",
+  "channels": [
+   "Sky Sports+"
+  ],
+  "updated": "2026-11-15T00:30:02.176508+00:00"
+ },
+ {
+  "id": "2027-01-01-birmingham-city-v-portsmouth",
+  "url": "https://football-tv.today/match/2027-01-01-birmingham-city-v-portsmouth/",
+  "competition": "Championship",
+  "home": "Birmingham City",
+  "away": "Portsmouth",
+  "kickoff": "2027-01-01T15:00:00+00:00",
+  "channels": [
+   "Sky Sports+"
+  ],
+  "updated": "2026-11-15T00:30:02.176508+00:00"
+ },
+ {
+  "id": "2027-01-01-blackpool-v-doncaster-rovers",
+  "url": "https://football-tv.today/match/2027-01-01-blackpool-v-doncaster-rovers/",
+  "competition": "League One",
+  "home": "Blackpool",
+  "away": "Doncaster Rovers",
+  "kickoff": "2027-01-01T15:00:00+00:00",
+  "channels": [
+   "Sky Sports+"
+  ],
+  "updated": "2026-11-15T00:30:02.176508+00:00"
+ },
+ {
+  "id": "2027-01-01-bristol-city-v-west-ham-united",
+  "url": "https://football-tv.today/match/2027-01-01-bristol-city-v-west-ham-united/",
+  "competition": "Championship",
+  "home": "Bristol City",
+  "away": "West Ham United",
+  "kickoff": "2027-01-01T15:00:00+00:00",
+  "channels": [
+   "Sky Sports+"
+  ],
+  "updated": "2026-11-15T00:30:02.176508+00:00"
+ },
+ {
+  "id": "2027-01-01-bromley-v-stevenage",
+  "url": "https://football-tv.today/match/2027-01-01-bromley-v-stevenage/",
+  "competition": "League One",
+  "home": "Bromley",
+  "away": "Stevenage",
+  "kickoff": "2027-01-01T15:00:00+00:00",
+  "channels": [
+   "Sky Sports+"
+  ],
+  "updated": "2026-11-15T00:30:02.176508+00:00"
+ },
+ {
+  "id": "2027-01-01-colchester-united-v-rotherham-united",
+  "url": "https://football-tv.today/match/2027-01-01-colchester-united-v-rotherham-united/",
+  "competition": "League Two",
+  "home": "Colchester United",
+  "away": "Rotherham United",
+  "kickoff": "2027-01-01T15:00:00+00:00",
+  "channels": [
+   "Sky Sports+"
+  ],
+  "updated": "2026-11-15T00:30:02.176508+00:00"
+ },
+ {
+  "id": "2027-01-01-crewe-alexandra-v-oldham-athletic",
+  "url": "https://football-tv.today/match/2027-01-01-crewe-alexandra-v-oldham-athletic/",
+  "competition": "League Two",
+  "home": "Crewe Alexandra",
+  "away": "Oldham Athletic",
+  "kickoff": "2027-01-01T15:00:00+00:00",
+  "channels": [
+   "Sky Sports+"
+  ],
+  "updated": "2026-11-15T00:30:02.176508+00:00"
+ },
+ {
+  "id": "2027-01-01-derby-county-v-blackburn-rovers",
+  "url": "https://football-tv.today/match/2027-01-01-derby-county-v-blackburn-rovers/",
+  "competition": "Championship",
+  "home": "Derby County",
+  "away": "Blackburn Rovers",
+  "kickoff": "2027-01-01T15:00:00+00:00",
+  "channels": [
+   "Sky Sports+"
+  ],
+  "updated": "2026-11-15T00:30:02.176508+00:00"
+ },
+ {
+  "id": "2027-01-01-grimsby-town-v-tranmere-rovers",
+  "url": "https://football-tv.today/match/2027-01-01-grimsby-town-v-tranmere-rovers/",
+  "competition": "League Two",
+  "home": "Grimsby Town",
+  "away": "Tranmere Rovers",
+  "kickoff": "2027-01-01T15:00:00+00:00",
+  "channels": [
+   "Sky Sports+"
+  ],
+  "updated": "2026-11-15T00:30:02.176508+00:00"
+ },
+ {
+  "id": "2027-01-01-leyton-orient-v-oxford-united",
+  "url": "https://football-tv.today/match/2027-01-01-leyton-orient-v-oxford-united/",
+  "competition": "League One",
+  "home": "Leyton Orient",
+  "away": "Oxford United",
+  "kickoff": "2027-01-01T15:00:00+00:00",
+  "channels": [
+   "Sky Sports+"
+  ],
+  "updated": "2026-11-15T00:30:02.176508+00:00"
+ },
+ {
+  "id": "2027-01-01-middlesbrough-v-preston-north-end",
+  "url": "https://football-tv.today/match/2027-01-01-middlesbrough-v-preston-north-end/",
+  "competition": "Championship",
+  "home": "Middlesbrough",
+  "away": "Preston North End",
+  "kickoff": "2027-01-01T15:00:00+00:00",
+  "channels": [
+   "Sky Sports+"
+  ],
+  "updated": "2026-11-15T00:30:02.176508+00:00"
+ },
+ {
+  "id": "2027-01-01-newport-county-afc-v-barnet",
+  "url": "https://football-tv.today/match/2027-01-01-newport-county-afc-v-barnet/",
+  "competition": "League Two",
+  "home": "Newport County AFC",
+  "away": "Barnet",
+  "kickoff": "2027-01-01T15:00:00+00:00",
+  "channels": [
+   "Sky Sports+"
+  ],
+  "updated": "2026-11-15T00:30:02.176508+00:00"
+ },
+ {
+  "id": "2027-01-01-norwich-city-v-lincoln-city",
+  "url": "https://football-tv.today/match/2027-01-01-norwich-city-v-lincoln-city/",
+  "competition": "Championship",
+  "home": "Norwich City",
+  "away": "Lincoln City",
+  "kickoff": "2027-01-01T15:00:00+00:00",
+  "channels": [
+   "Sky Sports+"
+  ],
+  "updated": "2026-11-15T00:30:02.176508+00:00"
+ },
+ {
+  "id": "2027-01-01-port-vale-v-fleetwood-town",
+  "url": "https://football-tv.today/match/2027-01-01-port-vale-v-fleetwood-town/",
+  "competition": "League Two",
+  "home": "Port Vale",
+  "away": "Fleetwood Town",
+  "kickoff": "2027-01-01T15:00:00+00:00",
+  "channels": [
+   "Sky Sports+"
+  ],
+  "updated": "2026-11-15T00:30:02.176508+00:00"
+ },
+ {
+  "id": "2027-01-01-reading-v-milton-keynes-dons",
+  "url": "https://football-tv.today/match/2027-01-01-reading-v-milton-keynes-dons/",
+  "competition": "League One",
+  "home": "Reading",
+  "away": "Milton Keynes Dons",
+  "kickoff": "2027-01-01T15:00:00+00:00",
+  "channels": [
+   "Sky Sports+"
+  ],
+  "updated": "2026-11-15T00:30:02.176508+00:00"
+ },
+ {
+  "id": "2027-01-01-rochdale-v-chesterfield",
+  "url": "https://football-tv.today/match/2027-01-01-rochdale-v-chesterfield/",
+  "competition": "League Two",
+  "home": "Rochdale",
+  "away": "Chesterfield",
+  "kickoff": "2027-01-01T15:00:00+00:00",
+  "channels": [
+   "Sky Sports+"
+  ],
+  "updated": "2026-11-15T00:30:02.176508+00:00"
+ },
+ {
+  "id": "2027-01-01-sheffield-wednesday-v-huddersfield-town",
+  "url": "https://football-tv.today/match/2027-01-01-sheffield-wednesday-v-huddersfield-town/",
+  "competition": "League One",
+  "home": "Sheffield Wednesday",
+  "away": "Huddersfield Town",
+  "kickoff": "2027-01-01T15:00:00+00:00",
+  "channels": [
+   "Sky Sports+"
+  ],
+  "updated": "2026-11-15T00:30:02.176508+00:00"
+ },
+ {
+  "id": "2027-01-01-southampton-v-cardiff-city",
+  "url": "https://football-tv.today/match/2027-01-01-southampton-v-cardiff-city/",
+  "competition": "Championship",
+  "home": "Southampton",
+  "away": "Cardiff City",
+  "kickoff": "2027-01-01T15:00:00+00:00",
+  "channels": [
+   "Sky Sports+"
+  ],
+  "updated": "2026-11-15T00:30:02.176508+00:00"
+ },
+ {
+  "id": "2027-01-01-swansea-city-v-charlton-athletic",
+  "url": "https://football-tv.today/match/2027-01-01-swansea-city-v-charlton-athletic/",
+  "competition": "Championship",
+  "home": "Swansea City",
+  "away": "Charlton Athletic",
+  "kickoff": "2027-01-01T15:00:00+00:00",
+  "channels": [
+   "Sky Sports+"
+  ],
+  "updated": "2026-11-15T00:30:02.176508+00:00"
+ },
+ {
+  "id": "2027-01-01-swindon-town-v-crawley-town",
+  "url": "https://football-tv.today/match/2027-01-01-swindon-town-v-crawley-town/",
+  "competition": "League Two",
+  "home": "Swindon Town",
+  "away": "Crawley Town",
+  "kickoff": "2027-01-01T15:00:00+00:00",
+  "channels": [
+   "Sky Sports+"
+  ],
+  "updated": "2026-11-15T00:30:02.176508+00:00"
+ },
+ {
+  "id": "2027-01-01-walsall-v-cheltenham-town",
+  "url": "https://football-tv.today/match/2027-01-01-walsall-v-cheltenham-town/",
+  "competition": "League Two",
+  "home": "Walsall",
+  "away": "Cheltenham Town",
+  "kickoff": "2027-01-01T15:00:00+00:00",
+  "channels": [
+   "Sky Sports+"
+  ],
+  "updated": "2026-11-15T00:30:02.176508+00:00"
+ },
+ {
+  "id": "2027-01-01-watford-v-queens-park-rangers",
+  "url": "https://football-tv.today/match/2027-01-01-watford-v-queens-park-rangers/",
+  "competition": "Championship",
+  "home": "Watford",
+  "away": "Queens Park Rangers",
+  "kickoff": "2027-01-01T15:00:00+00:00",
+  "channels": [
+   "Sky Sports+"
+  ],
+  "updated": "2026-11-15T00:30:02.176508+00:00"
+ },
+ {
+  "id": "2027-01-01-west-bromwich-albion-v-stoke-city",
+  "url": "https://football-tv.today/match/2027-01-01-west-bromwich-albion-v-stoke-city/",
+  "competition": "Championship",
+  "home": "West Bromwich Albion",
+  "away": "Stoke City",
+  "kickoff": "2027-01-01T15:00:00+00:00",
+  "channels": [
+   "Sky Sports+"
+  ],
+  "updated": "2026-11-15T00:30:02.176508+00:00"
+ },
+ {
+  "id": "2027-01-01-wigan-athletic-v-bradford-city",
+  "url": "https://football-tv.today/match/2027-01-01-wigan-athletic-v-bradford-city/",
+  "competition": "League One",
+  "home": "Wigan Athletic",
+  "away": "Bradford City",
+  "kickoff": "2027-01-01T15:00:00+00:00",
+  "channels": [
+   "Sky Sports+"
+  ],
+  "updated": "2026-11-15T00:30:02.176508+00:00"
+ },
+ {
+  "id": "2027-01-01-wrexham-v-bolton-wanderers",
+  "url": "https://football-tv.today/match/2027-01-01-wrexham-v-bolton-wanderers/",
+  "competition": "Championship",
+  "home": "Wrexham",
+  "away": "Bolton Wanderers",
+  "kickoff": "2027-01-01T15:00:00+00:00",
+  "channels": [
+   "Sky Sports+"
+  ],
+  "updated": "2026-11-15T00:30:02.176508+00:00"
+ },
+ {
+  "id": "2027-01-01-wycombe-wanderers-v-leicester-city",
+  "url": "https://football-tv.today/match/2027-01-01-wycombe-wanderers-v-leicester-city/",
+  "competition": "League One",
+  "home": "Wycombe Wanderers",
+  "away": "Leicester City",
+  "kickoff": "2027-01-01T15:00:00+00:00",
+  "channels": [
+   "Sky Sports+"
+  ],
+  "updated": "2026-11-15T00:30:02.176508+00:00"
+ },
+ {
+  "id": "2027-01-01-york-city-v-salford-city",
+  "url": "https://football-tv.today/match/2027-01-01-york-city-v-salford-city/",
+  "competition": "League Two",
+  "home": "York City",
+  "away": "Salford City",
+  "kickoff": "2027-01-01T15:00:00+00:00",
+  "channels": [
+   "Sky Sports+"
+  ],
+  "updated": "2026-11-15T00:30:02.176508+00:00"
+ },
+ {
+  "id": "2027-01-01-burnley-v-sheffield-united",
+  "url": "https://football-tv.today/match/2027-01-01-burnley-v-sheffield-united/",
+  "competition": "Championship",
+  "home": "Burnley",
+  "away": "Sheffield United",
+  "kickoff": "2027-01-01T17:30:00+00:00",
+  "channels": [
+   "Sky Sports Football"
+  ],
+  "updated": "2026-11-15T00:30:02.176508+00:00"
  },
  {
   "id": "2027-01-01-leeds-united-v-everton",
@@ -3631,8 +4017,11 @@
   "home": "Leeds United",
   "away": "Everton",
   "kickoff": "2027-01-01T20:00:00+00:00",
-  "channels": [],
-  "updated": "2026-10-27T15:41:39.547571+00:00"
+  "channels": [
+   "Sky Sports Main Event",
+   "Sky Sports Premier League"
+  ],
+  "updated": "2026-11-15T00:30:02.176508+00:00"
  },
  {
   "id": "2027-01-02-brighton-and-hove-albion-v-manchester-united",
