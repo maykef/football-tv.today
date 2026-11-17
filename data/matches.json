@@ -12,6 +12,18 @@
   "updated": "2026-10-27T16:20:37.513182+00:00"
  },
  {
+  "id": "2026-11-20-inverness-ct-v-ayr-united",
+  "url": "https://football-tv.today/match/2026-11-20-inverness-ct-v-ayr-united/",
+  "competition": "Scottish Championship",
+  "home": "Inverness CT",
+  "away": "Ayr United",
+  "kickoff": "2026-11-20T19:30:00+00:00",
+  "channels": [
+   "BBC Scotland"
+  ],
+  "updated": "2026-11-17T11:05:02.246502+00:00"
+ },
+ {
   "id": "2026-11-20-barnsley-v-sheffield-wednesday",
   "url": "https://football-tv.today/match/2026-11-20-barnsley-v-sheffield-wednesday/",
   "competition": "League One",
@@ -194,6 +206,18 @@
    "Sky Sports Football"
   ],
   "updated": "2026-11-07T00:30:02.885567+00:00"
+ },
+ {
+  "id": "2026-11-21-dundee-v-heart-of-midlothian",
+  "url": "https://football-tv.today/match/2026-11-21-dundee-v-heart-of-midlothian/",
+  "competition": "Scottish Premiership",
+  "home": "Dundee",
+  "away": "Heart of Midlothian",
+  "kickoff": "2026-11-21T17:45:00+00:00",
+  "channels": [
+   "Premier Sports"
+  ],
+  "updated": "2026-11-17T11:05:02.246502+00:00"
  },
  {
   "id": "2026-11-21-motherwell-v-rangers",
