@@ -4034,6 +4034,19 @@
   "updated": "2026-10-27T15:41:39.547571+00:00"
  },
  {
+  "id": "2027-01-02-dundee-v-dundee-united",
+  "url": "https://football-tv.today/match/2027-01-02-dundee-v-dundee-united/",
+  "competition": "Scottish Premiership",
+  "home": "Dundee",
+  "away": "Dundee United",
+  "kickoff": "2027-01-02T12:30:00+00:00",
+  "channels": [
+   "Sky Sports Main Event",
+   "Sky Sports Football"
+  ],
+  "updated": "2026-11-18T11:05:02.684902+00:00"
+ },
+ {
   "id": "2027-01-02-arsenal-v-ipswich-town",
   "url": "https://football-tv.today/match/2027-01-02-arsenal-v-ipswich-town/",
   "competition": "Premier League",
@@ -4054,6 +4067,30 @@
   "updated": "2026-10-27T15:41:39.547571+00:00"
  },
  {
+  "id": "2027-01-02-cambridge-united-v-mansfield-town",
+  "url": "https://football-tv.today/match/2027-01-02-cambridge-united-v-mansfield-town/",
+  "competition": "League One",
+  "home": "Cambridge United",
+  "away": "Mansfield Town",
+  "kickoff": "2027-01-02T15:00:00+00:00",
+  "channels": [
+   "Sky Sports+"
+  ],
+  "updated": "2026-11-18T11:05:02.684902+00:00"
+ },
+ {
+  "id": "2027-01-02-gillingham-v-exeter-city",
+  "url": "https://football-tv.today/match/2027-01-02-gillingham-v-exeter-city/",
+  "competition": "League Two",
+  "home": "Gillingham",
+  "away": "Exeter City",
+  "kickoff": "2027-01-02T15:00:00+00:00",
+  "channels": [
+   "Sky Sports+"
+  ],
+  "updated": "2026-11-18T11:05:02.684902+00:00"
+ },
+ {
   "id": "2027-01-02-liverpool-v-coventry-city",
   "url": "https://football-tv.today/match/2027-01-02-liverpool-v-coventry-city/",
   "competition": "Premier League",
@@ -4064,6 +4101,18 @@
   "updated": "2026-10-27T15:41:39.547571+00:00"
  },
  {
+  "id": "2027-01-02-northampton-town-v-bristol-rovers",
+  "url": "https://football-tv.today/match/2027-01-02-northampton-town-v-bristol-rovers/",
+  "competition": "League Two",
+  "home": "Northampton Town",
+  "away": "Bristol Rovers",
+  "kickoff": "2027-01-02T15:00:00+00:00",
+  "channels": [
+   "Sky Sports+"
+  ],
+  "updated": "2026-11-18T11:05:02.684902+00:00"
+ },
+ {
   "id": "2027-01-02-nottingham-forest-v-fulham",
   "url": "https://football-tv.today/match/2027-01-02-nottingham-forest-v-fulham/",
   "competition": "Premier League",
@@ -4072,6 +4121,30 @@
   "kickoff": "2027-01-02T15:00:00+00:00",
   "channels": [],
   "updated": "2026-10-27T15:41:39.547571+00:00"
+ },
+ {
+  "id": "2027-01-02-plymouth-argyle-v-luton-town",
+  "url": "https://football-tv.today/match/2027-01-02-plymouth-argyle-v-luton-town/",
+  "competition": "League One",
+  "home": "Plymouth Argyle",
+  "away": "Luton Town",
+  "kickoff": "2027-01-02T15:00:00+00:00",
+  "channels": [
+   "Sky Sports+"
+  ],
+  "updated": "2026-11-18T11:05:02.684902+00:00"
+ },
+ {
+  "id": "2027-01-02-stockport-county-v-burton-albion",
+  "url": "https://football-tv.today/match/2027-01-02-stockport-county-v-burton-albion/",
+  "competition": "League One",
+  "home": "Stockport County",
+  "away": "Burton Albion",
+  "kickoff": "2027-01-02T15:00:00+00:00",
+  "channels": [
+   "Sky Sports+"
+  ],
+  "updated": "2026-11-18T11:05:02.684902+00:00"
  },
  {
   "id": "2027-01-02-sunderland-v-hull-city",
@@ -4090,8 +4163,24 @@
   "home": "Bournemouth",
   "away": "Aston Villa",
   "kickoff": "2027-01-02T17:30:00+00:00",
-  "channels": [],
-  "updated": "2026-10-27T15:41:39.547571+00:00"
+  "channels": [
+   "Sky Sports Main Event",
+   "Sky Sports Premier League"
+  ],
+  "updated": "2026-11-18T11:05:02.684902+00:00"
+ },
+ {
+  "id": "2027-01-03-rangers-v-celtic",
+  "url": "https://football-tv.today/match/2027-01-03-rangers-v-celtic/",
+  "competition": "Scottish Premiership",
+  "home": "Rangers",
+  "away": "Celtic",
+  "kickoff": "2027-01-03T12:00:00+00:00",
+  "channels": [
+   "Sky Sports Main Event",
+   "Sky Sports Football"
+  ],
+  "updated": "2026-11-18T11:05:02.684902+00:00"
  },
  {
   "id": "2027-01-03-chelsea-v-newcastle-united",
@@ -4100,8 +4189,11 @@
   "home": "Chelsea",
   "away": "Newcastle United",
   "kickoff": "2027-01-03T14:00:00+00:00",
-  "channels": [],
-  "updated": "2026-10-27T15:41:39.547571+00:00"
+  "channels": [
+   "Sky Sports Main Event",
+   "Sky Sports Premier League"
+  ],
+  "updated": "2026-11-18T11:05:02.684902+00:00"
  },
  {
   "id": "2027-01-03-manchester-city-v-tottenham-hotspur",
@@ -4110,8 +4202,11 @@
   "home": "Manchester City",
   "away": "Tottenham Hotspur",
   "kickoff": "2027-01-03T16:30:00+00:00",
-  "channels": [],
-  "updated": "2026-10-27T15:41:39.547571+00:00"
+  "channels": [
+   "Sky Sports Main Event",
+   "Sky Sports Premier League"
+  ],
+  "updated": "2026-11-18T11:05:02.684902+00:00"
  },
  {
   "id": "2027-01-05-arsenal-v-brentford",
