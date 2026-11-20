@@ -4217,8 +4217,10 @@
   "home": "Arsenal",
   "away": "Brentford",
   "kickoff": "2027-01-05T19:30:00+00:00",
-  "channels": [],
-  "updated": "2026-10-27T15:41:39.547571+00:00"
+  "channels": [
+   "Sky Sports Main Event"
+  ],
+  "updated": "2026-11-20T11:05:01.924533+00:00"
  },
  {
   "id": "2027-01-05-brighton-and-hove-albion-v-bournemouth",
@@ -4227,8 +4229,10 @@
   "home": "Brighton and Hove Albion",
   "away": "Bournemouth",
   "kickoff": "2027-01-05T19:30:00+00:00",
-  "channels": [],
-  "updated": "2026-10-27T15:41:39.547571+00:00"
+  "channels": [
+   "Sky Sports+"
+  ],
+  "updated": "2026-11-20T11:05:01.924533+00:00"
  },
  {
   "id": "2027-01-05-everton-v-aston-villa",
@@ -4237,8 +4241,10 @@
   "home": "Everton",
   "away": "Aston Villa",
   "kickoff": "2027-01-05T19:30:00+00:00",
-  "channels": [],
-  "updated": "2026-10-27T15:41:39.547571+00:00"
+  "channels": [
+   "Sky Sports Football"
+  ],
+  "updated": "2026-11-20T11:05:01.924533+00:00"
  },
  {
   "id": "2027-01-05-nottingham-forest-v-hull-city",
@@ -4247,8 +4253,10 @@
   "home": "Nottingham Forest",
   "away": "Hull City",
   "kickoff": "2027-01-05T19:30:00+00:00",
-  "channels": [],
-  "updated": "2026-10-27T15:41:39.547571+00:00"
+  "channels": [
+   "Sky Sports Cricket"
+  ],
+  "updated": "2026-11-20T11:05:01.924533+00:00"
  },
  {
   "id": "2027-01-05-sunderland-v-liverpool",
@@ -4257,8 +4265,10 @@
   "home": "Sunderland",
   "away": "Liverpool",
   "kickoff": "2027-01-05T20:15:00+00:00",
-  "channels": [],
-  "updated": "2026-10-27T15:41:39.547571+00:00"
+  "channels": [
+   "Sky Sports Premier League"
+  ],
+  "updated": "2026-11-20T11:05:01.924533+00:00"
  },
  {
   "id": "2027-01-06-crystal-palace-v-chelsea",
@@ -4267,8 +4277,10 @@
   "home": "Crystal Palace",
   "away": "Chelsea",
   "kickoff": "2027-01-06T19:30:00+00:00",
-  "channels": [],
-  "updated": "2026-10-27T15:41:39.547571+00:00"
+  "channels": [
+   "Sky Sports Main Event"
+  ],
+  "updated": "2026-11-20T11:05:01.924533+00:00"
  },
  {
   "id": "2027-01-06-fulham-v-tottenham-hotspur",
@@ -4277,8 +4289,10 @@
   "home": "Fulham",
   "away": "Tottenham Hotspur",
   "kickoff": "2027-01-06T19:30:00+00:00",
-  "channels": [],
-  "updated": "2026-10-27T15:41:39.547571+00:00"
+  "channels": [
+   "Sky Sports Football"
+  ],
+  "updated": "2026-11-20T11:05:01.924533+00:00"
  },
  {
   "id": "2027-01-06-ipswich-town-v-coventry-city",
@@ -4287,8 +4301,10 @@
   "home": "Ipswich Town",
   "away": "Coventry City",
   "kickoff": "2027-01-06T19:30:00+00:00",
-  "channels": [],
-  "updated": "2026-10-27T15:41:39.547571+00:00"
+  "channels": [
+   "Sky Sports+"
+  ],
+  "updated": "2026-11-20T11:05:01.924533+00:00"
  },
  {
   "id": "2027-01-06-leeds-united-v-manchester-city",
@@ -4297,8 +4313,10 @@
   "home": "Leeds United",
   "away": "Manchester City",
   "kickoff": "2027-01-06T20:15:00+00:00",
-  "channels": [],
-  "updated": "2026-10-27T15:41:39.547571+00:00"
+  "channels": [
+   "Sky Sports Premier League"
+  ],
+  "updated": "2026-11-20T11:05:01.924533+00:00"
  },
  {
   "id": "2027-01-07-manchester-united-v-newcastle-united",
@@ -4307,48 +4325,11 @@
   "home": "Manchester United",
   "away": "Newcastle United",
   "kickoff": "2027-01-07T20:00:00+00:00",
-  "channels": [],
-  "updated": "2026-10-27T15:41:39.547571+00:00"
- },
- {
-  "id": "2027-01-16-aston-villa-v-manchester-united",
-  "url": "https://football-tv.today/match/2027-01-16-aston-villa-v-manchester-united/",
-  "competition": "Premier League",
-  "home": "Aston Villa",
-  "away": "Manchester United",
-  "kickoff": "2027-01-16T15:00:00+00:00",
-  "channels": [],
-  "updated": "2026-10-27T15:41:39.547571+00:00"
- },
- {
-  "id": "2027-01-16-bournemouth-v-ipswich-town",
-  "url": "https://football-tv.today/match/2027-01-16-bournemouth-v-ipswich-town/",
-  "competition": "Premier League",
-  "home": "Bournemouth",
-  "away": "Ipswich Town",
-  "kickoff": "2027-01-16T15:00:00+00:00",
-  "channels": [],
-  "updated": "2026-10-27T15:41:39.547571+00:00"
- },
- {
-  "id": "2027-01-16-brentford-v-brighton-and-hove-albion",
-  "url": "https://football-tv.today/match/2027-01-16-brentford-v-brighton-and-hove-albion/",
-  "competition": "Premier League",
-  "home": "Brentford",
-  "away": "Brighton and Hove Albion",
-  "kickoff": "2027-01-16T15:00:00+00:00",
-  "channels": [],
-  "updated": "2026-10-27T15:41:39.547571+00:00"
- },
- {
-  "id": "2027-01-16-chelsea-v-sunderland",
-  "url": "https://football-tv.today/match/2027-01-16-chelsea-v-sunderland/",
-  "competition": "Premier League",
-  "home": "Chelsea",
-  "away": "Sunderland",
-  "kickoff": "2027-01-16T15:00:00+00:00",
-  "channels": [],
-  "updated": "2026-10-27T15:41:39.547571+00:00"
+  "channels": [
+   "Sky Sports Main Event",
+   "Sky Sports Premier League"
+  ],
+  "updated": "2026-11-20T11:05:01.924533+00:00"
  },
  {
   "id": "2027-01-16-coventry-city-v-everton",
@@ -4356,6 +4337,16 @@
   "competition": "Premier League",
   "home": "Coventry City",
   "away": "Everton",
+  "kickoff": "2027-01-16T12:30:00+00:00",
+  "channels": [],
+  "updated": "2026-11-20T11:05:01.924533+00:00"
+ },
+ {
+  "id": "2027-01-16-chelsea-v-sunderland",
+  "url": "https://football-tv.today/match/2027-01-16-chelsea-v-sunderland/",
+  "competition": "Premier League",
+  "home": "Chelsea",
+  "away": "Sunderland",
   "kickoff": "2027-01-16T15:00:00+00:00",
   "channels": [],
   "updated": "2026-10-27T15:41:39.547571+00:00"
@@ -4401,54 +4392,44 @@
   "updated": "2026-10-27T15:41:39.547571+00:00"
  },
  {
+  "id": "2027-01-16-aston-villa-v-manchester-united",
+  "url": "https://football-tv.today/match/2027-01-16-aston-villa-v-manchester-united/",
+  "competition": "Premier League",
+  "home": "Aston Villa",
+  "away": "Manchester United",
+  "kickoff": "2027-01-16T17:30:00+00:00",
+  "channels": [],
+  "updated": "2026-11-20T11:05:01.924533+00:00"
+ },
+ {
+  "id": "2027-01-16-bournemouth-v-ipswich-town",
+  "url": "https://football-tv.today/match/2027-01-16-bournemouth-v-ipswich-town/",
+  "competition": "Premier League",
+  "home": "Bournemouth",
+  "away": "Ipswich Town",
+  "kickoff": "2027-01-17T14:00:00+00:00",
+  "channels": [],
+  "updated": "2026-11-20T11:05:01.924533+00:00"
+ },
+ {
   "id": "2027-01-16-tottenham-hotspur-v-leeds-united",
   "url": "https://football-tv.today/match/2027-01-16-tottenham-hotspur-v-leeds-united/",
   "competition": "Premier League",
   "home": "Tottenham Hotspur",
   "away": "Leeds United",
-  "kickoff": "2027-01-16T15:00:00+00:00",
+  "kickoff": "2027-01-17T16:30:00+00:00",
   "channels": [],
-  "updated": "2026-10-27T15:41:39.547571+00:00"
+  "updated": "2026-11-20T11:05:01.924533+00:00"
  },
  {
-  "id": "2027-01-23-arsenal-v-newcastle-united",
-  "url": "https://football-tv.today/match/2027-01-23-arsenal-v-newcastle-united/",
+  "id": "2027-01-16-brentford-v-brighton-and-hove-albion",
+  "url": "https://football-tv.today/match/2027-01-16-brentford-v-brighton-and-hove-albion/",
   "competition": "Premier League",
-  "home": "Arsenal",
-  "away": "Newcastle United",
-  "kickoff": "2027-01-23T15:00:00+00:00",
+  "home": "Brentford",
+  "away": "Brighton and Hove Albion",
+  "kickoff": "2027-01-18T20:00:00+00:00",
   "channels": [],
-  "updated": "2026-10-27T15:41:39.547571+00:00"
- },
- {
-  "id": "2027-01-23-brighton-and-hove-albion-v-manchester-city",
-  "url": "https://football-tv.today/match/2027-01-23-brighton-and-hove-albion-v-manchester-city/",
-  "competition": "Premier League",
-  "home": "Brighton and Hove Albion",
-  "away": "Manchester City",
-  "kickoff": "2027-01-23T15:00:00+00:00",
-  "channels": [],
-  "updated": "2026-10-27T15:41:39.547571+00:00"
- },
- {
-  "id": "2027-01-23-crystal-palace-v-tottenham-hotspur",
-  "url": "https://football-tv.today/match/2027-01-23-crystal-palace-v-tottenham-hotspur/",
-  "competition": "Premier League",
-  "home": "Crystal Palace",
-  "away": "Tottenham Hotspur",
-  "kickoff": "2027-01-23T15:00:00+00:00",
-  "channels": [],
-  "updated": "2026-10-27T15:41:39.547571+00:00"
- },
- {
-  "id": "2027-01-23-everton-v-brentford",
-  "url": "https://football-tv.today/match/2027-01-23-everton-v-brentford/",
-  "competition": "Premier League",
-  "home": "Everton",
-  "away": "Brentford",
-  "kickoff": "2027-01-23T15:00:00+00:00",
-  "channels": [],
-  "updated": "2026-10-27T15:41:39.547571+00:00"
+  "updated": "2026-11-20T11:05:01.924533+00:00"
  },
  {
   "id": "2027-01-23-fulham-v-aston-villa",
@@ -4471,24 +4452,44 @@
   "updated": "2026-10-27T15:41:39.547571+00:00"
  },
  {
-  "id": "2027-01-23-leeds-united-v-chelsea",
-  "url": "https://football-tv.today/match/2027-01-23-leeds-united-v-chelsea/",
+  "id": "2027-01-23-arsenal-v-newcastle-united",
+  "url": "https://football-tv.today/match/2027-01-23-arsenal-v-newcastle-united/",
   "competition": "Premier League",
-  "home": "Leeds United",
-  "away": "Chelsea",
-  "kickoff": "2027-01-23T15:00:00+00:00",
+  "home": "Arsenal",
+  "away": "Newcastle United",
+  "kickoff": "2027-01-23T17:30:00+00:00",
   "channels": [],
-  "updated": "2026-10-27T15:41:39.547571+00:00"
+  "updated": "2026-11-20T11:05:01.924533+00:00"
  },
  {
-  "id": "2027-01-23-manchester-united-v-liverpool",
-  "url": "https://football-tv.today/match/2027-01-23-manchester-united-v-liverpool/",
+  "id": "2027-01-23-brighton-and-hove-albion-v-manchester-city",
+  "url": "https://football-tv.today/match/2027-01-23-brighton-and-hove-albion-v-manchester-city/",
   "competition": "Premier League",
-  "home": "Manchester United",
-  "away": "Liverpool",
-  "kickoff": "2027-01-23T15:00:00+00:00",
+  "home": "Brighton and Hove Albion",
+  "away": "Manchester City",
+  "kickoff": "2027-01-23T20:00:00+00:00",
   "channels": [],
-  "updated": "2026-10-27T15:41:39.547571+00:00"
+  "updated": "2026-11-20T11:05:01.924533+00:00"
+ },
+ {
+  "id": "2027-01-23-crystal-palace-v-tottenham-hotspur",
+  "url": "https://football-tv.today/match/2027-01-23-crystal-palace-v-tottenham-hotspur/",
+  "competition": "Premier League",
+  "home": "Crystal Palace",
+  "away": "Tottenham Hotspur",
+  "kickoff": "2027-01-24T14:00:00+00:00",
+  "channels": [],
+  "updated": "2026-11-20T11:05:01.924533+00:00"
+ },
+ {
+  "id": "2027-01-23-everton-v-brentford",
+  "url": "https://football-tv.today/match/2027-01-23-everton-v-brentford/",
+  "competition": "Premier League",
+  "home": "Everton",
+  "away": "Brentford",
+  "kickoff": "2027-01-24T14:00:00+00:00",
+  "channels": [],
+  "updated": "2026-11-20T11:05:01.924533+00:00"
  },
  {
   "id": "2027-01-23-nottingham-forest-v-bournemouth",
@@ -4496,9 +4497,9 @@
   "competition": "Premier League",
   "home": "Nottingham Forest",
   "away": "Bournemouth",
-  "kickoff": "2027-01-23T15:00:00+00:00",
+  "kickoff": "2027-01-24T14:00:00+00:00",
   "channels": [],
-  "updated": "2026-10-27T15:41:39.547571+00:00"
+  "updated": "2026-11-20T11:05:01.924533+00:00"
  },
  {
   "id": "2027-01-23-sunderland-v-coventry-city",
@@ -4506,69 +4507,29 @@
   "competition": "Premier League",
   "home": "Sunderland",
   "away": "Coventry City",
-  "kickoff": "2027-01-23T15:00:00+00:00",
+  "kickoff": "2027-01-24T14:00:00+00:00",
   "channels": [],
-  "updated": "2026-10-27T15:41:39.547571+00:00"
+  "updated": "2026-11-20T11:05:01.924533+00:00"
  },
  {
-  "id": "2027-01-30-aston-villa-v-ipswich-town",
-  "url": "https://football-tv.today/match/2027-01-30-aston-villa-v-ipswich-town/",
+  "id": "2027-01-23-manchester-united-v-liverpool",
+  "url": "https://football-tv.today/match/2027-01-23-manchester-united-v-liverpool/",
   "competition": "Premier League",
-  "home": "Aston Villa",
-  "away": "Ipswich Town",
-  "kickoff": "2027-01-30T15:00:00+00:00",
+  "home": "Manchester United",
+  "away": "Liverpool",
+  "kickoff": "2027-01-24T16:30:00+00:00",
   "channels": [],
-  "updated": "2026-10-27T15:41:39.547571+00:00"
+  "updated": "2026-11-20T11:05:01.924533+00:00"
  },
  {
-  "id": "2027-01-30-bournemouth-v-fulham",
-  "url": "https://football-tv.today/match/2027-01-30-bournemouth-v-fulham/",
+  "id": "2027-01-23-leeds-united-v-chelsea",
+  "url": "https://football-tv.today/match/2027-01-23-leeds-united-v-chelsea/",
   "competition": "Premier League",
-  "home": "Bournemouth",
-  "away": "Fulham",
-  "kickoff": "2027-01-30T15:00:00+00:00",
+  "home": "Leeds United",
+  "away": "Chelsea",
+  "kickoff": "2027-01-25T20:00:00+00:00",
   "channels": [],
-  "updated": "2026-10-27T15:41:39.547571+00:00"
- },
- {
-  "id": "2027-01-30-brentford-v-manchester-united",
-  "url": "https://football-tv.today/match/2027-01-30-brentford-v-manchester-united/",
-  "competition": "Premier League",
-  "home": "Brentford",
-  "away": "Manchester United",
-  "kickoff": "2027-01-30T15:00:00+00:00",
-  "channels": [],
-  "updated": "2026-10-27T15:41:39.547571+00:00"
- },
- {
-  "id": "2027-01-30-chelsea-v-nottingham-forest",
-  "url": "https://football-tv.today/match/2027-01-30-chelsea-v-nottingham-forest/",
-  "competition": "Premier League",
-  "home": "Chelsea",
-  "away": "Nottingham Forest",
-  "kickoff": "2027-01-30T15:00:00+00:00",
-  "channels": [],
-  "updated": "2026-10-27T15:41:39.547571+00:00"
- },
- {
-  "id": "2027-01-30-coventry-city-v-leeds-united",
-  "url": "https://football-tv.today/match/2027-01-30-coventry-city-v-leeds-united/",
-  "competition": "Premier League",
-  "home": "Coventry City",
-  "away": "Leeds United",
-  "kickoff": "2027-01-30T15:00:00+00:00",
-  "channels": [],
-  "updated": "2026-10-27T15:41:39.547571+00:00"
- },
- {
-  "id": "2027-01-30-hull-city-v-crystal-palace",
-  "url": "https://football-tv.today/match/2027-01-30-hull-city-v-crystal-palace/",
-  "competition": "Premier League",
-  "home": "Hull City",
-  "away": "Crystal Palace",
-  "kickoff": "2027-01-30T15:00:00+00:00",
-  "channels": [],
-  "updated": "2026-10-27T15:41:39.547571+00:00"
+  "updated": "2026-11-20T11:05:01.924533+00:00"
  },
  {
   "id": "2027-01-30-liverpool-v-everton",
@@ -4576,16 +4537,16 @@
   "competition": "Premier League",
   "home": "Liverpool",
   "away": "Everton",
-  "kickoff": "2027-01-30T15:00:00+00:00",
+  "kickoff": "2027-01-30T12:30:00+00:00",
   "channels": [],
-  "updated": "2026-10-27T15:41:39.547571+00:00"
+  "updated": "2026-11-20T11:05:01.924533+00:00"
  },
  {
-  "id": "2027-01-30-manchester-city-v-arsenal",
-  "url": "https://football-tv.today/match/2027-01-30-manchester-city-v-arsenal/",
+  "id": "2027-01-30-aston-villa-v-ipswich-town",
+  "url": "https://football-tv.today/match/2027-01-30-aston-villa-v-ipswich-town/",
   "competition": "Premier League",
-  "home": "Manchester City",
-  "away": "Arsenal",
+  "home": "Aston Villa",
+  "away": "Ipswich Town",
   "kickoff": "2027-01-30T15:00:00+00:00",
   "channels": [],
   "updated": "2026-10-27T15:41:39.547571+00:00"
@@ -4601,14 +4562,74 @@
   "updated": "2026-10-27T15:41:39.547571+00:00"
  },
  {
+  "id": "2027-01-30-chelsea-v-nottingham-forest",
+  "url": "https://football-tv.today/match/2027-01-30-chelsea-v-nottingham-forest/",
+  "competition": "Premier League",
+  "home": "Chelsea",
+  "away": "Nottingham Forest",
+  "kickoff": "2027-01-30T17:30:00+00:00",
+  "channels": [],
+  "updated": "2026-11-20T11:05:01.924533+00:00"
+ },
+ {
+  "id": "2027-01-30-bournemouth-v-fulham",
+  "url": "https://football-tv.today/match/2027-01-30-bournemouth-v-fulham/",
+  "competition": "Premier League",
+  "home": "Bournemouth",
+  "away": "Fulham",
+  "kickoff": "2027-01-31T14:00:00+00:00",
+  "channels": [],
+  "updated": "2026-11-20T11:05:01.924533+00:00"
+ },
+ {
+  "id": "2027-01-30-coventry-city-v-leeds-united",
+  "url": "https://football-tv.today/match/2027-01-30-coventry-city-v-leeds-united/",
+  "competition": "Premier League",
+  "home": "Coventry City",
+  "away": "Leeds United",
+  "kickoff": "2027-01-31T14:00:00+00:00",
+  "channels": [],
+  "updated": "2026-11-20T11:05:01.924533+00:00"
+ },
+ {
+  "id": "2027-01-30-hull-city-v-crystal-palace",
+  "url": "https://football-tv.today/match/2027-01-30-hull-city-v-crystal-palace/",
+  "competition": "Premier League",
+  "home": "Hull City",
+  "away": "Crystal Palace",
+  "kickoff": "2027-01-31T14:00:00+00:00",
+  "channels": [],
+  "updated": "2026-11-20T11:05:01.924533+00:00"
+ },
+ {
   "id": "2027-01-30-tottenham-hotspur-v-sunderland",
   "url": "https://football-tv.today/match/2027-01-30-tottenham-hotspur-v-sunderland/",
   "competition": "Premier League",
   "home": "Tottenham Hotspur",
   "away": "Sunderland",
-  "kickoff": "2027-01-30T15:00:00+00:00",
+  "kickoff": "2027-01-31T14:00:00+00:00",
   "channels": [],
-  "updated": "2026-10-27T15:41:39.547571+00:00"
+  "updated": "2026-11-20T11:05:01.924533+00:00"
+ },
+ {
+  "id": "2027-01-30-manchester-city-v-arsenal",
+  "url": "https://football-tv.today/match/2027-01-30-manchester-city-v-arsenal/",
+  "competition": "Premier League",
+  "home": "Manchester City",
+  "away": "Arsenal",
+  "kickoff": "2027-01-31T16:30:00+00:00",
+  "channels": [],
+  "updated": "2026-11-20T11:05:01.924533+00:00"
+ },
+ {
+  "id": "2027-01-30-brentford-v-manchester-united",
+  "url": "https://football-tv.today/match/2027-01-30-brentford-v-manchester-united/",
+  "competition": "Premier League",
+  "home": "Brentford",
+  "away": "Manchester United",
+  "kickoff": "2027-02-01T20:00:00+00:00",
+  "channels": [],
+  "updated": "2026-11-20T11:05:01.924533+00:00"
  },
  {
   "id": "2027-02-06-arsenal-v-liverpool",
