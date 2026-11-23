@@ -1,44 +1,5 @@
 [
  {
-  "id": "2026-11-22-burnley-v-blackburn-rovers",
-  "url": "https://football-tv.today/match/2026-11-22-burnley-v-blackburn-rovers/",
-  "competition": "Championship",
-  "home": "Burnley",
-  "away": "Blackburn Rovers",
-  "kickoff": "2026-11-22T12:00:00+00:00",
-  "channels": [
-   "Sky Sports Main Event",
-   "Sky Sports Football"
-  ],
-  "updated": "2026-10-27T13:32:49.092113+00:00"
- },
- {
-  "id": "2026-11-22-hull-city-v-brighton-and-hove-albion",
-  "url": "https://football-tv.today/match/2026-11-22-hull-city-v-brighton-and-hove-albion/",
-  "competition": "Premier League",
-  "home": "Hull City",
-  "away": "Brighton and Hove Albion",
-  "kickoff": "2026-11-22T14:00:00+00:00",
-  "channels": [
-   "Sky Sports Main Event",
-   "Sky Sports Premier League"
-  ],
-  "updated": "2026-10-27T15:41:39.547571+00:00"
- },
- {
-  "id": "2026-11-22-liverpool-v-manchester-united",
-  "url": "https://football-tv.today/match/2026-11-22-liverpool-v-manchester-united/",
-  "competition": "Premier League",
-  "home": "Liverpool",
-  "away": "Manchester United",
-  "kickoff": "2026-11-22T16:30:00+00:00",
-  "channels": [
-   "Sky Sports Main Event",
-   "Sky Sports Premier League"
-  ],
-  "updated": "2026-10-27T15:41:39.547571+00:00"
- },
- {
   "id": "2026-11-23-brentford-v-everton",
   "url": "https://football-tv.today/match/2026-11-23-brentford-v-everton/",
   "competition": "Premier League",
