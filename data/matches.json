@@ -6,8 +6,10 @@
   "home": "Bodø/Glimt",
   "away": "LASK",
   "kickoff": "2026-11-24T17:45:00+00:00",
-  "channels": [],
-  "updated": "2026-11-05T09:54:10.824580+00:00"
+  "channels": [
+   "TNT Sports 4"
+  ],
+  "updated": "2026-11-24T11:05:02.232562+00:00"
  },
  {
   "id": "2026-11-24-galatasaray-v-aston-villa",
@@ -16,8 +18,10 @@
   "home": "Galatasaray",
   "away": "Aston Villa",
   "kickoff": "2026-11-24T17:45:00+00:00",
-  "channels": [],
-  "updated": "2026-11-05T09:54:10.824580+00:00"
+  "channels": [
+   "TNT Sports 2"
+  ],
+  "updated": "2026-11-24T11:05:02.232562+00:00"
  },
  {
   "id": "2026-11-24-fleetwood-town-v-leeds-united-u21",
@@ -226,8 +230,10 @@
   "home": "Como",
   "away": "AEK Athens",
   "kickoff": "2026-11-24T20:00:00+00:00",
-  "channels": [],
-  "updated": "2026-11-05T09:54:10.824580+00:00"
+  "channels": [
+   "TNT Sports 4"
+  ],
+  "updated": "2026-11-24T11:05:02.232562+00:00"
  },
  {
   "id": "2026-11-24-feyenoord-v-porto",
@@ -236,8 +242,10 @@
   "home": "Feyenoord",
   "away": "Porto",
   "kickoff": "2026-11-24T20:00:00+00:00",
-  "channels": [],
-  "updated": "2026-11-05T09:54:10.824580+00:00"
+  "channels": [
+   "TNT Sports"
+  ],
+  "updated": "2026-11-24T11:05:02.232562+00:00"
  },
  {
   "id": "2026-11-24-manchester-city-v-napoli",
@@ -268,8 +276,10 @@
   "home": "RB Leipzig",
   "away": "Lens",
   "kickoff": "2026-11-24T20:00:00+00:00",
-  "channels": [],
-  "updated": "2026-11-05T09:54:10.824580+00:00"
+  "channels": [
+   "TNT Sports"
+  ],
+  "updated": "2026-11-24T11:05:02.232562+00:00"
  },
  {
   "id": "2026-11-24-real-madrid-v-psv",
@@ -278,8 +288,10 @@
   "home": "Real Madrid",
   "away": "PSV",
   "kickoff": "2026-11-24T20:00:00+00:00",
-  "channels": [],
-  "updated": "2026-11-05T09:54:10.824580+00:00"
+  "channels": [
+   "TNT Sports 2"
+  ],
+  "updated": "2026-11-24T11:05:02.232562+00:00"
  },
  {
   "id": "2026-11-24-slovan-bratislava-v-real-betis",
@@ -288,8 +300,10 @@
   "home": "Slovan Bratislava",
   "away": "Real Betis",
   "kickoff": "2026-11-24T20:00:00+00:00",
-  "channels": [],
-  "updated": "2026-11-05T09:54:10.824580+00:00"
+  "channels": [
+   "TNT Sports"
+  ],
+  "updated": "2026-11-24T11:05:02.232562+00:00"
  },
  {
   "id": "2026-11-24-wolverhampton-wanderers-v-derby-county",
@@ -4058,6 +4072,139 @@
    "Sky Sports Premier League"
   ],
   "updated": "2026-11-20T11:05:01.924533+00:00"
+ },
+ {
+  "id": "2027-01-08-burton-albion-v-blackpool",
+  "url": "https://football-tv.today/match/2027-01-08-burton-albion-v-blackpool/",
+  "competition": "League One",
+  "home": "Burton Albion",
+  "away": "Blackpool",
+  "kickoff": "2027-01-08T20:00:00+00:00",
+  "channels": [
+   "Sky Sports Football"
+  ],
+  "updated": "2026-11-24T11:05:02.232562+00:00"
+ },
+ {
+  "id": "2027-01-09-barnet-v-grimsby-town",
+  "url": "https://football-tv.today/match/2027-01-09-barnet-v-grimsby-town/",
+  "competition": "League Two",
+  "home": "Barnet",
+  "away": "Grimsby Town",
+  "kickoff": "2027-01-09T12:30:00+00:00",
+  "channels": [
+   "Sky Sports Football"
+  ],
+  "updated": "2026-11-24T11:05:02.232562+00:00"
+ },
+ {
+  "id": "2027-01-09-chesterfield-v-accrington-stanley",
+  "url": "https://football-tv.today/match/2027-01-09-chesterfield-v-accrington-stanley/",
+  "competition": "League Two",
+  "home": "Chesterfield",
+  "away": "Accrington Stanley",
+  "kickoff": "2027-01-09T12:30:00+00:00",
+  "channels": [
+   "Sky Sports+"
+  ],
+  "updated": "2026-11-24T11:05:02.232562+00:00"
+ },
+ {
+  "id": "2027-01-09-oxford-united-v-afc-wimbledon",
+  "url": "https://football-tv.today/match/2027-01-09-oxford-united-v-afc-wimbledon/",
+  "competition": "League One",
+  "home": "Oxford United",
+  "away": "AFC Wimbledon",
+  "kickoff": "2027-01-09T12:30:00+00:00",
+  "channels": [
+   "Sky Sports+"
+  ],
+  "updated": "2026-11-24T11:05:02.232562+00:00"
+ },
+ {
+  "id": "2027-01-09-shrewsbury-town-v-walsall",
+  "url": "https://football-tv.today/match/2027-01-09-shrewsbury-town-v-walsall/",
+  "competition": "League Two",
+  "home": "Shrewsbury Town",
+  "away": "Walsall",
+  "kickoff": "2027-01-09T12:30:00+00:00",
+  "channels": [
+   "Sky Sports+"
+  ],
+  "updated": "2026-11-24T11:05:02.232562+00:00"
+ },
+ {
+  "id": "2027-01-09-stevenage-v-cambridge-united",
+  "url": "https://football-tv.today/match/2027-01-09-stevenage-v-cambridge-united/",
+  "competition": "League One",
+  "home": "Stevenage",
+  "away": "Cambridge United",
+  "kickoff": "2027-01-09T12:30:00+00:00",
+  "channels": [
+   "Sky Sports+"
+  ],
+  "updated": "2026-11-24T11:05:02.232562+00:00"
+ },
+ {
+  "id": "2027-01-09-dundee-united-v-rangers",
+  "url": "https://football-tv.today/match/2027-01-09-dundee-united-v-rangers/",
+  "competition": "Scottish Premiership",
+  "home": "Dundee United",
+  "away": "Rangers",
+  "kickoff": "2027-01-09T17:30:00+00:00",
+  "channels": [
+   "Sky Sports Football"
+  ],
+  "updated": "2026-11-24T11:05:02.232562+00:00"
+ },
+ {
+  "id": "2027-01-09-monchengladbach-v-bayern-munich",
+  "url": "https://football-tv.today/match/2027-01-09-monchengladbach-v-bayern-munich/",
+  "competition": "Bundesliga",
+  "home": "Mönchengladbach",
+  "away": "Bayern Munich",
+  "kickoff": "2027-01-09T17:30:00+00:00",
+  "channels": [
+   "Sky Sports Main Event",
+   "Sky Sports Football"
+  ],
+  "updated": "2026-11-24T11:05:02.232562+00:00"
+ },
+ {
+  "id": "2027-01-12-notts-county-v-blackpool",
+  "url": "https://football-tv.today/match/2027-01-12-notts-county-v-blackpool/",
+  "competition": "League One",
+  "home": "Notts County",
+  "away": "Blackpool",
+  "kickoff": "2027-01-12T19:45:00+00:00",
+  "channels": [
+   "Sky Sports+"
+  ],
+  "updated": "2026-11-24T11:05:02.232562+00:00"
+ },
+ {
+  "id": "2027-01-13-bayern-munich-v-bayer-leverkusen",
+  "url": "https://football-tv.today/match/2027-01-13-bayern-munich-v-bayer-leverkusen/",
+  "competition": "Bundesliga",
+  "home": "Bayern Munich",
+  "away": "Bayer Leverkusen",
+  "kickoff": "2027-01-13T19:30:00+00:00",
+  "channels": [
+   "Sky Sports+"
+  ],
+  "updated": "2026-11-24T11:05:02.232562+00:00"
+ },
+ {
+  "id": "2026-12-13-st-johnstone-v-rangers",
+  "url": "https://football-tv.today/match/2026-12-13-st-johnstone-v-rangers/",
+  "competition": "Scottish Premiership",
+  "home": "St Johnstone",
+  "away": "Rangers",
+  "kickoff": "2027-01-13T20:00:00+00:00",
+  "channels": [
+   "Sky Sports Football"
+  ],
+  "updated": "2026-11-24T11:05:02.232562+00:00"
  },
  {
   "id": "2027-01-16-coventry-city-v-everton",
