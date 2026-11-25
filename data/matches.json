@@ -6,8 +6,10 @@
   "home": "Sabah",
   "away": "Barcelona",
   "kickoff": "2026-11-25T17:45:00+00:00",
-  "channels": [],
-  "updated": "2026-11-05T09:54:10.824580+00:00"
+  "channels": [
+   "TNT Sports 4"
+  ],
+  "updated": "2026-11-25T11:05:02.315309+00:00"
  },
  {
   "id": "2026-11-25-slavia-prague-v-villarreal",
@@ -16,8 +18,20 @@
   "home": "Slavia Prague",
   "away": "Villarreal",
   "kickoff": "2026-11-25T17:45:00+00:00",
+  "channels": [
+   "TNT Sports"
+  ],
+  "updated": "2026-11-25T11:05:02.315309+00:00"
+ },
+ {
+  "id": "2026-11-24-fleetwood-town-v-leeds-united-u21",
+  "url": "https://football-tv.today/match/2026-11-24-fleetwood-town-v-leeds-united-u21/",
+  "competition": "EFL Trophy",
+  "home": "Fleetwood Town",
+  "away": "Leeds United U21",
+  "kickoff": "2026-11-25T19:00:00+00:00",
   "channels": [],
-  "updated": "2026-11-05T09:54:10.824580+00:00"
+  "updated": "2026-11-25T11:05:02.315309+00:00"
  },
  {
   "id": "2026-11-25-bolton-wanderers-v-west-bromwich-albion",
@@ -62,8 +76,10 @@
   "home": "Atlético Madrid",
   "away": "Viking",
   "kickoff": "2026-11-25T20:00:00+00:00",
-  "channels": [],
-  "updated": "2026-11-05T09:54:10.824580+00:00"
+  "channels": [
+   "TNT Sports"
+  ],
+  "updated": "2026-11-25T11:05:02.315309+00:00"
  },
  {
   "id": "2026-11-25-club-brugge-v-liverpool",
@@ -72,8 +88,10 @@
   "home": "Club Brugge",
   "away": "Liverpool",
   "kickoff": "2026-11-25T20:00:00+00:00",
-  "channels": [],
-  "updated": "2026-11-05T09:54:10.824580+00:00"
+  "channels": [
+   "TNT Sports 2"
+  ],
+  "updated": "2026-11-25T11:05:02.315309+00:00"
  },
  {
   "id": "2026-11-25-inter-milan-v-stuttgart",
@@ -82,8 +100,10 @@
   "home": "Inter Milan",
   "away": "Stuttgart",
   "kickoff": "2026-11-25T20:00:00+00:00",
-  "channels": [],
-  "updated": "2026-11-05T09:54:10.824580+00:00"
+  "channels": [
+   "TNT Sports"
+  ],
+  "updated": "2026-11-25T11:05:02.315309+00:00"
  },
  {
   "id": "2026-11-25-lille-v-bayern-munich",
@@ -92,8 +112,10 @@
   "home": "Lille",
   "away": "Bayern Munich",
   "kickoff": "2026-11-25T20:00:00+00:00",
-  "channels": [],
-  "updated": "2026-11-05T09:54:10.824580+00:00"
+  "channels": [
+   "TNT Sports"
+  ],
+  "updated": "2026-11-25T11:05:02.315309+00:00"
  },
  {
   "id": "2026-11-25-paris-saint-germain-v-roma",
@@ -102,8 +124,10 @@
   "home": "Paris Saint-Germain",
   "away": "Roma",
   "kickoff": "2026-11-25T20:00:00+00:00",
-  "channels": [],
-  "updated": "2026-11-05T09:54:10.824580+00:00"
+  "channels": [
+   "TNT Sports 4"
+  ],
+  "updated": "2026-11-25T11:05:02.315309+00:00"
  },
  {
   "id": "2026-11-25-shakhtar-donetsk-v-fenerbahce",
@@ -112,8 +136,10 @@
   "home": "Shakhtar Donetsk",
   "away": "Fenerbahçe",
   "kickoff": "2026-11-25T20:00:00+00:00",
-  "channels": [],
-  "updated": "2026-11-05T09:54:10.824580+00:00"
+  "channels": [
+   "TNT Sports"
+  ],
+  "updated": "2026-11-25T11:05:02.315309+00:00"
  },
  {
   "id": "2026-11-25-sporting-cp-v-manchester-united",
@@ -484,6 +510,18 @@
    "Sky Sports Football"
   ],
   "updated": "2026-11-07T00:30:02.885567+00:00"
+ },
+ {
+  "id": "2026-11-28-motherwell-v-hibernian",
+  "url": "https://football-tv.today/match/2026-11-28-motherwell-v-hibernian/",
+  "competition": "Scottish Premiership",
+  "home": "Motherwell",
+  "away": "Hibernian",
+  "kickoff": "2026-11-28T17:45:00+00:00",
+  "channels": [
+   "Premier Sports"
+  ],
+  "updated": "2026-11-25T11:05:02.315309+00:00"
  },
  {
   "id": "2026-11-29-everton-v-liverpool",
